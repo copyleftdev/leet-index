@@ -1,0 +1,80 @@
+name: Update Leaderboard
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: leet-pipeline
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - run: npm ci
+
+      - name: Detect batch index
+        id: batch
+        run: |
+          HOUR=$(date -u +%-H)
+          INDEX=$((HOUR % 24))
+          echo "index=$INDEX" >> "$GITHUB_OUTPUT"
+          echo "Batch index: $INDEX"
+
+      - name: Run batch
+        env:
+          GITHUB_TOKEN: ${{ secrets.LEET_GITHUB_TOKEN }}
+        run: node scripts/run-all.js ${{ steps.batch.outputs.index }}
+
+      - name: Commit leaderboard update
+        run: |
+          git config user.name  "leetindex-bot"
+          git config user.email "bot@leetindex.dev"
+
+          if git diff --quiet -- public/data.json; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git add public/data.json
+          git commit -m "chore: batch ${{ steps.batch.outputs.index }} update"
+
+          if git push origin HEAD:main; then
+            exit 0
+          fi
+
+          echo "Push conflict — rebasing onto latest main and retrying."
+          git fetch origin main
+          git pull --rebase origin main
+          git push origin HEAD:main
+
+      - name: Build site
+        run: npm run build
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,40 @@
+{
+  "version": "1.0",
+  "stars": {
+    "cap": 5000,
+    "max_points": 600,
+    "description": "Stars across all public repos, capped at 5000"
+  },
+  "followers": {
+    "cap": 3000,
+    "max_points": 500,
+    "description": "GitHub followers, capped at 3000"
+  },
+  "activity": {
+    "window_days": 30,
+    "decay_constant": 60,
+    "max_points": 500,
+    "description": "Meaningful events in last 30 days (push, PR, issue, release) — diminishing returns"
+  },
+  "repos": {
+    "cap": 200,
+    "max_points": 100,
+    "description": "Public repo count, capped at 200"
+  },
+  "new_account_multiplier": 0.5,
+  "new_account_threshold_days": 180,
+  "eligibility": {
+    "min_contributions_60d": 30,
+    "max_inactivity_gap_days": 30,
+    "min_account_age_days": 30,
+    "min_public_repos": 3,
+    "min_followers": 1
+  },
+  "tiers": {
+    "INIT":    { "min": 0,    "max": 149,  "label": "INIT",    "git_op": "git init" },
+    "COMMIT":  { "min": 150,  "max": 349,  "label": "COMMIT",  "git_op": "git commit" },
+    "MERGE":   { "min": 350,  "max": 699,  "label": "MERGE",   "git_op": "git merge" },
+    "RELEASE": { "min": 700,  "max": 1199, "label": "RELEASE", "git_op": "git tag -a v1.0" },
+    "LEGEND":  { "min": 1200, "max": 9999, "label": "LEGEND",  "git_op": "git push --force-with-lease origin main" }
+  }
+}

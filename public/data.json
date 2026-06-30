@@ -1,0 +1,794 @@
+{
+  "generated_at": "2026-06-29T12:00:00Z",
+  "total_indexed": 20,
+  "batch_coverage": {
+    "current": 0,
+    "total": 24,
+    "next_batch_at": "2026-06-29T13:00:00Z"
+  },
+  "leaderboard": [
+    {
+      "rank": 1,
+      "username": "kentcdodds",
+      "name": "Kent C. Dodds",
+      "avatar_url": "https://github.com/kentcdodds.png",
+      "location": "Salt Lake City, UT",
+      "state": "UT",
+      "score": 1568,
+      "tier": "LEGEND",
+      "rank_delta": 0,
+      "streak_days": 61,
+      "followers": 34850,
+      "public_repos": 750,
+      "events_30d": 80,
+      "total_stars": 10688,
+      "top_languages": [
+        "JavaScript",
+        "TypeScript",
+        "MDX"
+      ],
+      "tags": [
+        "Testing",
+        "Web",
+        "Education"
+      ],
+      "achievements": [
+        "LEGEND_TIER",
+        "STARS_10K",
+        "FOLLOWERS_1K",
+        "STREAK_30",
+        "STATE_1"
+      ],
+      "score_breakdown": {
+        "stars": 600,
+        "activity": 368,
+        "followers": 500,
+        "repos": 100
+      },
+      "account_age_days": 4680
+    },
+    {
+      "rank": 2,
+      "username": "JakeWharton",
+      "name": "Jake Wharton",
+      "avatar_url": "https://github.com/JakeWharton.png",
+      "location": "Pittsburgh, PA",
+      "state": "PA",
+      "score": 1520,
+      "tier": "LEGEND",
+      "rank_delta": 1,
+      "streak_days": 44,
+      "followers": 68385,
+      "public_repos": 152,
+      "events_30d": 70,
+      "total_stars": 80257,
+      "top_languages": [
+        "Kotlin",
+        "Java",
+        "Swift"
+      ],
+      "tags": [
+        "Android",
+        "Mobile",
+        "Open Source"
+      ],
+      "achievements": [
+        "LEGEND_TIER",
+        "STARS_10K",
+        "FOLLOWERS_1K",
+        "STREAK_30",
+        "STATE_1"
+      ],
+      "score_breakdown": {
+        "stars": 600,
+        "activity": 344,
+        "followers": 500,
+        "repos": 76
+      },
+      "account_age_days": 5508
+    },
+    {
+      "rank": 3,
+      "username": "addyosmani",
+      "name": "Addy Osmani",
+      "avatar_url": "https://github.com/addyosmani.png",
+      "location": "Sunnyvale, CA",
+      "state": "CA",
+      "score": 1516,
+      "tier": "LEGEND",
+      "rank_delta": -1,
+      "streak_days": 38,
+      "followers": 50617,
+      "public_repos": 358,
+      "events_30d": 60,
+      "total_stars": 110963,
+      "top_languages": [
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "tags": [
+        "Web",
+        "Performance",
+        "Tooling"
+      ],
+      "achievements": [
+        "LEGEND_TIER",
+        "STARS_10K",
+        "FOLLOWERS_1K",
+        "STREAK_7",
+        "STATE_1"
+      ],
+      "score_breakdown": {
+        "stars": 600,
+        "activity": 316,
+        "followers": 500,
+        "repos": 100
+      },
+      "account_age_days": 5999
+    },
+    {
+      "rank": 4,
+      "username": "kelseyhightower",
+      "name": "Kelsey Hightower",
+      "avatar_url": "https://github.com/kelseyhightower.png",
+      "location": "Seattle, WA",
+      "state": "WA",
+      "score": 1462,
+      "tier": "LEGEND",
+      "rank_delta": 2,
+      "streak_days": 29,
+      "followers": 24310,
+      "public_repos": 196,
+      "events_30d": 45,
+      "total_stars": 20918,
+      "top_languages": [
+        "Go",
+        "Python",
+        "Shell"
+      ],
+      "tags": [
+        "Cloud",
+        "DevOps",
+        "Kubernetes"
+      ],
+      "achievements": [
+        "LEGEND_TIER",
+        "STARS_10K",
+        "FOLLOWERS_1K",
+        "STREAK_7",
+        "STATE_1"
+      ],
+      "score_breakdown": {
+        "stars": 600,
+        "activity": 264,
+        "followers": 500,
+        "repos": 98
+      },
+      "account_age_days": 5374
+    },
+    {
+      "rank": 5,
+      "username": "spf13",
+      "name": "Steve Francia",
+      "avatar_url": "https://github.com/spf13.png",
+      "location": "New York, NY",
+      "state": "NY",
+      "score": 1440,
+      "tier": "LEGEND",
+      "rank_delta": 0,
+      "streak_days": 22,
+      "followers": 16366,
+      "public_repos": 115,
+      "events_30d": 50,
+      "total_stars": 76645,
+      "top_languages": [
+        "Go",
+        "Markdown",
+        "Shell"
+      ],
+      "tags": [
+        "Tooling",
+        "CLi",
+        "DevOps"
+      ],
+      "achievements": [
+        "LEGEND_TIER",
+        "STARS_10K",
+        "FOLLOWERS_1K",
+        "STREAK_7",
+        "STATE_1"
+      ],
+      "score_breakdown": {
+        "stars": 600,
+        "activity": 283,
+        "followers": 500,
+        "repos": 57
+      },
+      "account_age_days": 6199
+    },
+    {
+      "rank": 6,
+      "username": "rsc",
+      "name": "Russ Cox",
+      "avatar_url": "https://github.com/rsc.png",
+      "location": "Cambridge, MA",
+      "state": "MA",
+      "score": 1422,
+      "tier": "LEGEND",
+      "rank_delta": 0,
+      "streak_days": 19,
+      "followers": 11100,
+      "public_repos": 158,
+      "events_30d": 40,
+      "total_stars": 6452,
+      "top_languages": [
+        "Go",
+        "C",
+        "Shell"
+      ],
+      "tags": [
+        "Systems",
+        "Compilers",
+        "Research"
+      ],
+      "achievements": [
+        "LEGEND_TIER",
+        "STARS_1K",
+        "FOLLOWERS_1K",
+        "STREAK_7",
+        "STATE_1"
+      ],
+      "score_breakdown": {
+        "stars": 600,
+        "activity": 243,
+        "followers": 500,
+        "repos": 79
+      },
+      "account_age_days": 5978
+    },
+    {
+      "rank": 7,
+      "username": "getify",
+      "name": "Kyle Simpson",
+      "avatar_url": "https://github.com/getify.png",
+      "location": "Austin, TX",
+      "state": "TX",
+      "score": 1380,
+      "tier": "LEGEND",
+      "rank_delta": 0,
+      "streak_days": 15,
+      "followers": 45166,
+      "public_repos": 74,
+      "events_30d": 40,
+      "total_stars": 216253,
+      "top_languages": [
+        "JavaScript",
+        "HTML",
+        "C"
+      ],
+      "tags": [
+        "Education",
+        "Web",
+        "Open Source"
+      ],
+      "achievements": [
+        "LEGEND_TIER",
+        "STARS_10K",
+        "FOLLOWERS_1K",
+        "STATE_1"
+      ],
+      "score_breakdown": {
+        "stars": 600,
+        "activity": 243,
+        "followers": 500,
+        "repos": 37
+      },
+      "account_age_days": 6087
+    },
+    {
+      "rank": 8,
+      "username": "tpope",
+      "name": "Tim Pope",
+      "avatar_url": "https://github.com/tpope.png",
+      "location": "Brooklyn, NY",
+      "state": "NY",
+      "score": 1339,
+      "tier": "LEGEND",
+      "rank_delta": -1,
+      "streak_days": 9,
+      "followers": 23318,
+      "public_repos": 85,
+      "events_30d": 30,
+      "total_stars": 108033,
+      "top_languages": [
+        "Vim script",
+        "Ruby",
+        "Shell"
+      ],
+      "tags": [
+        "Editor",
+        "Tooling",
+        "Open Source"
+      ],
+      "achievements": [
+        "LEGEND_TIER",
+        "STARS_10K",
+        "FOLLOWERS_1K"
+      ],
+      "score_breakdown": {
+        "stars": 600,
+        "activity": 197,
+        "followers": 500,
+        "repos": 42
+      },
+      "account_age_days": 6696
+    },
+    {
+      "rank": 9,
+      "username": "benbjohnson",
+      "name": "Ben Johnson",
+      "avatar_url": "https://github.com/benbjohnson.png",
+      "location": "Colorado",
+      "state": "CO",
+      "score": 1295,
+      "tier": "LEGEND",
+      "rank_delta": 0,
+      "streak_days": 5,
+      "followers": 4276,
+      "public_repos": 169,
+      "events_30d": 15,
+      "total_stars": 17698,
+      "top_languages": [
+        "Go",
+        "C",
+        "Shell"
+      ],
+      "tags": [
+        "Systems",
+        "Storage",
+        "Databases"
+      ],
+      "achievements": [
+        "LEGEND_TIER",
+        "STARS_10K",
+        "FOLLOWERS_1K",
+        "STATE_1"
+      ],
+      "score_breakdown": {
+        "stars": 600,
+        "activity": 111,
+        "followers": 500,
+        "repos": 84
+      },
+      "account_age_days": 5762
+    },
+    {
+      "rank": 10,
+      "username": "torvalds",
+      "name": "Linus Torvalds",
+      "avatar_url": "https://github.com/torvalds.png",
+      "location": "Portland, OR",
+      "state": "OR",
+      "score": 1276,
+      "tier": "LEGEND",
+      "rank_delta": 0,
+      "streak_days": 18,
+      "followers": 309315,
+      "public_repos": 12,
+      "events_30d": 25,
+      "total_stars": 250617,
+      "top_languages": [
+        "C",
+        "Makefile",
+        "Shell"
+      ],
+      "tags": [
+        "Systems",
+        "OS",
+        "Kernel"
+      ],
+      "achievements": [
+        "LEGEND_TIER",
+        "STARS_10K",
+        "FOLLOWERS_1K",
+        "EARLY_ADOPTER",
+        "STATE_1"
+      ],
+      "score_breakdown": {
+        "stars": 600,
+        "activity": 170,
+        "followers": 500,
+        "repos": 6
+      },
+      "account_age_days": 6696
+    },
+    {
+      "rank": 11,
+      "username": "afollestad",
+      "name": "Aidan Follestad",
+      "avatar_url": "https://github.com/afollestad.png",
+      "location": "St. Paul, MN",
+      "state": "MN",
+      "score": 1257,
+      "tier": "LEGEND",
+      "rank_delta": 3,
+      "streak_days": 11,
+      "followers": 5437,
+      "public_repos": 30,
+      "events_30d": 20,
+      "total_stars": 30946,
+      "top_languages": [
+        "Kotlin",
+        "Swift",
+        "Dart"
+      ],
+      "tags": [
+        "Mobile",
+        "Android",
+        "iOS"
+      ],
+      "achievements": [
+        "LEGEND_TIER",
+        "STARS_10K",
+        "FOLLOWERS_1K",
+        "STATE_1"
+      ],
+      "score_breakdown": {
+        "stars": 600,
+        "activity": 142,
+        "followers": 500,
+        "repos": 15
+      },
+      "account_age_days": 4593
+    },
+    {
+      "rank": 12,
+      "username": "jlongster",
+      "name": "James Long",
+      "avatar_url": "https://github.com/jlongster.png",
+      "location": "Richmond, VA",
+      "state": "VA",
+      "score": 1078,
+      "tier": "RELEASE",
+      "rank_delta": -2,
+      "streak_days": 8,
+      "followers": 3556,
+      "public_repos": 243,
+      "events_30d": 20,
+      "total_stars": 2800,
+      "top_languages": [
+        "JavaScript",
+        "TypeScript",
+        "Rust"
+      ],
+      "tags": [
+        "Web",
+        "Compilers",
+        "Tooling"
+      ],
+      "achievements": [
+        "RELEASE_TIER",
+        "STARS_1K",
+        "FOLLOWERS_1K",
+        "STATE_1"
+      ],
+      "score_breakdown": {
+        "stars": 336,
+        "activity": 142,
+        "followers": 500,
+        "repos": 100
+      },
+      "account_age_days": 5800
+    },
+    {
+      "rank": 13,
+      "username": "creationix",
+      "name": "Tim Caswell",
+      "avatar_url": "https://github.com/creationix.png",
+      "location": "Mountainburg, AR",
+      "state": "AR",
+      "score": 876,
+      "tier": "RELEASE",
+      "rank_delta": 1,
+      "streak_days": 7,
+      "followers": 5291,
+      "public_repos": 520,
+      "events_30d": 15,
+      "total_stars": 1377,
+      "top_languages": [
+        "JavaScript",
+        "Lua",
+        "C"
+      ],
+      "tags": [
+        "Web",
+        "Scripting",
+        "Open Source"
+      ],
+      "achievements": [
+        "RELEASE_TIER",
+        "STARS_1K",
+        "FOLLOWERS_1K",
+        "STATE_1"
+      ],
+      "score_breakdown": {
+        "stars": 165,
+        "activity": 111,
+        "followers": 500,
+        "repos": 100
+      },
+      "account_age_days": 6242
+    },
+    {
+      "rank": 14,
+      "username": "nicknisi",
+      "name": "Nick Nisi",
+      "avatar_url": "https://github.com/nicknisi.png",
+      "location": "Omaha, NE",
+      "state": "NE",
+      "score": 832,
+      "tier": "RELEASE",
+      "rank_delta": 1,
+      "streak_days": 12,
+      "followers": 1186,
+      "public_repos": 152,
+      "events_30d": 25,
+      "total_stars": 3229,
+      "top_languages": [
+        "TypeScript",
+        "JavaScript",
+        "Vim script"
+      ],
+      "tags": [
+        "Web",
+        "Tooling",
+        "Open Source"
+      ],
+      "achievements": [
+        "RELEASE_TIER",
+        "STARS_1K",
+        "FOLLOWERS_100",
+        "STREAK_7",
+        "STATE_1"
+      ],
+      "score_breakdown": {
+        "stars": 387,
+        "activity": 170,
+        "followers": 198,
+        "repos": 76
+      },
+      "account_age_days": 4960
+    },
+    {
+      "rank": 15,
+      "username": "cheshire137",
+      "name": "Sarah Vessels",
+      "avatar_url": "https://github.com/cheshire137.png",
+      "location": "Nashville, TN",
+      "state": "TN",
+      "score": 776,
+      "tier": "RELEASE",
+      "rank_delta": 2,
+      "streak_days": 14,
+      "followers": 6961,
+      "public_repos": 129,
+      "events_30d": 15,
+      "total_stars": 839,
+      "top_languages": [
+        "Ruby",
+        "TypeScript",
+        "JavaScript"
+      ],
+      "tags": [
+        "Web",
+        "Backend",
+        "Open Source"
+      ],
+      "achievements": [
+        "RELEASE_TIER",
+        "STARS_100",
+        "FOLLOWERS_1K",
+        "STATE_1"
+      ],
+      "score_breakdown": {
+        "stars": 101,
+        "activity": 111,
+        "followers": 500,
+        "repos": 64
+      },
+      "account_age_days": 5618
+    },
+    {
+      "rank": 16,
+      "username": "bketelsen",
+      "name": "Brian Ketelsen",
+      "avatar_url": "https://github.com/bketelsen.png",
+      "location": "Tampa, FL",
+      "state": "FL",
+      "score": 612,
+      "tier": "MERGE",
+      "rank_delta": 0,
+      "streak_days": 16,
+      "followers": 1385,
+      "public_repos": 282,
+      "events_30d": 30,
+      "total_stars": 703,
+      "top_languages": [
+        "Go",
+        "Shell",
+        "JavaScript"
+      ],
+      "tags": [
+        "Cloud",
+        "DevOps",
+        "Go"
+      ],
+      "achievements": [
+        "MERGE_TIER",
+        "STARS_100",
+        "FOLLOWERS_100",
+        "STATE_1"
+      ],
+      "score_breakdown": {
+        "stars": 84,
+        "activity": 197,
+        "followers": 231,
+        "repos": 100
+      },
+      "account_age_days": 6424
+    },
+    {
+      "rank": 17,
+      "username": "lorenanicole",
+      "name": "Lorena Mesa",
+      "avatar_url": "https://github.com/lorenanicole.png",
+      "location": "Chicago, IL",
+      "state": "IL",
+      "score": 301,
+      "tier": "COMMIT",
+      "rank_delta": 2,
+      "streak_days": 6,
+      "followers": 645,
+      "public_repos": 258,
+      "events_30d": 12,
+      "total_stars": 27,
+      "top_languages": [
+        "Python",
+        "Jupyter Notebook",
+        "JavaScript"
+      ],
+      "tags": [
+        "Data",
+        "Community",
+        "Open Source"
+      ],
+      "achievements": [
+        "COMMIT_TIER",
+        "FOLLOWERS_100",
+        "STATE_1"
+      ],
+      "score_breakdown": {
+        "stars": 3,
+        "activity": 91,
+        "followers": 108,
+        "repos": 100
+      },
+      "account_age_days": 4230
+    },
+    {
+      "rank": 18,
+      "username": "StephenFluin",
+      "name": "Stephen Fluin",
+      "avatar_url": "https://github.com/StephenFluin.png",
+      "location": "Minnesota",
+      "state": "MN",
+      "score": 299,
+      "tier": "COMMIT",
+      "rank_delta": -1,
+      "streak_days": 3,
+      "followers": 663,
+      "public_repos": 244,
+      "events_30d": 10,
+      "total_stars": 96,
+      "top_languages": [
+        "TypeScript",
+        "JavaScript",
+        "Dart"
+      ],
+      "tags": [
+        "Web",
+        "Angular",
+        "Education"
+      ],
+      "achievements": [
+        "COMMIT_TIER",
+        "FOLLOWERS_100"
+      ],
+      "score_breakdown": {
+        "stars": 12,
+        "activity": 77,
+        "followers": 110,
+        "repos": 100
+      },
+      "account_age_days": 5980
+    },
+    {
+      "rank": 19,
+      "username": "lencioni",
+      "name": "Joe Lencioni",
+      "avatar_url": "https://github.com/lencioni.png",
+      "location": "Northfield, MN",
+      "state": "MN",
+      "score": 289,
+      "tier": "COMMIT",
+      "rank_delta": 0,
+      "streak_days": 4,
+      "followers": 592,
+      "public_repos": 288,
+      "events_30d": 10,
+      "total_stars": 116,
+      "top_languages": [
+        "JavaScript",
+        "TypeScript",
+        "Ruby"
+      ],
+      "tags": [
+        "Web",
+        "Tooling",
+        "Frontend"
+      ],
+      "achievements": [
+        "COMMIT_TIER",
+        "STARS_100",
+        "FOLLOWERS_100"
+      ],
+      "score_breakdown": {
+        "stars": 14,
+        "activity": 77,
+        "followers": 99,
+        "repos": 100
+      },
+      "account_age_days": 5812
+    },
+    {
+      "rank": 20,
+      "username": "nicolewhite",
+      "name": "Nicole White",
+      "avatar_url": "https://github.com/nicolewhite.png",
+      "location": "Washington, DC",
+      "state": "DC",
+      "score": 239,
+      "tier": "COMMIT",
+      "rank_delta": 0,
+      "streak_days": 2,
+      "followers": 697,
+      "public_repos": 54,
+      "events_30d": 8,
+      "total_stars": 280,
+      "top_languages": [
+        "Python",
+        "JavaScript",
+        "Cypher"
+      ],
+      "tags": [
+        "Data",
+        "Graph",
+        "Databases"
+      ],
+      "achievements": [
+        "COMMIT_TIER",
+        "STARS_100",
+        "FOLLOWERS_100",
+        "STATE_1"
+      ],
+      "score_breakdown": {
+        "stars": 34,
+        "activity": 62,
+        "followers": 116,
+        "repos": 27
+      },
+      "account_age_days": 4285
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Text */
+  --ink-1: oklch(88% 0.006 55);
+  --ink-2: oklch(65% 0.010 55);
+  --ink-3: oklch(46% 0.016 55);
+
+  /* Backgrounds */
+  --canvas-1: oklch(13% 0.006 55);
+  --canvas-2: oklch(17% 0.008 55);
+  --canvas-3: oklch(21% 0.010 55);
+
+  /* Borders */
+  --edge-1: oklch(22% 0.009 55);
+  --edge-2: oklch(28% 0.012 55);
+
+  /* Accent — warm amber */
+  --amber:   oklch(72% 0.155 55);
+  --amber-2: oklch(58% 0.11 55);
+  --amber-1: oklch(18% 0.030 55);
+
+  /* Tier colors */
+  --tier-init:    oklch(42% 0.018 55);
+  --tier-commit:  oklch(56% 0.10 195);
+  --tier-merge:   oklch(60% 0.14 145);
+  --tier-release: oklch(72% 0.155 55);
+  --tier-legend:  oklch(80% 0.09 290);
+
+  /* Signals */
+  --signal-down: oklch(58% 0.13 25);
+
+  /* Easing */
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-out-quart: cubic-bezier(0.25, 1, 0.5, 1);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background-color: var(--canvas-1);
+  color: var(--ink-1);
+  font-family: 'Red Hat Text', system-ui, sans-serif;
+  font-size: 0.9375rem;
+  line-height: 1.6;
+  font-kerning: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Tabular nums for all data */
+.tabular { font-variant-numeric: tabular-nums; }
+
+/* Rank glow for #1 */
+@keyframes pulse-amber {
+  0%, 100% { opacity: 1; }
+  50%       { opacity: 0.72; }
+}
+
+/* Tier shimmer on progress bar */
+@keyframes shimmer {
+  0%   { background-position: -400% center; }
+  100% { background-position: 400% center; }
+}
+
+.progress-shimmer {
+  background: linear-gradient(
+    90deg,
+    var(--amber-2) 0%,
+    var(--amber) 40%,
+    oklch(86% 0.12 55) 50%,
+    var(--amber) 60%,
+    var(--amber-2) 100%
+  );
+  background-size: 400% auto;
+  animation: shimmer 2.4s linear infinite;
+}
+
+/* Score counter */
+@keyframes count-up {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.count-reveal {
+  animation: count-up 600ms var(--ease-out-expo) both;
+}
+
+/* Rank delta entry */
+@keyframes delta-in {
+  from { opacity: 0; transform: translateY(4px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.delta-reveal {
+  animation: delta-in 400ms var(--ease-out-expo) both;
+}
+
+/* Tier badge pulse on LEGEND */
+@keyframes legend-pulse {
+  0%, 100% { transform: scale(1); }
+  50%       { transform: scale(1.04); }
+}
+
+.legend-alive {
+  animation: legend-pulse 3s ease-in-out infinite;
+}
+
+/* Streak flame oscillate */
+@keyframes flame-breathe {
+  0%, 100% { transform: scale(1); }
+  50%       { transform: scale(1.06) translateY(-1px); }
+}
+
+.flame-breathe {
+  animation: flame-breathe 2.8s ease-in-out infinite;
+}
+
+/* Tier badge unlock burst */
+@keyframes tier-unlock {
+  0%   { transform: scale(1); }
+  40%  { transform: scale(1.14); }
+  100% { transform: scale(1); }
+}
+
+.tier-unlock {
+  animation: tier-unlock 300ms var(--ease-out-quart) both;
+}
+
+/* Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Table row hover */
+tr.dev-row {
+  transition: background-color 120ms ease;
+}
+
+tr.dev-row:hover {
+  background-color: var(--canvas-3);
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track { background: var(--canvas-1); }
+::-webkit-scrollbar-thumb { background: var(--edge-2); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--amber-2); }
+
+/* Focus visible ring */
+:focus-visible {
+  outline: 2px solid var(--amber);
+  outline-offset: 2px;
+}
+
+/* Selection */
+::selection {
+  background: var(--amber-1);
+  color: var(--ink-1);
+}

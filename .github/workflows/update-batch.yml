@@ -15,6 +15,9 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
+    # The LEET_GITHUB_TOKEN secret lives inside an environment of the same
+    # name, so the job must opt into that environment to read it.
+    environment: LEET_GITHUB_TOKEN
     timeout-minutes: 50
     steps:
       - uses: actions/checkout@v4
@@ -35,6 +38,16 @@ jobs:
           INDEX=$((HOUR % 24))
           echo "index=$INDEX" >> "$GITHUB_OUTPUT"
           echo "Batch index: $INDEX"
+
+      - name: Verify token is present
+        env:
+          GITHUB_TOKEN: ${{ secrets.LEET_GITHUB_TOKEN }}
+        run: |
+          if [ -z "$GITHUB_TOKEN" ]; then
+            echo "::error::LEET_GITHUB_TOKEN is empty. Unauthenticated runs hit the 60/hr limit and stall. Set the secret and retry."
+            exit 1
+          fi
+          echo "Token present (length ${#GITHUB_TOKEN})."
 
       - name: Run batch
         env:

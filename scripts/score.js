@@ -1,4 +1,4 @@
-import scoreConfig from '../score-config.json' assert { type: 'json' };
+import scoreConfig from '../score-config.json' with { type: 'json' };
 
 const { stars: SC, followers: FC, activity: AC, repos: RC } = scoreConfig;
 const MEANINGFUL = new Set(['PushEvent', 'PullRequestEvent', 'IssuesEvent', 'ReleaseEvent']);

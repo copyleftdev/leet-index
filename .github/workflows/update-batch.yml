@@ -7,8 +7,6 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 concurrency:
   group: leet-pipeline
@@ -17,7 +15,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 50
     steps:
       - uses: actions/checkout@v4
         with:
@@ -64,17 +62,3 @@ jobs:
           git fetch origin main
           git pull --rebase origin main
           git push origin HEAD:main
-
-      - name: Build site
-        run: npm run build
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: dist
-
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v4

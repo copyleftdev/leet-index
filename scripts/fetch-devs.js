@@ -11,8 +11,12 @@ const API = 'https://api.github.com';
 const SEARCH_DELAY_MS = 2200;
 const RETRY_DELAY_MS  = 3000;
 const REQUEST_TIMEOUT = 20_000;
-const RATE_LIMIT_BUFFER = 150;
+const RATE_LIMIT_BUFFER = 100;
 const INACTIVE_DAYS = 60;
+// Cap profiles fetched per batch so a single hourly run finishes well inside
+// the rate budget. Search is sorted by followers, so we take the strongest
+// candidates first. ~150 users × 3 calls = ~450 req/batch, 24 batches/day.
+const MAX_USERS_PER_BATCH = 150;
 
 // 24 US search batches — one per hourly run
 // location:"united states" catches devs who set their country
@@ -51,7 +55,17 @@ const SEARCH_BATCHES = [
   },
 ];
 
-const rateState = { remaining: Infinity, resetAt: 0 };
+// GitHub meters the Search API (30 req/min) and the core REST API (5000 req/hr)
+// in separate buckets. Track them independently so a near-empty search bucket
+// doesn't stall core profile fetches (and vice versa).
+const rate = {
+  search: { remaining: Infinity, resetAt: 0, buffer: 3 },
+  core:   { remaining: Infinity, resetAt: 0, buffer: RATE_LIMIT_BUFFER },
+};
+
+function bucketFor(url) {
+  return url.includes('/search/') ? rate.search : rate.core;
+}
 
 function apiHeaders() {
   const token = process.env.GITHUB_TOKEN;
@@ -65,12 +79,11 @@ async function apiFetch(url) {
   const timer = setTimeout(() => controller.abort(), REQUEST_TIMEOUT);
   try {
     const res = await fetch(url, { headers: apiHeaders(), signal: controller.signal });
-    const remaining = Number(res.headers.get('X-RateLimit-Remaining') ?? Infinity);
-    const resetAt   = Number(res.headers.get('X-RateLimit-Reset') ?? 0) * 1000;
-    rateState.remaining = remaining;
-    rateState.resetAt   = resetAt;
-    if (res.status === 429 || (res.status === 403 && remaining === 0)) {
-      const wait = Math.max(resetAt - Date.now(), 60_000);
+    const bucket = bucketFor(url);
+    bucket.remaining = Number(res.headers.get('X-RateLimit-Remaining') ?? Infinity);
+    bucket.resetAt   = Number(res.headers.get('X-RateLimit-Reset') ?? 0) * 1000;
+    if (res.status === 429 || (res.status === 403 && bucket.remaining === 0)) {
+      const wait = Math.max(bucket.resetAt - Date.now(), 60_000);
       console.warn(`Rate limited — waiting ${Math.ceil(wait / 1000)}s`);
       await sleep(wait);
       return apiFetch(url);
@@ -84,35 +97,39 @@ async function apiFetch(url) {
 
 async function sleep(ms) { return new Promise((r) => setTimeout(r, ms)); }
 
-async function guardRateLimit() {
-  if (rateState.remaining < RATE_LIMIT_BUFFER && rateState.resetAt > Date.now()) {
-    const wait = rateState.resetAt - Date.now() + 5_000;
-    console.warn(`Low rate limit (${rateState.remaining}) — waiting ${Math.ceil(wait / 1000)}s`);
+async function guardRateLimit(kind = 'core') {
+  const bucket = rate[kind];
+  if (bucket.remaining < bucket.buffer && bucket.resetAt > Date.now()) {
+    const wait = bucket.resetAt - Date.now() + 5_000;
+    console.warn(`Low ${kind} rate limit (${bucket.remaining}) — waiting ${Math.ceil(wait / 1000)}s`);
     await sleep(wait);
   }
 }
 
 async function searchPage(q, page) {
-  await guardRateLimit();
-  const url = `${API}/search/users?q=${encodeURIComponent(q)}&per_page=100&page=${page}`;
+  await guardRateLimit('search');
+  // sort=followers&order=desc → strongest candidates first, so the per-batch
+  // cap keeps the most rank-worthy devs instead of an arbitrary slice.
+  const url = `${API}/search/users?q=${encodeURIComponent(q)}&sort=followers&order=desc&per_page=100&page=${page}`;
   const data = await apiFetch(url);
   await sleep(SEARCH_DELAY_MS);
   return data;
 }
 
-async function searchBatch(q) {
+async function searchBatch(q, cap = MAX_USERS_PER_BATCH) {
   const users = [];
+  // Search API caps results at 1000 (10 pages); we stop once we hit our cap.
   for (let page = 1; page <= 10; page++) {
     const data = await searchPage(q, page);
     if (!data?.items?.length) break;
     users.push(...data.items.map((u) => u.login));
-    if (users.length >= data.total_count || data.items.length < 100) break;
+    if (users.length >= cap || users.length >= data.total_count || data.items.length < 100) break;
   }
-  return users;
+  return users.slice(0, cap);
 }
 
 async function fetchUserData(login) {
-  await guardRateLimit();
+  await guardRateLimit('core');
   const [profile, events, repos] = await Promise.all([
     apiFetch(`${API}/users/${login}`),
     apiFetch(`${API}/users/${login}/events/public?per_page=100`),
@@ -172,9 +189,12 @@ export async function runBatch(batchIndex) {
   console.log(`[batch-${batchIndex}] ${batch.label}`);
 
   const queries = batch.queries ?? [batch.q];
+  // Split the per-batch cap evenly across sub-queries so a multi-query batch
+  // doesn't fetch 3× the budget.
+  const perQueryCap = Math.ceil(MAX_USERS_PER_BATCH / queries.length);
   const allLogins = new Set();
   for (const q of queries) {
-    const logins = await searchBatch(q);
+    const logins = await searchBatch(q, perQueryCap);
     logins.forEach((l) => allLogins.add(l));
     console.log(`  search "${q.slice(0, 60)}..." → ${logins.length} results`);
   }

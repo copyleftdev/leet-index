@@ -23,6 +23,10 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          # Push with the PAT (not the automatic GITHUB_TOKEN) so the data
+          # commit triggers the Deploy workflow. Commits pushed by the
+          # built-in GITHUB_TOKEN are suppressed from triggering on:push.
+          token: ${{ secrets.LEET_GITHUB_TOKEN }}
 
       - uses: actions/setup-node@v4
         with:

@@ -7,26 +7,27 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
+# Shared with deploy.yml so the two never run a Pages deployment at the
+# same time (concurrent deploys to the github-pages environment deadlock
+# in "deployment_queued").
 concurrency:
-  group: leet-pipeline
+  group: pages-deploy
   cancel-in-progress: false
 
 jobs:
   update:
     runs-on: ubuntu-latest
     # The LEET_GITHUB_TOKEN secret lives inside an environment of the same
-    # name, so the job must opt into that environment to read it.
+    # name; the job opts in so the batch step can read it for API calls.
     environment: LEET_GITHUB_TOKEN
     timeout-minutes: 50
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          # Push with the PAT (not the automatic GITHUB_TOKEN) so the data
-          # commit triggers the Deploy workflow. Commits pushed by the
-          # built-in GITHUB_TOKEN are suppressed from triggering on:push.
-          token: ${{ secrets.LEET_GITHUB_TOKEN }}
 
       - uses: actions/setup-node@v4
         with:
@@ -79,3 +80,17 @@ jobs:
           git fetch origin main
           git pull --rebase origin main
           git push origin HEAD:main
+
+      - name: Build site
+        run: npm run build
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4

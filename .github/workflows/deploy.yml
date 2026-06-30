@@ -3,6 +3,10 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [main]
+    # Data commits are built and deployed by update-batch.yml itself; this
+    # workflow only handles code/content changes.
+    paths-ignore:
+      - 'public/data.json'
   workflow_dispatch:
 
 permissions:
@@ -10,9 +14,11 @@ permissions:
   pages: write
   id-token: write
 
+# Shared with update-batch.yml so the two never deploy to the github-pages
+# environment at the same time.
 concurrency:
-  group: pages
-  cancel-in-progress: true
+  group: pages-deploy
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -27,6 +33,8 @@ jobs:
 
       - run: npm ci
       - run: npm run build
+
+      - uses: actions/configure-pages@v5
 
       - uses: actions/upload-pages-artifact@v3
         with:

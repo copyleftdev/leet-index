@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-30T20:45:52.483Z",
-  "total_indexed": 58,
+  "generated_at": "2026-06-30T21:37:48.182Z",
+  "total_indexed": 75,
   "batch_coverage": {
-    "current": 20,
+    "current": 21,
     "total": 24,
-    "next_batch_at": "2026-06-30T21:45:52.483Z"
+    "next_batch_at": "2026-06-30T22:37:48.182Z"
   },
   "leaderboard": [
     {
@@ -46,7 +46,7 @@
         "repos": 100
       },
       "account_age_days": 4680,
-      "last_updated": "2026-06-30T20:45:52.482Z"
+      "last_updated": "2026-06-30T21:37:48.182Z"
     },
     {
       "rank": 2,
@@ -87,7 +87,7 @@
         "repos": 76
       },
       "account_age_days": 5508,
-      "last_updated": "2026-06-30T20:45:52.482Z"
+      "last_updated": "2026-06-30T21:37:48.182Z"
     },
     {
       "rank": 3,
@@ -128,7 +128,7 @@
         "repos": 100
       },
       "account_age_days": 5999,
-      "last_updated": "2026-06-30T20:45:52.482Z"
+      "last_updated": "2026-06-30T21:37:48.182Z"
     },
     {
       "rank": 4,
@@ -169,7 +169,7 @@
         "repos": 98
       },
       "account_age_days": 5374,
-      "last_updated": "2026-06-30T20:45:52.482Z"
+      "last_updated": "2026-06-30T21:37:48.182Z"
     },
     {
       "rank": 5,
@@ -210,7 +210,7 @@
         "repos": 57
       },
       "account_age_days": 6199,
-      "last_updated": "2026-06-30T20:45:52.482Z"
+      "last_updated": "2026-06-30T21:37:48.182Z"
     },
     {
       "rank": 6,
@@ -251,7 +251,7 @@
         "repos": 79
       },
       "account_age_days": 5978,
-      "last_updated": "2026-06-30T20:45:52.482Z"
+      "last_updated": "2026-06-30T21:37:48.182Z"
     },
     {
       "rank": 7,
@@ -292,7 +292,7 @@
         "repos": 37
       },
       "account_age_days": 6087,
-      "last_updated": "2026-06-30T20:45:52.482Z"
+      "last_updated": "2026-06-30T21:37:48.182Z"
     },
     {
       "rank": 8,
@@ -332,7 +332,7 @@
         "repos": 42
       },
       "account_age_days": 6696,
-      "last_updated": "2026-06-30T20:45:52.482Z"
+      "last_updated": "2026-06-30T21:37:48.182Z"
     },
     {
       "rank": 9,
@@ -372,7 +372,7 @@
         "repos": 84
       },
       "account_age_days": 5762,
-      "last_updated": "2026-06-30T20:45:52.483Z"
+      "last_updated": "2026-06-30T21:37:48.182Z"
     },
     {
       "rank": 10,
@@ -413,7 +413,7 @@
         "repos": 6
       },
       "account_age_days": 6696,
-      "last_updated": "2026-06-30T20:45:52.483Z"
+      "last_updated": "2026-06-30T21:37:48.182Z"
     },
     {
       "rank": 11,
@@ -454,7 +454,7 @@
         "repos": 15
       },
       "account_age_days": 4593,
-      "last_updated": "2026-06-30T20:45:52.483Z"
+      "last_updated": "2026-06-30T21:37:48.182Z"
     },
     {
       "rank": 12,
@@ -495,7 +495,7 @@
         "repos": 100
       },
       "account_age_days": 5800,
-      "last_updated": "2026-06-30T20:45:52.483Z"
+      "last_updated": "2026-06-30T21:37:48.182Z"
     },
     {
       "rank": 13,
@@ -536,7 +536,7 @@
         "repos": 100
       },
       "account_age_days": 6242,
-      "last_updated": "2026-06-30T20:45:52.483Z"
+      "last_updated": "2026-06-30T21:37:48.182Z"
     },
     {
       "rank": 14,
@@ -577,7 +577,7 @@
         "repos": 76
       },
       "account_age_days": 4960,
-      "last_updated": "2026-06-30T20:45:52.483Z"
+      "last_updated": "2026-06-30T21:37:48.182Z"
     },
     {
       "rank": 15,
@@ -618,7 +618,7 @@
         "repos": 64
       },
       "account_age_days": 5618,
-      "last_updated": "2026-06-30T20:45:52.483Z"
+      "last_updated": "2026-06-30T21:37:48.182Z"
     },
     {
       "rank": 16,
@@ -653,7 +653,7 @@
         "activity": 352
       },
       "account_age_days": 1195,
-      "last_updated": "2026-06-30T20:45:52.483Z",
+      "last_updated": "2026-06-30T21:37:48.182Z",
       "_batch": 20
     },
     {
@@ -665,7 +665,7 @@
       "state": "FL",
       "score": 612,
       "tier": "MERGE",
-      "rank_delta": -1,
+      "rank_delta": 0,
       "streak_days": 16,
       "followers": 1385,
       "public_repos": 282,
@@ -695,7 +695,7 @@
         "repos": 100
       },
       "account_age_days": 6424,
-      "last_updated": "2026-06-30T20:45:52.483Z"
+      "last_updated": "2026-06-30T21:37:48.182Z"
     },
     {
       "rank": 18,
@@ -705,7 +705,7 @@
       "location": "Open to Remote | United States & International",
       "score": 455,
       "tier": "MERGE",
-      "rank_delta": -1,
+      "rank_delta": 0,
       "streak_days": 0,
       "followers": 24,
       "public_repos": 99,
@@ -729,7 +729,7 @@
         "activity": 401
       },
       "account_age_days": 1360,
-      "last_updated": "2026-06-30T20:45:52.483Z",
+      "last_updated": "2026-06-30T21:37:48.182Z",
       "_batch": 19
     },
     {
@@ -740,7 +740,7 @@
       "location": "Pasadena, CA, United States of America",
       "score": 449,
       "tier": "MERGE",
-      "rank_delta": -1,
+      "rank_delta": 0,
       "streak_days": 0,
       "followers": 109,
       "public_repos": 5,
@@ -763,7 +763,7 @@
         "activity": 402
       },
       "account_age_days": 1373,
-      "last_updated": "2026-06-30T20:45:52.483Z",
+      "last_updated": "2026-06-30T21:37:48.182Z",
       "_batch": 19
     },
     {
@@ -798,7 +798,7 @@
         "activity": 328
       },
       "account_age_days": 1191,
-      "last_updated": "2026-06-30T20:45:52.483Z",
+      "last_updated": "2026-06-30T21:37:48.182Z",
       "_batch": 20
     },
     {
@@ -809,7 +809,7 @@
       "location": "United States",
       "score": 432,
       "tier": "MERGE",
-      "rank_delta": -2,
+      "rank_delta": 0,
       "streak_days": 0,
       "followers": 44,
       "public_repos": 91,
@@ -833,7 +833,7 @@
         "activity": 379
       },
       "account_age_days": 1272,
-      "last_updated": "2026-06-30T20:45:52.483Z",
+      "last_updated": "2026-06-30T21:37:48.182Z",
       "_batch": 19
     },
     {
@@ -869,7 +869,7 @@
         "activity": 275
       },
       "account_age_days": 1242,
-      "last_updated": "2026-06-30T20:45:52.483Z",
+      "last_updated": "2026-06-30T21:37:48.182Z",
       "_batch": 20
     },
     {
@@ -880,7 +880,7 @@
       "location": "St. George, Utah, United States",
       "score": 427,
       "tier": "MERGE",
-      "rank_delta": -3,
+      "rank_delta": 0,
       "streak_days": 0,
       "followers": 25,
       "public_repos": 44,
@@ -904,7 +904,7 @@
         "activity": 396
       },
       "account_age_days": 1349,
-      "last_updated": "2026-06-30T20:45:52.483Z",
+      "last_updated": "2026-06-30T21:37:48.182Z",
       "_batch": 19
     },
     {
@@ -937,7 +937,7 @@
         "activity": 399
       },
       "account_age_days": 1111,
-      "last_updated": "2026-06-30T20:45:52.483Z",
+      "last_updated": "2026-06-30T21:37:48.182Z",
       "_batch": 20
     },
     {
@@ -972,18 +972,84 @@
         "activity": 402
       },
       "account_age_days": 1121,
-      "last_updated": "2026-06-30T20:45:52.483Z",
+      "last_updated": "2026-06-30T21:37:48.182Z",
       "_batch": 20
     },
     {
       "rank": 26,
+      "username": "NothingButTyler",
+      "name": "NothingButTyler",
+      "avatar_url": "https://avatars.githubusercontent.com/u/149272952?v=4",
+      "location": "United States of America",
+      "score": 413,
+      "tier": "MERGE",
+      "rank_delta": 0,
+      "streak_days": 0,
+      "followers": 11,
+      "public_repos": 19,
+      "events_30d": 97,
+      "total_stars": 12,
+      "top_languages": [
+        "HTML",
+        "JavaScript",
+        "CSS"
+      ],
+      "tags": [],
+      "achievements": [
+        "MERGE_TIER"
+      ],
+      "score_breakdown": {
+        "stars": 1,
+        "followers": 2,
+        "repos": 10,
+        "activity": 401
+      },
+      "account_age_days": 976,
+      "last_updated": "2026-06-30T21:37:48.182Z",
+      "_batch": 21
+    },
+    {
+      "rank": 27,
+      "username": "MajorDigest",
+      "name": "Major Digest",
+      "avatar_url": "https://avatars.githubusercontent.com/u/142632366?v=4",
+      "location": "United States",
+      "score": 410,
+      "tier": "MERGE",
+      "rank_delta": 0,
+      "streak_days": 0,
+      "followers": 7,
+      "public_repos": 6,
+      "events_30d": 100,
+      "total_stars": 5,
+      "top_languages": [
+        "Shell",
+        "HTML",
+        "CSS"
+      ],
+      "tags": [],
+      "achievements": [
+        "MERGE_TIER"
+      ],
+      "score_breakdown": {
+        "stars": 1,
+        "followers": 1,
+        "repos": 3,
+        "activity": 406
+      },
+      "account_age_days": 1046,
+      "last_updated": "2026-06-30T21:37:48.182Z",
+      "_batch": 21
+    },
+    {
+      "rank": 28,
       "username": "lowercasebtw",
       "name": "lowercasebtw",
       "avatar_url": "https://avatars.githubusercontent.com/u/126462578?v=4",
       "location": "United States",
       "score": 407,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -2,
       "streak_days": 0,
       "followers": 16,
       "public_repos": 67,
@@ -1007,18 +1073,18 @@
         "activity": 368
       },
       "account_age_days": 1219,
-      "last_updated": "2026-06-30T20:45:52.483Z",
+      "last_updated": "2026-06-30T21:37:48.182Z",
       "_batch": 20
     },
     {
-      "rank": 27,
+      "rank": 29,
       "username": "AhmadRazaKhokhar1",
       "name": "Ahmad Raza Khokhar",
       "avatar_url": "https://avatars.githubusercontent.com/u/137413638?v=4",
       "location": "United States",
       "score": 405,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -2,
       "streak_days": 0,
       "followers": 11,
       "public_repos": 46,
@@ -1042,18 +1108,52 @@
         "activity": 368
       },
       "account_age_days": 1104,
-      "last_updated": "2026-06-30T20:45:52.483Z",
+      "last_updated": "2026-06-30T21:37:48.182Z",
       "_batch": 20
     },
     {
-      "rank": 28,
+      "rank": 30,
+      "username": "TI0J0A0",
+      "name": "Joao Pedro Aguiar ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139718095?v=4",
+      "location": "United states",
+      "score": 402,
+      "tier": "MERGE",
+      "rank_delta": 0,
+      "streak_days": 0,
+      "followers": 9,
+      "public_repos": 13,
+      "events_30d": 93,
+      "total_stars": 1,
+      "top_languages": [
+        "JavaScript",
+        "HTML",
+        "Java",
+        "CSS"
+      ],
+      "tags": [],
+      "achievements": [
+        "MERGE_TIER"
+      ],
+      "score_breakdown": {
+        "stars": 0,
+        "followers": 2,
+        "repos": 7,
+        "activity": 394
+      },
+      "account_age_days": 1080,
+      "last_updated": "2026-06-30T21:37:48.182Z",
+      "_batch": 21
+    },
+    {
+      "rank": 31,
       "username": "ihateblueb",
       "name": "harper",
       "avatar_url": "https://avatars.githubusercontent.com/u/118416443?v=4",
       "location": "North Carolina, United States",
       "score": 401,
       "tier": "MERGE",
-      "rank_delta": -7,
+      "rank_delta": -3,
       "streak_days": 0,
       "followers": 16,
       "public_repos": 48,
@@ -1071,18 +1171,53 @@
         "activity": 375
       },
       "account_age_days": 1321,
-      "last_updated": "2026-06-30T20:45:52.483Z",
+      "last_updated": "2026-06-30T21:37:48.182Z",
       "_batch": 19
     },
     {
-      "rank": 29,
+      "rank": 32,
+      "username": "DanielLMcGuire",
+      "name": "Daniel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/146508360?v=4",
+      "location": "United States",
+      "score": 397,
+      "tier": "MERGE",
+      "rank_delta": 0,
+      "streak_days": 0,
+      "followers": 15,
+      "public_repos": 23,
+      "events_30d": 83,
+      "total_stars": 67,
+      "top_languages": [
+        "C++",
+        "TypeScript",
+        "CMake",
+        "JavaScript",
+        "Rust"
+      ],
+      "tags": [],
+      "achievements": [
+        "MERGE_TIER"
+      ],
+      "score_breakdown": {
+        "stars": 8,
+        "followers": 3,
+        "repos": 12,
+        "activity": 375
+      },
+      "account_age_days": 1004,
+      "last_updated": "2026-06-30T21:37:48.182Z",
+      "_batch": 21
+    },
+    {
+      "rank": 33,
       "username": "MadhavMenon10",
       "name": "Madhav Anand Menon",
       "avatar_url": "https://avatars.githubusercontent.com/u/136590874?v=4",
       "location": "Champaign, Illinois, United States",
       "score": 396,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -4,
       "streak_days": 0,
       "followers": 6,
       "public_repos": 9,
@@ -1105,18 +1240,53 @@
         "activity": 390
       },
       "account_age_days": 1112,
-      "last_updated": "2026-06-30T20:45:52.483Z",
+      "last_updated": "2026-06-30T21:37:48.182Z",
       "_batch": 20
     },
     {
-      "rank": 30,
+      "rank": 34,
+      "username": "vbvss199",
+      "name": "Bhaskara Vanacharla",
+      "avatar_url": "https://avatars.githubusercontent.com/u/141829797?v=4",
+      "location": "New York, United States",
+      "score": 391,
+      "tier": "MERGE",
+      "rank_delta": 0,
+      "streak_days": 0,
+      "followers": 5,
+      "public_repos": 19,
+      "events_30d": 82,
+      "total_stars": 68,
+      "top_languages": [
+        "Python",
+        "JavaScript",
+        "C#",
+        "Jupyter Notebook",
+        "HTML"
+      ],
+      "tags": [],
+      "achievements": [
+        "MERGE_TIER"
+      ],
+      "score_breakdown": {
+        "stars": 8,
+        "followers": 1,
+        "repos": 10,
+        "activity": 373
+      },
+      "account_age_days": 1056,
+      "last_updated": "2026-06-30T21:37:48.182Z",
+      "_batch": 21
+    },
+    {
+      "rank": 35,
       "username": "rodrigosf672",
       "name": "Rodrigo Silva Ferreira",
       "avatar_url": "https://avatars.githubusercontent.com/u/129895386?v=4",
       "location": "United States",
       "score": 386,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -5,
       "streak_days": 0,
       "followers": 34,
       "public_repos": 52,
@@ -1140,18 +1310,52 @@
         "activity": 352
       },
       "account_age_days": 1183,
-      "last_updated": "2026-06-30T20:45:52.483Z",
+      "last_updated": "2026-06-30T21:37:48.182Z",
       "_batch": 20
     },
     {
-      "rank": 31,
+      "rank": 36,
+      "username": "wren-creator",
+      "name": "Britley",
+      "avatar_url": "https://avatars.githubusercontent.com/u/150541793?v=4",
+      "location": "United States",
+      "score": 385,
+      "tier": "MERGE",
+      "rank_delta": 0,
+      "streak_days": 0,
+      "followers": 9,
+      "public_repos": 20,
+      "events_30d": 81,
+      "total_stars": 22,
+      "top_languages": [
+        "Python",
+        "JavaScript",
+        "HTML",
+        "Shell"
+      ],
+      "tags": [],
+      "achievements": [
+        "MERGE_TIER"
+      ],
+      "score_breakdown": {
+        "stars": 3,
+        "followers": 2,
+        "repos": 10,
+        "activity": 370
+      },
+      "account_age_days": 962,
+      "last_updated": "2026-06-30T21:37:48.182Z",
+      "_batch": 21
+    },
+    {
+      "rank": 37,
       "username": "Pjarbit",
       "name": "Philip J. Arbit",
       "avatar_url": "https://avatars.githubusercontent.com/u/131613255?v=4",
       "location": "United States",
       "score": 380,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -6,
       "streak_days": 0,
       "followers": 10,
       "public_repos": 7,
@@ -1173,18 +1377,53 @@
         "activity": 368
       },
       "account_age_days": 1164,
-      "last_updated": "2026-06-30T20:45:52.483Z",
+      "last_updated": "2026-06-30T21:37:48.182Z",
       "_batch": 20
     },
     {
-      "rank": 32,
+      "rank": 38,
+      "username": "mohdmahmodi",
+      "name": "Mohd Mahmodi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/141009456?v=4",
+      "location": "United States",
+      "score": 380,
+      "tier": "MERGE",
+      "rank_delta": 0,
+      "streak_days": 0,
+      "followers": 21,
+      "public_repos": 63,
+      "events_30d": 67,
+      "total_stars": 75,
+      "top_languages": [
+        "JavaScript",
+        "HTML",
+        "Batchfile",
+        "TypeScript",
+        "Python"
+      ],
+      "tags": [],
+      "achievements": [
+        "MERGE_TIER"
+      ],
+      "score_breakdown": {
+        "stars": 9,
+        "followers": 4,
+        "repos": 32,
+        "activity": 336
+      },
+      "account_age_days": 1065,
+      "last_updated": "2026-06-30T21:37:48.182Z",
+      "_batch": 21
+    },
+    {
+      "rank": 39,
       "username": "kalynstricklin",
       "name": "Kalyn Stallings",
       "avatar_url": "https://avatars.githubusercontent.com/u/134666642?v=4",
       "location": "United States",
       "score": 379,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -7,
       "streak_days": 0,
       "followers": 12,
       "public_repos": 26,
@@ -1208,18 +1447,18 @@
         "activity": 364
       },
       "account_age_days": 1131,
-      "last_updated": "2026-06-30T20:45:52.483Z",
+      "last_updated": "2026-06-30T21:37:48.182Z",
       "_batch": 20
     },
     {
-      "rank": 33,
+      "rank": 40,
       "username": "Omegabird113",
       "name": "Omegabird113",
       "avatar_url": "https://avatars.githubusercontent.com/u/137644096?v=4",
       "location": "United States",
       "score": 379,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -7,
       "streak_days": 0,
       "followers": 5,
       "public_repos": 10,
@@ -1242,18 +1481,18 @@
         "activity": 373
       },
       "account_age_days": 1102,
-      "last_updated": "2026-06-30T20:45:52.483Z",
+      "last_updated": "2026-06-30T21:37:48.182Z",
       "_batch": 20
     },
     {
-      "rank": 34,
+      "rank": 41,
       "username": "kenzy51",
       "name": "Kanat Nazarov",
       "avatar_url": "https://avatars.githubusercontent.com/u/123618123?v=4",
       "location": "United States",
       "score": 378,
       "tier": "MERGE",
-      "rank_delta": -12,
+      "rank_delta": -7,
       "streak_days": 0,
       "followers": 9,
       "public_repos": 59,
@@ -1277,18 +1516,53 @@
         "activity": 347
       },
       "account_age_days": 1251,
-      "last_updated": "2026-06-30T20:45:52.483Z",
+      "last_updated": "2026-06-30T21:37:48.182Z",
       "_batch": 19
     },
     {
-      "rank": 35,
+      "rank": 42,
+      "username": "amodhakal",
+      "name": "Amodh Dhakal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/140471489?v=4",
+      "location": "United States",
+      "score": 376,
+      "tier": "MERGE",
+      "rank_delta": 0,
+      "streak_days": 0,
+      "followers": 6,
+      "public_repos": 37,
+      "events_30d": 75,
+      "total_stars": 2,
+      "top_languages": [
+        "Python",
+        "C++",
+        "TypeScript",
+        "HTML",
+        "C#"
+      ],
+      "tags": [],
+      "achievements": [
+        "MERGE_TIER"
+      ],
+      "score_breakdown": {
+        "stars": 0,
+        "followers": 1,
+        "repos": 19,
+        "activity": 357
+      },
+      "account_age_days": 1071,
+      "last_updated": "2026-06-30T21:37:48.182Z",
+      "_batch": 21
+    },
+    {
+      "rank": 43,
       "username": "vAHiD55555",
       "name": "vAHiD2535",
       "avatar_url": "https://avatars.githubusercontent.com/u/136799059?v=4",
       "location": "United States",
       "score": 368,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -8,
       "streak_days": 0,
       "followers": 38,
       "public_repos": 357,
@@ -1312,18 +1586,18 @@
         "activity": 260
       },
       "account_age_days": 1110,
-      "last_updated": "2026-06-30T20:45:52.483Z",
+      "last_updated": "2026-06-30T21:37:48.182Z",
       "_batch": 20
     },
     {
-      "rank": 36,
+      "rank": 44,
       "username": "lihzha",
       "name": "Lihan Zha",
       "avatar_url": "https://avatars.githubusercontent.com/u/123067164?v=4",
       "location": "United States",
       "score": 364,
       "tier": "MERGE",
-      "rank_delta": -13,
+      "rank_delta": -8,
       "streak_days": 0,
       "followers": 32,
       "public_repos": 30,
@@ -1346,18 +1620,18 @@
         "activity": 325
       },
       "account_age_days": 1258,
-      "last_updated": "2026-06-30T20:45:52.483Z",
+      "last_updated": "2026-06-30T21:37:48.182Z",
       "_batch": 19
     },
     {
-      "rank": 37,
+      "rank": 45,
       "username": "AmaanBilwar",
       "name": "Amaan",
       "avatar_url": "https://avatars.githubusercontent.com/u/121273095?v=4",
       "location": "United States",
       "score": 363,
       "tier": "MERGE",
-      "rank_delta": -13,
+      "rank_delta": -8,
       "streak_days": 0,
       "followers": 12,
       "public_repos": 48,
@@ -1381,18 +1655,18 @@
         "activity": 336
       },
       "account_age_days": 1285,
-      "last_updated": "2026-06-30T20:45:52.483Z",
+      "last_updated": "2026-06-30T21:37:48.182Z",
       "_batch": 19
     },
     {
-      "rank": 38,
+      "rank": 46,
       "username": "maybeizen",
       "name": "Briar",
       "avatar_url": "https://avatars.githubusercontent.com/u/135663611?v=4",
       "location": "United States",
       "score": 361,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -8,
       "streak_days": 0,
       "followers": 17,
       "public_repos": 17,
@@ -1415,18 +1689,88 @@
         "activity": 349
       },
       "account_age_days": 1120,
-      "last_updated": "2026-06-30T20:45:52.483Z",
+      "last_updated": "2026-06-30T21:37:48.182Z",
       "_batch": 20
     },
     {
-      "rank": 39,
+      "rank": 47,
+      "username": "ishita48",
+      "name": "Ishita Gupta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148317513?v=4",
+      "location": "United States",
+      "score": 360,
+      "tier": "MERGE",
+      "rank_delta": 0,
+      "streak_days": 0,
+      "followers": 14,
+      "public_repos": 28,
+      "events_30d": 69,
+      "total_stars": 17,
+      "top_languages": [
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "Jupyter Notebook",
+        "HTML"
+      ],
+      "tags": [],
+      "achievements": [
+        "MERGE_TIER"
+      ],
+      "score_breakdown": {
+        "stars": 2,
+        "followers": 2,
+        "repos": 14,
+        "activity": 342
+      },
+      "account_age_days": 986,
+      "last_updated": "2026-06-30T21:37:48.182Z",
+      "_batch": 21
+    },
+    {
+      "rank": 48,
+      "username": "DavidRichardson02",
+      "name": "David Richardson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/144840390?v=4",
+      "location": "Michigan, United States",
+      "score": 358,
+      "tier": "MERGE",
+      "rank_delta": 0,
+      "streak_days": 0,
+      "followers": 90,
+      "public_repos": 11,
+      "events_30d": 66,
+      "total_stars": 30,
+      "top_languages": [
+        "Verilog",
+        "C++",
+        "C",
+        "HTML",
+        "MATLAB"
+      ],
+      "tags": [],
+      "achievements": [
+        "MERGE_TIER"
+      ],
+      "score_breakdown": {
+        "stars": 4,
+        "followers": 15,
+        "repos": 6,
+        "activity": 334
+      },
+      "account_age_days": 1022,
+      "last_updated": "2026-06-30T21:37:48.182Z",
+      "_batch": 21
+    },
+    {
+      "rank": 49,
       "username": "aubergine-ux",
       "name": "rubes",
       "avatar_url": "https://avatars.githubusercontent.com/u/126033183?v=4",
       "location": "New England, United States",
       "score": 349,
       "tier": "COMMIT",
-      "rank_delta": 0,
+      "rank_delta": -10,
       "streak_days": 0,
       "followers": 14,
       "public_repos": 23,
@@ -1450,18 +1794,84 @@
         "activity": 334
       },
       "account_age_days": 1224,
-      "last_updated": "2026-06-30T20:45:52.483Z",
+      "last_updated": "2026-06-30T21:37:48.182Z",
       "_batch": 20
     },
     {
-      "rank": 40,
+      "rank": 50,
+      "username": "AdonayMendez",
+      "name": "Adonay Mendez ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143370059?v=4",
+      "location": "New York City, United States",
+      "score": 348,
+      "tier": "COMMIT",
+      "rank_delta": 0,
+      "streak_days": 0,
+      "followers": 5,
+      "public_repos": 11,
+      "events_30d": 69,
+      "total_stars": 1,
+      "top_languages": [
+        "CSS",
+        "HTML"
+      ],
+      "tags": [],
+      "achievements": [
+        "COMMIT_TIER"
+      ],
+      "score_breakdown": {
+        "stars": 0,
+        "followers": 1,
+        "repos": 6,
+        "activity": 342
+      },
+      "account_age_days": 1037,
+      "last_updated": "2026-06-30T21:37:48.182Z",
+      "_batch": 21
+    },
+    {
+      "rank": 51,
+      "username": "skraft9",
+      "name": "Seth Kraft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/145692102?v=4",
+      "location": "Michigan, United States",
+      "score": 347,
+      "tier": "COMMIT",
+      "rank_delta": 0,
+      "streak_days": 0,
+      "followers": 27,
+      "public_repos": 11,
+      "events_30d": 63,
+      "total_stars": 100,
+      "top_languages": [
+        "PHP",
+        "Shell",
+        "Python"
+      ],
+      "tags": [],
+      "achievements": [
+        "STARS_100",
+        "COMMIT_TIER"
+      ],
+      "score_breakdown": {
+        "stars": 12,
+        "followers": 5,
+        "repos": 6,
+        "activity": 325
+      },
+      "account_age_days": 1013,
+      "last_updated": "2026-06-30T21:37:48.182Z",
+      "_batch": 21
+    },
+    {
+      "rank": 52,
       "username": "rushinski",
       "name": "Jacob Rushinski",
       "avatar_url": "https://avatars.githubusercontent.com/u/124415571?v=4",
       "location": "United States",
       "score": 346,
       "tier": "COMMIT",
-      "rank_delta": 0,
+      "rank_delta": -12,
       "streak_days": 0,
       "followers": 5,
       "public_repos": 12,
@@ -1485,18 +1895,18 @@
         "activity": 339
       },
       "account_age_days": 1242,
-      "last_updated": "2026-06-30T20:45:52.483Z",
+      "last_updated": "2026-06-30T21:37:48.182Z",
       "_batch": 20
     },
     {
-      "rank": 41,
+      "rank": 53,
       "username": "CanvasONETech",
       "name": "Canvas",
       "avatar_url": "https://avatars.githubusercontent.com/u/129669414?v=4",
       "location": "United States of America",
       "score": 337,
       "tier": "COMMIT",
-      "rank_delta": 0,
+      "rank_delta": -12,
       "streak_days": 0,
       "followers": 7,
       "public_repos": 10,
@@ -1518,18 +1928,18 @@
         "activity": 331
       },
       "account_age_days": 1185,
-      "last_updated": "2026-06-30T20:45:52.483Z",
+      "last_updated": "2026-06-30T21:37:48.182Z",
       "_batch": 20
     },
     {
-      "rank": 42,
+      "rank": 54,
       "username": "tea-artist",
       "name": "Bieber",
       "avatar_url": "https://avatars.githubusercontent.com/u/113977203?v=4",
       "location": "United States",
       "score": 331,
       "tier": "COMMIT",
-      "rank_delta": -17,
+      "rank_delta": -12,
       "streak_days": 0,
       "followers": 127,
       "public_repos": 16,
@@ -1553,18 +1963,52 @@
         "activity": 300
       },
       "account_age_days": 1379,
-      "last_updated": "2026-06-30T20:45:52.483Z",
+      "last_updated": "2026-06-30T21:37:48.182Z",
       "_batch": 19
     },
     {
-      "rank": 43,
+      "rank": 55,
+      "username": "MegaPhoenix92",
+      "name": "Chris Ozsvath",
+      "avatar_url": "https://avatars.githubusercontent.com/u/142112319?v=4",
+      "location": "United States",
+      "score": 324,
+      "tier": "COMMIT",
+      "rank_delta": 0,
+      "streak_days": 0,
+      "followers": 5,
+      "public_repos": 33,
+      "events_30d": 57,
+      "total_stars": 2,
+      "top_languages": [
+        "JavaScript",
+        "Python",
+        "TypeScript",
+        "C#"
+      ],
+      "tags": [],
+      "achievements": [
+        "COMMIT_TIER"
+      ],
+      "score_breakdown": {
+        "stars": 0,
+        "followers": 1,
+        "repos": 17,
+        "activity": 307
+      },
+      "account_age_days": 1053,
+      "last_updated": "2026-06-30T21:37:48.182Z",
+      "_batch": 21
+    },
+    {
+      "rank": 56,
       "username": "veeeanti",
       "name": "veeλnti",
       "avatar_url": "https://avatars.githubusercontent.com/u/113473346?v=4",
       "location": "United States",
       "score": 312,
       "tier": "COMMIT",
-      "rank_delta": -17,
+      "rank_delta": -13,
       "streak_days": 0,
       "followers": 28,
       "public_repos": 125,
@@ -1588,18 +2032,18 @@
         "activity": 243
       },
       "account_age_days": 1385,
-      "last_updated": "2026-06-30T20:45:52.483Z",
+      "last_updated": "2026-06-30T21:37:48.182Z",
       "_batch": 19
     },
     {
-      "rank": 44,
+      "rank": 57,
       "username": "hard-nett",
       "name": "Hard-Nett",
       "avatar_url": "https://avatars.githubusercontent.com/u/123711748?v=4",
       "location": "United States",
       "score": 304,
       "tier": "COMMIT",
-      "rank_delta": -17,
+      "rank_delta": -13,
       "streak_days": 0,
       "followers": 15,
       "public_repos": 44,
@@ -1623,11 +2067,11 @@
         "activity": 279
       },
       "account_age_days": 1250,
-      "last_updated": "2026-06-30T20:45:52.483Z",
+      "last_updated": "2026-06-30T21:37:48.182Z",
       "_batch": 19
     },
     {
-      "rank": 45,
+      "rank": 58,
       "username": "lorenanicole",
       "name": "Lorena Mesa",
       "avatar_url": "https://github.com/lorenanicole.png",
@@ -1635,7 +2079,7 @@
       "state": "IL",
       "score": 301,
       "tier": "COMMIT",
-      "rank_delta": -17,
+      "rank_delta": -13,
       "streak_days": 6,
       "followers": 645,
       "public_repos": 258,
@@ -1663,10 +2107,10 @@
         "repos": 100
       },
       "account_age_days": 4230,
-      "last_updated": "2026-06-30T20:45:52.483Z"
+      "last_updated": "2026-06-30T21:37:48.182Z"
     },
     {
-      "rank": 46,
+      "rank": 59,
       "username": "StephenFluin",
       "name": "Stephen Fluin",
       "avatar_url": "https://github.com/StephenFluin.png",
@@ -1674,7 +2118,7 @@
       "state": "MN",
       "score": 299,
       "tier": "COMMIT",
-      "rank_delta": -17,
+      "rank_delta": -13,
       "streak_days": 3,
       "followers": 663,
       "public_repos": 244,
@@ -1701,17 +2145,17 @@
         "repos": 100
       },
       "account_age_days": 5980,
-      "last_updated": "2026-06-30T20:45:52.483Z"
+      "last_updated": "2026-06-30T21:37:48.182Z"
     },
     {
-      "rank": 47,
+      "rank": 60,
       "username": "zumbiepig",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/121742281?v=4",
       "location": "United States",
       "score": 296,
       "tier": "COMMIT",
-      "rank_delta": -17,
+      "rank_delta": -13,
       "streak_days": 0,
       "followers": 13,
       "public_repos": 8,
@@ -1735,11 +2179,11 @@
         "activity": 290
       },
       "account_age_days": 1276,
-      "last_updated": "2026-06-30T20:45:52.483Z",
+      "last_updated": "2026-06-30T21:37:48.182Z",
       "_batch": 19
     },
     {
-      "rank": 48,
+      "rank": 61,
       "username": "lencioni",
       "name": "Joe Lencioni",
       "avatar_url": "https://github.com/lencioni.png",
@@ -1747,7 +2191,7 @@
       "state": "MN",
       "score": 289,
       "tier": "COMMIT",
-      "rank_delta": -17,
+      "rank_delta": -13,
       "streak_days": 4,
       "followers": 592,
       "public_repos": 288,
@@ -1775,17 +2219,17 @@
         "repos": 100
       },
       "account_age_days": 5812,
-      "last_updated": "2026-06-30T20:45:52.483Z"
+      "last_updated": "2026-06-30T21:37:48.182Z"
     },
     {
-      "rank": 49,
+      "rank": 62,
       "username": "BohdanChuprynka",
       "name": "Bohdan Chuprynka",
       "avatar_url": "https://avatars.githubusercontent.com/u/135395566?v=4",
       "location": "Ohio, United States",
       "score": 286,
       "tier": "COMMIT",
-      "rank_delta": 0,
+      "rank_delta": -13,
       "streak_days": 0,
       "followers": 6,
       "public_repos": 19,
@@ -1809,18 +2253,53 @@
         "activity": 275
       },
       "account_age_days": 1123,
-      "last_updated": "2026-06-30T20:45:52.483Z",
+      "last_updated": "2026-06-30T21:37:48.182Z",
       "_batch": 20
     },
     {
-      "rank": 50,
+      "rank": 63,
+      "username": "AndrewBazen",
+      "name": "Andrew Bazen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/142728970?v=4",
+      "location": "United States",
+      "score": 286,
+      "tier": "COMMIT",
+      "rank_delta": 0,
+      "streak_days": 0,
+      "followers": 7,
+      "public_repos": 41,
+      "events_30d": 45,
+      "total_stars": 5,
+      "top_languages": [
+        "C++",
+        "JavaScript",
+        "Python",
+        "Rust",
+        "TypeScript"
+      ],
+      "tags": [],
+      "achievements": [
+        "COMMIT_TIER"
+      ],
+      "score_breakdown": {
+        "stars": 1,
+        "followers": 1,
+        "repos": 21,
+        "activity": 264
+      },
+      "account_age_days": 1045,
+      "last_updated": "2026-06-30T21:37:48.182Z",
+      "_batch": 21
+    },
+    {
+      "rank": 64,
       "username": "ChuranNeko",
       "name": "初然Neko",
       "avatar_url": "https://avatars.githubusercontent.com/u/115100780?v=4",
       "location": "United States",
       "score": 278,
       "tier": "COMMIT",
-      "rank_delta": -18,
+      "rank_delta": -14,
       "streak_days": 0,
       "followers": 24,
       "public_repos": 14,
@@ -1843,18 +2322,18 @@
         "activity": 264
       },
       "account_age_days": 1364,
-      "last_updated": "2026-06-30T20:45:52.483Z",
+      "last_updated": "2026-06-30T21:37:48.182Z",
       "_batch": 19
     },
     {
-      "rank": 51,
+      "rank": 65,
       "username": "Owen-sz",
       "name": "Owen Zimmerman",
       "avatar_url": "https://avatars.githubusercontent.com/u/123591347?v=4",
       "location": "Minnesota, United States",
       "score": 277,
       "tier": "COMMIT",
-      "rank_delta": -18,
+      "rank_delta": -14,
       "streak_days": 0,
       "followers": 27,
       "public_repos": 65,
@@ -1878,18 +2357,18 @@
         "activity": 239
       },
       "account_age_days": 1252,
-      "last_updated": "2026-06-30T20:45:52.483Z",
+      "last_updated": "2026-06-30T21:37:48.182Z",
       "_batch": 19
     },
     {
-      "rank": 52,
+      "rank": 66,
       "username": "basher83",
       "name": "basher83",
       "avatar_url": "https://avatars.githubusercontent.com/u/129473091?v=4",
       "location": "United States",
       "score": 267,
       "tier": "COMMIT",
-      "rank_delta": 0,
+      "rank_delta": -14,
       "streak_days": 0,
       "followers": 35,
       "public_repos": 59,
@@ -1913,18 +2392,53 @@
         "activity": 221
       },
       "account_age_days": 1187,
-      "last_updated": "2026-06-30T20:45:52.483Z",
+      "last_updated": "2026-06-30T21:37:48.182Z",
       "_batch": 20
     },
     {
-      "rank": 53,
+      "rank": 67,
+      "username": "donyelqt",
+      "name": "Doniele Arys Antonio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143719207?v=4",
+      "location": "Atlanta, Georgia, United States",
+      "score": 266,
+      "tier": "COMMIT",
+      "rank_delta": 0,
+      "streak_days": 0,
+      "followers": 16,
+      "public_repos": 63,
+      "events_30d": 36,
+      "total_stars": 53,
+      "top_languages": [
+        "TypeScript",
+        "Python",
+        "Kotlin",
+        "GDScript",
+        "Jupyter Notebook"
+      ],
+      "tags": [],
+      "achievements": [
+        "COMMIT_TIER"
+      ],
+      "score_breakdown": {
+        "stars": 6,
+        "followers": 3,
+        "repos": 32,
+        "activity": 226
+      },
+      "account_age_days": 1034,
+      "last_updated": "2026-06-30T21:37:48.182Z",
+      "_batch": 21
+    },
+    {
+      "rank": 68,
       "username": "TheLemon404",
       "name": "Michael Teschner",
       "avatar_url": "https://avatars.githubusercontent.com/u/120539187?v=4",
       "location": "United States",
       "score": 265,
       "tier": "COMMIT",
-      "rank_delta": -19,
+      "rank_delta": -15,
       "streak_days": 0,
       "followers": 60,
       "public_repos": 17,
@@ -1948,18 +2462,87 @@
         "activity": 243
       },
       "account_age_days": 1294,
-      "last_updated": "2026-06-30T20:45:52.483Z",
+      "last_updated": "2026-06-30T21:37:48.182Z",
       "_batch": 19
     },
     {
-      "rank": 54,
+      "rank": 69,
+      "username": "AaronBenDaniel",
+      "name": "Aaron BenDaniel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/144371000?v=4",
+      "location": "United States",
+      "score": 264,
+      "tier": "COMMIT",
+      "rank_delta": 0,
+      "streak_days": 0,
+      "followers": 9,
+      "public_repos": 16,
+      "events_30d": 42,
+      "total_stars": 27,
+      "top_languages": [
+        "Python",
+        "Svelte",
+        "HTML",
+        "Shell",
+        "C++"
+      ],
+      "tags": [],
+      "achievements": [
+        "COMMIT_TIER"
+      ],
+      "score_breakdown": {
+        "stars": 3,
+        "followers": 2,
+        "repos": 8,
+        "activity": 252
+      },
+      "account_age_days": 1027,
+      "last_updated": "2026-06-30T21:37:48.182Z",
+      "_batch": 21
+    },
+    {
+      "rank": 70,
+      "username": "zhangce01",
+      "name": "Ce Zhang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143019971?v=4",
+      "location": "Pittsburgh, United States",
+      "score": 255,
+      "tier": "COMMIT",
+      "rank_delta": 0,
+      "streak_days": 0,
+      "followers": 34,
+      "public_repos": 8,
+      "events_30d": 35,
+      "total_stars": 205,
+      "top_languages": [
+        "CSS",
+        "Python",
+        "TeX"
+      ],
+      "tags": [],
+      "achievements": [
+        "STARS_100",
+        "COMMIT_TIER"
+      ],
+      "score_breakdown": {
+        "stars": 25,
+        "followers": 6,
+        "repos": 4,
+        "activity": 221
+      },
+      "account_age_days": 1042,
+      "last_updated": "2026-06-30T21:37:48.182Z",
+      "_batch": 21
+    },
+    {
+      "rank": 71,
       "username": "riaraju",
       "name": "Ria Treesa Raju ",
       "avatar_url": "https://avatars.githubusercontent.com/u/122229315?v=4",
       "location": "Indianapolis, United States ",
       "score": 244,
       "tier": "COMMIT",
-      "rank_delta": -19,
+      "rank_delta": -17,
       "streak_days": 0,
       "followers": 16,
       "public_repos": 32,
@@ -1980,18 +2563,18 @@
         "activity": 226
       },
       "account_age_days": 1269,
-      "last_updated": "2026-06-30T20:45:52.483Z",
+      "last_updated": "2026-06-30T21:37:48.182Z",
       "_batch": 19
     },
     {
-      "rank": 55,
+      "rank": 72,
       "username": "shuntia",
       "name": "shuntia",
       "avatar_url": "https://avatars.githubusercontent.com/u/128505810?v=4",
       "location": "United States",
       "score": 244,
       "tier": "COMMIT",
-      "rank_delta": 0,
+      "rank_delta": -17,
       "streak_days": 0,
       "followers": 21,
       "public_repos": 86,
@@ -2015,18 +2598,18 @@
         "activity": 197
       },
       "account_age_days": 1197,
-      "last_updated": "2026-06-30T20:45:52.483Z",
+      "last_updated": "2026-06-30T21:37:48.182Z",
       "_batch": 20
     },
     {
-      "rank": 56,
+      "rank": 73,
       "username": "muzamil-dev",
       "name": "Muzamil Shamsi",
       "avatar_url": "https://avatars.githubusercontent.com/u/127911986?v=4",
       "location": "United States of America",
       "score": 244,
       "tier": "COMMIT",
-      "rank_delta": 0,
+      "rank_delta": -17,
       "streak_days": 0,
       "followers": 15,
       "public_repos": 20,
@@ -2050,11 +2633,11 @@
         "activity": 230
       },
       "account_age_days": 1203,
-      "last_updated": "2026-06-30T20:45:52.483Z",
+      "last_updated": "2026-06-30T21:37:48.182Z",
       "_batch": 20
     },
     {
-      "rank": 57,
+      "rank": 74,
       "username": "nicolewhite",
       "name": "Nicole White",
       "avatar_url": "https://github.com/nicolewhite.png",
@@ -2062,7 +2645,7 @@
       "state": "DC",
       "score": 239,
       "tier": "COMMIT",
-      "rank_delta": -21,
+      "rank_delta": -17,
       "streak_days": 2,
       "followers": 697,
       "public_repos": 54,
@@ -2091,17 +2674,17 @@
         "repos": 27
       },
       "account_age_days": 4285,
-      "last_updated": "2026-06-30T20:45:52.483Z"
+      "last_updated": "2026-06-30T21:37:48.182Z"
     },
     {
-      "rank": 58,
+      "rank": 75,
       "username": "rustykitty",
       "name": "Rusty",
       "avatar_url": "https://avatars.githubusercontent.com/u/126639439?v=4",
       "location": "United States",
       "score": 232,
       "tier": "COMMIT",
-      "rank_delta": 0,
+      "rank_delta": -17,
       "streak_days": 0,
       "followers": 7,
       "public_repos": 37,
@@ -2125,7 +2708,7 @@
         "activity": 212
       },
       "account_age_days": 1217,
-      "last_updated": "2026-06-30T20:45:52.483Z",
+      "last_updated": "2026-06-30T21:37:48.182Z",
       "_batch": 20
     }
   ]

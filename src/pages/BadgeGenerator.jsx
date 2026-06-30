@@ -13,7 +13,7 @@ function badgeUrl(username, rank) {
 function getSnippet(format, username, rank) {
   const url = badgeUrl(username, rank);
   const alt = `LeetIndex rank for ${username}`;
-  const link = `https://leetindex.dev`;
+  const link = `https://leetindex.com`;
   switch (format) {
     case 'Markdown':
       return `[![${alt}](${url})](${link})`;

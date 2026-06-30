@@ -46,7 +46,7 @@ jobs:
       - name: Commit leaderboard update
         run: |
           git config user.name  "leetindex-bot"
-          git config user.email "bot@leetindex.dev"
+          git config user.email "bot@leetindex.com"
 
           if git diff --quiet -- public/data.json; then
             echo "No changes to commit."

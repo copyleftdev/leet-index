@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-04T10:43:34.918Z",
+  "generated_at": "2026-07-04T11:35:02.706Z",
   "total_indexed": 502,
   "batch_coverage": {
-    "current": 10,
+    "current": 11,
     "total": 24,
-    "next_batch_at": "2026-07-04T11:43:34.918Z"
+    "next_batch_at": "2026-07-04T12:35:02.706Z"
   },
   "leaderboard": [
     {
@@ -46,7 +46,7 @@
         "repos": 100
       },
       "account_age_days": 4680,
-      "last_updated": "2026-07-04T10:43:34.916Z"
+      "last_updated": "2026-07-04T11:35:02.703Z"
     },
     {
       "rank": 2,
@@ -87,7 +87,7 @@
         "repos": 76
       },
       "account_age_days": 5508,
-      "last_updated": "2026-07-04T10:43:34.916Z"
+      "last_updated": "2026-07-04T11:35:02.704Z"
     },
     {
       "rank": 3,
@@ -128,7 +128,7 @@
         "repos": 100
       },
       "account_age_days": 5999,
-      "last_updated": "2026-07-04T10:43:34.916Z"
+      "last_updated": "2026-07-04T11:35:02.704Z"
     },
     {
       "rank": 4,
@@ -164,7 +164,7 @@
         "activity": 347
       },
       "account_age_days": 4063,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 3
     },
     {
@@ -206,7 +206,7 @@
         "repos": 98
       },
       "account_age_days": 5374,
-      "last_updated": "2026-07-04T10:43:34.916Z"
+      "last_updated": "2026-07-04T11:35:02.704Z"
     },
     {
       "rank": 6,
@@ -242,7 +242,7 @@
         "activity": 307
       },
       "account_age_days": 5887,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 0
     },
     {
@@ -284,7 +284,7 @@
         "repos": 57
       },
       "account_age_days": 6199,
-      "last_updated": "2026-07-04T10:43:34.916Z"
+      "last_updated": "2026-07-04T11:35:02.704Z"
     },
     {
       "rank": 8,
@@ -325,7 +325,7 @@
         "repos": 79
       },
       "account_age_days": 5978,
-      "last_updated": "2026-07-04T10:43:34.916Z"
+      "last_updated": "2026-07-04T11:35:02.704Z"
     },
     {
       "rank": 9,
@@ -366,7 +366,7 @@
         "repos": 37
       },
       "account_age_days": 6087,
-      "last_updated": "2026-07-04T10:43:34.916Z"
+      "last_updated": "2026-07-04T11:35:02.704Z"
     },
     {
       "rank": 10,
@@ -406,7 +406,7 @@
         "repos": 42
       },
       "account_age_days": 6696,
-      "last_updated": "2026-07-04T10:43:34.916Z"
+      "last_updated": "2026-07-04T11:35:02.704Z"
     },
     {
       "rank": 11,
@@ -442,7 +442,7 @@
         "activity": 366
       },
       "account_age_days": 2149,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 14
     },
     {
@@ -483,7 +483,7 @@
         "repos": 84
       },
       "account_age_days": 5762,
-      "last_updated": "2026-07-04T10:43:34.916Z"
+      "last_updated": "2026-07-04T11:35:02.704Z"
     },
     {
       "rank": 13,
@@ -517,7 +517,7 @@
         "activity": 401
       },
       "account_age_days": 4724,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 1
     },
     {
@@ -559,7 +559,7 @@
         "repos": 6
       },
       "account_age_days": 6696,
-      "last_updated": "2026-07-04T10:43:34.916Z"
+      "last_updated": "2026-07-04T11:35:02.704Z"
     },
     {
       "rank": 15,
@@ -595,7 +595,7 @@
         "activity": 316
       },
       "account_age_days": 5433,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 0
     },
     {
@@ -637,7 +637,7 @@
         "repos": 15
       },
       "account_age_days": 4593,
-      "last_updated": "2026-07-04T10:43:34.916Z"
+      "last_updated": "2026-07-04T11:35:02.704Z"
     },
     {
       "rank": 17,
@@ -673,7 +673,7 @@
         "activity": 252
       },
       "account_age_days": 2887,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 9
     },
     {
@@ -710,7 +710,7 @@
         "activity": 316
       },
       "account_age_days": 2652,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 10
     },
     {
@@ -747,7 +747,7 @@
         "activity": 319
       },
       "account_age_days": 5779,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 0
     },
     {
@@ -783,7 +783,7 @@
         "activity": 319
       },
       "account_age_days": 4412,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 1
     },
     {
@@ -825,7 +825,7 @@
         "repos": 100
       },
       "account_age_days": 5800,
-      "last_updated": "2026-07-04T10:43:34.916Z"
+      "last_updated": "2026-07-04T11:35:02.704Z"
     },
     {
       "rank": 22,
@@ -861,7 +861,7 @@
         "activity": 383
       },
       "account_age_days": 3669,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 5
     },
     {
@@ -898,7 +898,7 @@
         "activity": 347
       },
       "account_age_days": 5645,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 0
     },
     {
@@ -935,7 +935,7 @@
         "activity": 268
       },
       "account_age_days": 4503,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 1
     },
     {
@@ -972,7 +972,7 @@
         "activity": 252
       },
       "account_age_days": 5740,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 0
     },
     {
@@ -1009,7 +1009,7 @@
         "activity": 375
       },
       "account_age_days": 5178,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 0
     },
     {
@@ -1046,7 +1046,7 @@
         "activity": 322
       },
       "account_age_days": 4986,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 0
     },
     {
@@ -1083,7 +1083,7 @@
         "activity": 336
       },
       "account_age_days": 6100,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 0
     },
     {
@@ -1120,7 +1120,7 @@
         "activity": 339
       },
       "account_age_days": 3596,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 5
     },
     {
@@ -1157,7 +1157,7 @@
         "activity": 392
       },
       "account_age_days": 5037,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 0
     },
     {
@@ -1194,7 +1194,7 @@
         "activity": 216
       },
       "account_age_days": 4116,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 3
     },
     {
@@ -1236,7 +1236,7 @@
         "repos": 100
       },
       "account_age_days": 6242,
-      "last_updated": "2026-07-04T10:43:34.916Z"
+      "last_updated": "2026-07-04T11:35:02.704Z"
     },
     {
       "rank": 33,
@@ -1272,7 +1272,7 @@
         "activity": 272
       },
       "account_age_days": 5583,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 0
     },
     {
@@ -1309,7 +1309,7 @@
         "activity": 230
       },
       "account_age_days": 522,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 23
     },
     {
@@ -1346,7 +1346,7 @@
         "activity": 235
       },
       "account_age_days": 4723,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 1
     },
     {
@@ -1388,7 +1388,7 @@
         "repos": 76
       },
       "account_age_days": 4960,
-      "last_updated": "2026-07-04T10:43:34.916Z"
+      "last_updated": "2026-07-04T11:35:02.704Z"
     },
     {
       "rank": 37,
@@ -1424,7 +1424,7 @@
         "activity": 404
       },
       "account_age_days": 1903,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 15
     },
     {
@@ -1456,7 +1456,7 @@
         "activity": 290
       },
       "account_age_days": 3380,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 7
     },
     {
@@ -1498,7 +1498,7 @@
         "repos": 64
       },
       "account_age_days": 5618,
-      "last_updated": "2026-07-04T10:43:34.916Z"
+      "last_updated": "2026-07-04T11:35:02.704Z"
     },
     {
       "rank": 40,
@@ -1508,7 +1508,7 @@
       "location": "United States",
       "score": 771,
       "tier": "RELEASE",
-      "rank_delta": 3,
+      "rank_delta": 0,
       "streak_days": 0,
       "followers": 159,
       "public_repos": 40,
@@ -1534,7 +1534,7 @@
         "activity": 379
       },
       "account_age_days": 2747,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 10
     },
     {
@@ -1545,7 +1545,7 @@
       "location": "United States",
       "score": 768,
       "tier": "RELEASE",
-      "rank_delta": -1,
+      "rank_delta": 0,
       "streak_days": 0,
       "followers": 1320,
       "public_repos": 91,
@@ -1571,7 +1571,7 @@
         "activity": 248
       },
       "account_age_days": 5882,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 0
     },
     {
@@ -1582,7 +1582,7 @@
       "location": "Santa Barbara, California, United States",
       "score": 766,
       "tier": "RELEASE",
-      "rank_delta": -1,
+      "rank_delta": 0,
       "streak_days": 0,
       "followers": 788,
       "public_repos": 105,
@@ -1608,7 +1608,7 @@
         "activity": 388
       },
       "account_age_days": 6272,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 0
     },
     {
@@ -1619,7 +1619,7 @@
       "location": "United States",
       "score": 766,
       "tier": "RELEASE",
-      "rank_delta": -1,
+      "rank_delta": 0,
       "streak_days": 0,
       "followers": 416,
       "public_repos": 364,
@@ -1645,7 +1645,7 @@
         "activity": 370
       },
       "account_age_days": 5346,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 0
     },
     {
@@ -1682,7 +1682,7 @@
         "activity": 354
       },
       "account_age_days": 5368,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 0
     },
     {
@@ -1719,7 +1719,7 @@
         "activity": 361
       },
       "account_age_days": 1688,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 17
     },
     {
@@ -1756,7 +1756,7 @@
         "activity": 379
       },
       "account_age_days": 6526,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 0
     },
     {
@@ -1793,7 +1793,7 @@
         "activity": 339
       },
       "account_age_days": 6079,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 0
     },
     {
@@ -1830,7 +1830,7 @@
         "activity": 347
       },
       "account_age_days": 4082,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 3
     },
     {
@@ -1864,7 +1864,7 @@
         "activity": 370
       },
       "account_age_days": 471,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 23
     },
     {
@@ -1901,7 +1901,7 @@
         "activity": 319
       },
       "account_age_days": 5050,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 0
     },
     {
@@ -1938,7 +1938,7 @@
         "activity": 316
       },
       "account_age_days": 2256,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 13
     },
     {
@@ -1975,7 +1975,7 @@
         "activity": 202
       },
       "account_age_days": 5645,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 0
     },
     {
@@ -2010,7 +2010,7 @@
         "activity": 303
       },
       "account_age_days": 2150,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 14
     },
     {
@@ -2047,7 +2047,7 @@
         "activity": 383
       },
       "account_age_days": 4914,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 0
     },
     {
@@ -2084,7 +2084,7 @@
         "activity": 283
       },
       "account_age_days": 6550,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 0
     },
     {
@@ -2121,7 +2121,7 @@
         "activity": 328
       },
       "account_age_days": 4510,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 1
     },
     {
@@ -2157,7 +2157,7 @@
         "activity": 361
       },
       "account_age_days": 1198,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 20
     },
     {
@@ -2194,7 +2194,7 @@
         "activity": 373
       },
       "account_age_days": 2985,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 9
     },
     {
@@ -2231,7 +2231,7 @@
         "activity": 235
       },
       "account_age_days": 2845,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 9
     },
     {
@@ -2265,7 +2265,7 @@
         "activity": 404
       },
       "account_age_days": 2283,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 13
     },
     {
@@ -2307,7 +2307,7 @@
         "repos": 100
       },
       "account_age_days": 6424,
-      "last_updated": "2026-07-04T10:43:34.916Z"
+      "last_updated": "2026-07-04T11:35:02.704Z"
     },
     {
       "rank": 62,
@@ -2343,7 +2343,7 @@
         "activity": 279
       },
       "account_age_days": 3734,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 5
     },
     {
@@ -2380,7 +2380,7 @@
         "activity": 373
       },
       "account_age_days": 5397,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 0
     },
     {
@@ -2417,55 +2417,18 @@
         "activity": 387
       },
       "account_age_days": 5423,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 0
     },
     {
       "rank": 65,
-      "username": "macOS26",
-      "name": "Agent!",
-      "avatar_url": "https://avatars.githubusercontent.com/u/52664524?v=4",
-      "location": "United States of America",
-      "score": 592,
-      "tier": "MERGE",
-      "rank_delta": 0,
-      "streak_days": 0,
-      "followers": 142,
-      "public_repos": 71,
-      "events_30d": 90,
-      "total_stars": 1206,
-      "top_languages": [
-        "Swift",
-        "HTML",
-        "CSS",
-        "C",
-        "Objective-C"
-      ],
-      "tags": [],
-      "achievements": [
-        "STARS_1K",
-        "FOLLOWERS_100",
-        "MERGE_TIER"
-      ],
-      "score_breakdown": {
-        "stars": 145,
-        "followers": 24,
-        "repos": 36,
-        "activity": 388
-      },
-      "account_age_days": 2551,
-      "last_updated": "2026-07-04T10:43:34.916Z",
-      "_batch": 11
-    },
-    {
-      "rank": 66,
       "username": "nealwu",
       "name": "Neal Wu",
       "avatar_url": "https://avatars.githubusercontent.com/u/726075?v=4",
       "location": "United States",
       "score": 592,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": 1,
       "streak_days": 0,
       "followers": 1544,
       "public_repos": 37,
@@ -2491,8 +2454,45 @@
         "activity": 256
       },
       "account_age_days": 5560,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 0
+    },
+    {
+      "rank": 66,
+      "username": "macOS26",
+      "name": "Agent!",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52664524?v=4",
+      "location": "United States of America",
+      "score": 592,
+      "tier": "MERGE",
+      "rank_delta": -1,
+      "streak_days": 0,
+      "followers": 142,
+      "public_repos": 71,
+      "events_30d": 90,
+      "total_stars": 1206,
+      "top_languages": [
+        "Swift",
+        "HTML",
+        "CSS",
+        "C",
+        "Objective-C"
+      ],
+      "tags": [],
+      "achievements": [
+        "STARS_1K",
+        "FOLLOWERS_100",
+        "MERGE_TIER"
+      ],
+      "score_breakdown": {
+        "stars": 145,
+        "followers": 24,
+        "repos": 36,
+        "activity": 388
+      },
+      "account_age_days": 2552,
+      "last_updated": "2026-07-04T11:35:02.704Z",
+      "_batch": 11
     },
     {
       "rank": 67,
@@ -2528,7 +2528,7 @@
         "activity": 392
       },
       "account_age_days": 5557,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 0
     },
     {
@@ -2565,7 +2565,7 @@
         "activity": 226
       },
       "account_age_days": 4566,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 1
     },
     {
@@ -2601,7 +2601,7 @@
         "activity": 392
       },
       "account_age_days": 2339,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 12
     },
     {
@@ -2638,7 +2638,7 @@
         "activity": 268
       },
       "account_age_days": 5627,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 0
     },
     {
@@ -2675,7 +2675,7 @@
         "activity": 352
       },
       "account_age_days": 6408,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 0
     },
     {
@@ -2712,7 +2712,7 @@
         "activity": 286
       },
       "account_age_days": 4982,
-      "last_updated": "2026-07-04T10:43:34.916Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 0
     },
     {
@@ -2746,7 +2746,7 @@
         "activity": 377
       },
       "account_age_days": 2743,
-      "last_updated": "2026-07-04T10:43:34.917Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 10
     },
     {
@@ -2783,7 +2783,7 @@
         "activity": 381
       },
       "account_age_days": 4666,
-      "last_updated": "2026-07-04T10:43:34.917Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 1
     },
     {
@@ -2820,7 +2820,7 @@
         "activity": 359
       },
       "account_age_days": 939,
-      "last_updated": "2026-07-04T10:43:34.917Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 22
     },
     {
@@ -2853,7 +2853,7 @@
         "activity": 336
       },
       "account_age_days": 4599,
-      "last_updated": "2026-07-04T10:43:34.917Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 1
     },
     {
@@ -2890,7 +2890,7 @@
         "activity": 383
       },
       "account_age_days": 5971,
-      "last_updated": "2026-07-04T10:43:34.917Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 0
     },
     {
@@ -2927,7 +2927,7 @@
         "activity": 248
       },
       "account_age_days": 5533,
-      "last_updated": "2026-07-04T10:43:34.917Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 0
     },
     {
@@ -2964,7 +2964,7 @@
         "activity": 325
       },
       "account_age_days": 5421,
-      "last_updated": "2026-07-04T10:43:34.917Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 0
     },
     {
@@ -2975,7 +2975,7 @@
       "location": "United States",
       "score": 537,
       "tier": "MERGE",
-      "rank_delta": 4,
+      "rank_delta": 0,
       "streak_days": 0,
       "followers": 673,
       "public_repos": 245,
@@ -3000,7 +3000,7 @@
         "activity": 313
       },
       "account_age_days": 2760,
-      "last_updated": "2026-07-04T10:43:34.917Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 10
     },
     {
@@ -3011,7 +3011,7 @@
       "location": "United States",
       "score": 534,
       "tier": "MERGE",
-      "rank_delta": -1,
+      "rank_delta": 0,
       "streak_days": 0,
       "followers": 449,
       "public_repos": 148,
@@ -3036,7 +3036,7 @@
         "activity": 379
       },
       "account_age_days": 1585,
-      "last_updated": "2026-07-04T10:43:34.917Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 17
     },
     {
@@ -3047,7 +3047,7 @@
       "location": "United States",
       "score": 533,
       "tier": "MERGE",
-      "rank_delta": -1,
+      "rank_delta": 0,
       "streak_days": 0,
       "followers": 103,
       "public_repos": 191,
@@ -3073,7 +3073,7 @@
         "activity": 373
       },
       "account_age_days": 4134,
-      "last_updated": "2026-07-04T10:43:34.917Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 3
     },
     {
@@ -3084,7 +3084,7 @@
       "location": "Washington, United States",
       "score": 530,
       "tier": "MERGE",
-      "rank_delta": -1,
+      "rank_delta": 0,
       "streak_days": 0,
       "followers": 274,
       "public_repos": 57,
@@ -3109,7 +3109,7 @@
         "activity": 385
       },
       "account_age_days": 3133,
-      "last_updated": "2026-07-04T10:43:34.917Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 8
     },
     {
@@ -3120,7 +3120,7 @@
       "location": "United States",
       "score": 528,
       "tier": "MERGE",
-      "rank_delta": -1,
+      "rank_delta": 0,
       "streak_days": 0,
       "followers": 374,
       "public_repos": 251,
@@ -3146,7 +3146,7 @@
         "activity": 286
       },
       "account_age_days": 4816,
-      "last_updated": "2026-07-04T10:43:34.917Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 0
     },
     {
@@ -3183,7 +3183,7 @@
         "activity": 357
       },
       "account_age_days": 4702,
-      "last_updated": "2026-07-04T10:43:34.917Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 1
     },
     {
@@ -3220,7 +3220,7 @@
         "activity": 357
       },
       "account_age_days": 5773,
-      "last_updated": "2026-07-04T10:43:34.917Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 0
     },
     {
@@ -3257,55 +3257,18 @@
         "activity": 385
       },
       "account_age_days": 4106,
-      "last_updated": "2026-07-04T10:43:34.917Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 3
     },
     {
       "rank": 88,
-      "username": "ZeroIntensity",
-      "name": "Peter Bierma",
-      "avatar_url": "https://avatars.githubusercontent.com/u/49501366?v=4",
-      "location": "United States",
-      "score": 519,
-      "tier": "MERGE",
-      "rank_delta": 0,
-      "streak_days": 0,
-      "followers": 218,
-      "public_repos": 51,
-      "events_30d": 56,
-      "total_stars": 1278,
-      "top_languages": [
-        "C",
-        "Python",
-        "TypeScript",
-        "reStructuredText",
-        "HTML"
-      ],
-      "tags": [],
-      "achievements": [
-        "STARS_1K",
-        "FOLLOWERS_100",
-        "MERGE_TIER"
-      ],
-      "score_breakdown": {
-        "stars": 153,
-        "followers": 36,
-        "repos": 26,
-        "activity": 303
-      },
-      "account_age_days": 2640,
-      "last_updated": "2026-07-04T10:43:34.917Z",
-      "_batch": 11
-    },
-    {
-      "rank": 89,
       "username": "agegr",
       "name": "Alex Yang",
       "avatar_url": "https://avatars.githubusercontent.com/u/12794925?v=4",
       "location": "United States",
       "score": 519,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": 1,
       "streak_days": 0,
       "followers": 94,
       "public_repos": 14,
@@ -3330,8 +3293,45 @@
         "activity": 354
       },
       "account_age_days": 4043,
-      "last_updated": "2026-07-04T10:43:34.917Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 3
+    },
+    {
+      "rank": 89,
+      "username": "ZeroIntensity",
+      "name": "Peter Bierma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49501366?v=4",
+      "location": "United States",
+      "score": 519,
+      "tier": "MERGE",
+      "rank_delta": -1,
+      "streak_days": 0,
+      "followers": 218,
+      "public_repos": 51,
+      "events_30d": 56,
+      "total_stars": 1279,
+      "top_languages": [
+        "C",
+        "Python",
+        "TypeScript",
+        "reStructuredText",
+        "HTML"
+      ],
+      "tags": [],
+      "achievements": [
+        "STARS_1K",
+        "FOLLOWERS_100",
+        "MERGE_TIER"
+      ],
+      "score_breakdown": {
+        "stars": 153,
+        "followers": 36,
+        "repos": 26,
+        "activity": 303
+      },
+      "account_age_days": 2641,
+      "last_updated": "2026-07-04T11:35:02.704Z",
+      "_batch": 11
     },
     {
       "rank": 90,
@@ -3367,7 +3367,7 @@
         "activity": 290
       },
       "account_age_days": 6342,
-      "last_updated": "2026-07-04T10:43:34.917Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 0
     },
     {
@@ -3404,7 +3404,7 @@
         "activity": 364
       },
       "account_age_days": 3370,
-      "last_updated": "2026-07-04T10:43:34.917Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 7
     },
     {
@@ -3438,7 +3438,7 @@
         "activity": 207
       },
       "account_age_days": 562,
-      "last_updated": "2026-07-04T10:43:34.917Z",
+      "last_updated": "2026-07-04T11:35:02.704Z",
       "_batch": 23
     },
     {
@@ -3475,7 +3475,7 @@
         "activity": 334
       },
       "account_age_days": 4711,
-      "last_updated": "2026-07-04T10:43:34.917Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 1
     },
     {
@@ -3511,7 +3511,7 @@
         "activity": 396
       },
       "account_age_days": 2102,
-      "last_updated": "2026-07-04T10:43:34.917Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 14
     },
     {
@@ -3546,7 +3546,7 @@
         "activity": 243
       },
       "account_age_days": 501,
-      "last_updated": "2026-07-04T10:43:34.917Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 23
     },
     {
@@ -3582,7 +3582,7 @@
         "activity": 322
       },
       "account_age_days": 6233,
-      "last_updated": "2026-07-04T10:43:34.917Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 0
     },
     {
@@ -3619,7 +3619,7 @@
         "activity": 361
       },
       "account_age_days": 4621,
-      "last_updated": "2026-07-04T10:43:34.917Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 1
     },
     {
@@ -3656,7 +3656,7 @@
         "activity": 394
       },
       "account_age_days": 1742,
-      "last_updated": "2026-07-04T10:43:34.917Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 16
     },
     {
@@ -3692,7 +3692,7 @@
         "activity": 406
       },
       "account_age_days": 5160,
-      "last_updated": "2026-07-04T10:43:34.917Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 0
     },
     {
@@ -3729,7 +3729,7 @@
         "activity": 342
       },
       "account_age_days": 4439,
-      "last_updated": "2026-07-04T10:43:34.917Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 1
     },
     {
@@ -3766,7 +3766,7 @@
         "activity": 406
       },
       "account_age_days": 4458,
-      "last_updated": "2026-07-04T10:43:34.917Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 1
     },
     {
@@ -3803,7 +3803,7 @@
         "activity": 297
       },
       "account_age_days": 3586,
-      "last_updated": "2026-07-04T10:43:34.917Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 5
     },
     {
@@ -3840,7 +3840,7 @@
         "activity": 347
       },
       "account_age_days": 5506,
-      "last_updated": "2026-07-04T10:43:34.917Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 0
     },
     {
@@ -3876,7 +3876,7 @@
         "activity": 344
       },
       "account_age_days": 2137,
-      "last_updated": "2026-07-04T10:43:34.917Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 14
     },
     {
@@ -3913,7 +3913,7 @@
         "activity": 344
       },
       "account_age_days": 4613,
-      "last_updated": "2026-07-04T10:43:34.917Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 1
     },
     {
@@ -3950,7 +3950,7 @@
         "activity": 328
       },
       "account_age_days": 6639,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 0
     },
     {
@@ -3987,7 +3987,7 @@
         "activity": 297
       },
       "account_age_days": 4424,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 1
     },
     {
@@ -4021,7 +4021,7 @@
         "activity": 260
       },
       "account_age_days": 3360,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 7
     },
     {
@@ -4057,7 +4057,7 @@
         "activity": 342
       },
       "account_age_days": 3969,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 3
     },
     {
@@ -4092,7 +4092,7 @@
         "activity": 392
       },
       "account_age_days": 228,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 23
     },
     {
@@ -4129,7 +4129,7 @@
         "activity": 368
       },
       "account_age_days": 5188,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 0
     },
     {
@@ -4164,7 +4164,7 @@
         "activity": 379
       },
       "account_age_days": 1658,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 17
     },
     {
@@ -4201,7 +4201,7 @@
         "activity": 293
       },
       "account_age_days": 4392,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 1
     },
     {
@@ -4236,7 +4236,7 @@
         "activity": 357
       },
       "account_age_days": 2905,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 9
     },
     {
@@ -4247,7 +4247,7 @@
       "location": "United States",
       "score": 474,
       "tier": "MERGE",
-      "rank_delta": 1,
+      "rank_delta": 0,
       "streak_days": 0,
       "followers": 29,
       "public_repos": 92,
@@ -4272,7 +4272,7 @@
         "activity": 394
       },
       "account_age_days": 3605,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 5
     },
     {
@@ -4283,7 +4283,7 @@
       "location": "Pittsburgh, United States",
       "score": 474,
       "tier": "MERGE",
-      "rank_delta": -1,
+      "rank_delta": 0,
       "streak_days": 0,
       "followers": 659,
       "public_repos": 39,
@@ -4308,7 +4308,7 @@
         "activity": 339
       },
       "account_age_days": 2784,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 10
     },
     {
@@ -4345,7 +4345,7 @@
         "activity": 252
       },
       "account_age_days": 6210,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 0
     },
     {
@@ -4381,7 +4381,7 @@
         "activity": 316
       },
       "account_age_days": 4427,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 1
     },
     {
@@ -4418,7 +4418,7 @@
         "activity": 275
       },
       "account_age_days": 3216,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 7
     },
     {
@@ -4455,7 +4455,7 @@
         "activity": 303
       },
       "account_age_days": 4807,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 0
     },
     {
@@ -4491,7 +4491,7 @@
         "activity": 397
       },
       "account_age_days": 3381,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 7
     },
     {
@@ -4527,7 +4527,7 @@
         "activity": 293
       },
       "account_age_days": 2141,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 14
     },
     {
@@ -4563,7 +4563,7 @@
         "activity": 272
       },
       "account_age_days": 3373,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 7
     },
     {
@@ -4599,7 +4599,7 @@
         "activity": 377
       },
       "account_age_days": 2162,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 13
     },
     {
@@ -4636,7 +4636,7 @@
         "activity": 347
       },
       "account_age_days": 5191,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 0
     },
     {
@@ -4673,7 +4673,7 @@
         "activity": 344
       },
       "account_age_days": 4072,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 3
     },
     {
@@ -4705,7 +4705,7 @@
         "activity": 402
       },
       "account_age_days": 2834,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 9
     },
     {
@@ -4716,7 +4716,7 @@
       "location": "SD, United States",
       "score": 460,
       "tier": "MERGE",
-      "rank_delta": 1,
+      "rank_delta": 0,
       "streak_days": 0,
       "followers": 140,
       "public_repos": 69,
@@ -4741,7 +4741,7 @@
         "activity": 396
       },
       "account_age_days": 2090,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 14
     },
     {
@@ -4752,7 +4752,7 @@
       "location": "San Francisco, United States",
       "score": 460,
       "tier": "MERGE",
-      "rank_delta": -1,
+      "rank_delta": 0,
       "streak_days": 0,
       "followers": 136,
       "public_repos": 111,
@@ -4778,7 +4778,7 @@
         "activity": 368
       },
       "account_age_days": 2783,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 10
     },
     {
@@ -4815,7 +4815,7 @@
         "activity": 313
       },
       "account_age_days": 3268,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 7
     },
     {
@@ -4852,7 +4852,7 @@
         "activity": 290
       },
       "account_age_days": 5331,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 0
     },
     {
@@ -4886,7 +4886,7 @@
         "activity": 334
       },
       "account_age_days": 5753,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 0
     },
     {
@@ -4921,7 +4921,7 @@
         "activity": 402
       },
       "account_age_days": 1363,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 19
     },
     {
@@ -4957,7 +4957,7 @@
         "activity": 396
       },
       "account_age_days": 3681,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 5
     },
     {
@@ -4992,7 +4992,7 @@
         "activity": 396
       },
       "account_age_days": 1600,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 17
     },
     {
@@ -5028,7 +5028,7 @@
         "activity": 359
       },
       "account_age_days": 4518,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 1
     },
     {
@@ -5065,7 +5065,7 @@
         "activity": 373
       },
       "account_age_days": 4715,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 1
     },
     {
@@ -5101,7 +5101,7 @@
         "activity": 387
       },
       "account_age_days": 4104,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 3
     },
     {
@@ -5138,7 +5138,7 @@
         "activity": 248
       },
       "account_age_days": 5324,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 0
     },
     {
@@ -5175,7 +5175,7 @@
         "activity": 313
       },
       "account_age_days": 3599,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 5
     },
     {
@@ -5211,7 +5211,7 @@
         "activity": 402
       },
       "account_age_days": 910,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 22
     },
     {
@@ -5248,7 +5248,7 @@
         "activity": 310
       },
       "account_age_days": 2232,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 13
     },
     {
@@ -5282,7 +5282,7 @@
         "activity": 402
       },
       "account_age_days": 1376,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 19
     },
     {
@@ -5318,7 +5318,7 @@
         "activity": 366
       },
       "account_age_days": 2768,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 10
     },
     {
@@ -5354,7 +5354,7 @@
         "activity": 316
       },
       "account_age_days": 4647,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 1
     },
     {
@@ -5365,7 +5365,7 @@
       "location": "United States",
       "score": 446,
       "tier": "MERGE",
-      "rank_delta": 1,
+      "rank_delta": 0,
       "streak_days": 0,
       "followers": 108,
       "public_repos": 102,
@@ -5391,7 +5391,7 @@
         "activity": 316
       },
       "account_age_days": 2739,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 10
     },
     {
@@ -5402,7 +5402,7 @@
       "location": "CA, United States",
       "score": 445,
       "tier": "MERGE",
-      "rank_delta": -1,
+      "rank_delta": 0,
       "streak_days": 0,
       "followers": 476,
       "public_repos": 153,
@@ -5428,7 +5428,7 @@
         "activity": 239
       },
       "account_age_days": 6367,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 0
     },
     {
@@ -5464,7 +5464,7 @@
         "activity": 401
       },
       "account_age_days": 2084,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 14
     },
     {
@@ -5497,7 +5497,7 @@
         "activity": 406
       },
       "account_age_days": 247,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 23
     },
     {
@@ -5533,7 +5533,7 @@
         "activity": 344
       },
       "account_age_days": 4025,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 3
     },
     {
@@ -5568,7 +5568,7 @@
         "activity": 375
       },
       "account_age_days": 1824,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 16
     },
     {
@@ -5603,53 +5603,18 @@
         "activity": 368
       },
       "account_age_days": 1730,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 16
     },
     {
       "rank": 153,
-      "username": "tekrajchhetri",
-      "name": "Tek Raj Chhetri",
-      "avatar_url": "https://avatars.githubusercontent.com/u/52251022?v=4",
-      "location": "United States",
-      "score": 435,
-      "tier": "MERGE",
-      "rank_delta": 0,
-      "streak_days": 0,
-      "followers": 22,
-      "public_repos": 142,
-      "events_30d": 76,
-      "total_stars": 9,
-      "top_languages": [
-        "Jupyter Notebook",
-        "Python",
-        "TypeScript",
-        "HTML",
-        "Rust"
-      ],
-      "tags": [],
-      "achievements": [
-        "MERGE_TIER"
-      ],
-      "score_breakdown": {
-        "stars": 1,
-        "followers": 4,
-        "repos": 71,
-        "activity": 359
-      },
-      "account_age_days": 2563,
-      "last_updated": "2026-07-04T10:43:34.918Z",
-      "_batch": 11
-    },
-    {
-      "rank": 154,
       "username": "codenlighten",
       "name": "always_learning",
       "avatar_url": "https://avatars.githubusercontent.com/u/61051193?v=4",
       "location": "United States of America",
       "score": 435,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": 1,
       "streak_days": 0,
       "followers": 21,
       "public_repos": 305,
@@ -5673,18 +5638,18 @@
         "activity": 331
       },
       "account_age_days": 2331,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 12
     },
     {
-      "rank": 155,
+      "rank": 154,
       "username": "DrAcula27",
       "name": "Danielle Andrews",
       "avatar_url": "https://avatars.githubusercontent.com/u/62191468?v=4",
       "location": "Washington, United States",
       "score": 435,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": 1,
       "streak_days": 0,
       "followers": 29,
       "public_repos": 90,
@@ -5708,18 +5673,18 @@
         "activity": 377
       },
       "account_age_days": 2301,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 13
     },
     {
-      "rank": 156,
+      "rank": 155,
       "username": "litecreator",
       "name": "Marlon Hanks",
       "avatar_url": "https://avatars.githubusercontent.com/u/6027733?v=4",
       "location": "United States",
       "score": 435,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": 1,
       "streak_days": 0,
       "followers": 128,
       "public_repos": 15,
@@ -5742,8 +5707,43 @@
         "activity": 406
       },
       "account_age_days": 4603,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 1
+    },
+    {
+      "rank": 156,
+      "username": "tekrajchhetri",
+      "name": "Tek Raj Chhetri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52251022?v=4",
+      "location": "United States",
+      "score": 435,
+      "tier": "MERGE",
+      "rank_delta": -3,
+      "streak_days": 0,
+      "followers": 22,
+      "public_repos": 142,
+      "events_30d": 76,
+      "total_stars": 9,
+      "top_languages": [
+        "Jupyter Notebook",
+        "Python",
+        "TypeScript",
+        "HTML",
+        "Rust"
+      ],
+      "tags": [],
+      "achievements": [
+        "MERGE_TIER"
+      ],
+      "score_breakdown": {
+        "stars": 1,
+        "followers": 4,
+        "repos": 71,
+        "activity": 359
+      },
+      "account_age_days": 2564,
+      "last_updated": "2026-07-04T11:35:02.705Z",
+      "_batch": 11
     },
     {
       "rank": 157,
@@ -5779,7 +5779,7 @@
         "activity": 307
       },
       "account_age_days": 1866,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 15
     },
     {
@@ -5815,7 +5815,7 @@
         "activity": 397
       },
       "account_age_days": 3108,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 8
     },
     {
@@ -5851,7 +5851,7 @@
         "activity": 349
       },
       "account_age_days": 4586,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 1
     },
     {
@@ -5887,7 +5887,7 @@
         "activity": 383
       },
       "account_age_days": 1291,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 19
     },
     {
@@ -5924,7 +5924,7 @@
         "activity": 342
       },
       "account_age_days": 4463,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 1
     },
     {
@@ -5960,7 +5960,7 @@
         "activity": 334
       },
       "account_age_days": 3618,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 5
     },
     {
@@ -5995,7 +5995,7 @@
         "activity": 406
       },
       "account_age_days": 2371,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 12
     },
     {
@@ -6030,7 +6030,7 @@
         "activity": 377
       },
       "account_age_days": 1275,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 19
     },
     {
@@ -6065,7 +6065,7 @@
         "activity": 364
       },
       "account_age_days": 3690,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 5
     },
     {
@@ -6102,7 +6102,7 @@
         "activity": 366
       },
       "account_age_days": 3126,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 8
     },
     {
@@ -6138,7 +6138,7 @@
         "activity": 361
       },
       "account_age_days": 3125,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 8
     },
     {
@@ -6173,7 +6173,7 @@
         "activity": 303
       },
       "account_age_days": 2775,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 10
     },
     {
@@ -6209,7 +6209,7 @@
         "activity": 303
       },
       "account_age_days": 1787,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 16
     },
     {
@@ -6244,7 +6244,7 @@
         "activity": 396
       },
       "account_age_days": 1352,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 19
     },
     {
@@ -6279,7 +6279,7 @@
         "activity": 406
       },
       "account_age_days": 4550,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 1
     },
     {
@@ -6314,18 +6314,53 @@
         "activity": 366
       },
       "account_age_days": 2460,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 12
     },
     {
       "rank": 173,
+      "username": "JMR-dev",
+      "name": "Jason Ross",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51939451?v=4",
+      "location": "United States",
+      "score": 426,
+      "tier": "MERGE",
+      "rank_delta": 53,
+      "streak_days": 0,
+      "followers": 22,
+      "public_repos": 91,
+      "events_30d": 84,
+      "total_stars": 3,
+      "top_languages": [
+        "Kotlin",
+        "Go",
+        "Rust",
+        "Python",
+        "PowerShell"
+      ],
+      "tags": [],
+      "achievements": [
+        "MERGE_TIER"
+      ],
+      "score_breakdown": {
+        "stars": 0,
+        "followers": 4,
+        "repos": 46,
+        "activity": 377
+      },
+      "account_age_days": 2573,
+      "last_updated": "2026-07-04T11:35:02.705Z",
+      "_batch": 11
+    },
+    {
+      "rank": 174,
       "username": "AbstractMelon",
       "name": "Abstractmelon",
       "avatar_url": "https://avatars.githubusercontent.com/u/129030233?v=4",
       "location": "United States",
       "score": 425,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 18,
       "public_repos": 192,
@@ -6349,18 +6384,18 @@
         "activity": 316
       },
       "account_age_days": 1194,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 20
     },
     {
-      "rank": 174,
+      "rank": 175,
       "username": "alpaylan",
       "name": "Alperen Keleş",
       "avatar_url": "https://avatars.githubusercontent.com/u/19610315?v=4",
       "location": "Maryland, United States",
       "score": 425,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 383,
       "public_repos": 242,
@@ -6385,18 +6420,18 @@
         "activity": 260
       },
       "account_age_days": 3689,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 5
     },
     {
-      "rank": 175,
+      "rank": 176,
       "username": "coleleavitt",
       "name": "Cole W. Leavitt",
       "avatar_url": "https://avatars.githubusercontent.com/u/75138914?v=4",
       "location": "Michigan, United States",
       "score": 424,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 57,
       "public_repos": 101,
@@ -6420,18 +6455,18 @@
         "activity": 361
       },
       "account_age_days": 2043,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 14
     },
     {
-      "rank": 176,
+      "rank": 177,
       "username": "USA-RedDragon",
       "name": "Jacob McSwain",
       "avatar_url": "https://avatars.githubusercontent.com/u/13051767?v=4",
       "location": "United States",
       "score": 424,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 118,
       "public_repos": 151,
@@ -6457,18 +6492,18 @@
         "activity": 313
       },
       "account_age_days": 4026,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 3
     },
     {
-      "rank": 177,
+      "rank": 178,
       "username": "Alphalaneous",
       "name": "Ashton",
       "avatar_url": "https://avatars.githubusercontent.com/u/38200084?v=4",
       "location": "United States",
       "score": 424,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 99,
       "public_repos": 72,
@@ -6491,18 +6526,18 @@
         "activity": 359
       },
       "account_age_days": 3008,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 9
     },
     {
-      "rank": 178,
+      "rank": 179,
       "username": "TriMPham98",
       "name": "Tri Pham",
       "avatar_url": "https://avatars.githubusercontent.com/u/70353051?v=4",
       "location": "San Jose, CA, United States",
       "score": 423,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 43,
       "public_repos": 131,
@@ -6526,18 +6561,18 @@
         "activity": 342
       },
       "account_age_days": 2135,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 14
     },
     {
-      "rank": 179,
+      "rank": 180,
       "username": "Zollicoff",
       "name": "Zachary A. Hampton",
       "avatar_url": "https://avatars.githubusercontent.com/u/95104559?v=4",
       "location": "California, United States",
       "score": 423,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 13,
       "public_repos": 33,
@@ -6561,18 +6596,18 @@
         "activity": 402
       },
       "account_age_days": 1679,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 17
     },
     {
-      "rank": 180,
+      "rank": 181,
       "username": "ihateblueb",
       "name": "harper",
       "avatar_url": "https://avatars.githubusercontent.com/u/118416443?v=4",
       "location": "North Carolina, United States",
       "score": 423,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 17,
       "public_repos": 48,
@@ -6596,18 +6631,18 @@
         "activity": 388
       },
       "account_age_days": 1324,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 19
     },
     {
-      "rank": 181,
+      "rank": 182,
       "username": "MegaPhoenix92",
       "name": "Chris Ozsvath",
       "avatar_url": "https://avatars.githubusercontent.com/u/142112319?v=4",
       "location": "United States",
       "score": 423,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 4,
       "public_repos": 33,
@@ -6630,18 +6665,18 @@
         "activity": 406
       },
       "account_age_days": 1056,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 21
     },
     {
-      "rank": 182,
+      "rank": 183,
       "username": "Shubham91999",
       "name": "Shubham Kulkarni",
       "avatar_url": "https://avatars.githubusercontent.com/u/156979814?v=4",
       "location": "United States",
       "score": 422,
       "tier": "MERGE",
-      "rank_delta": 1,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 5,
       "public_repos": 64,
@@ -6665,11 +6700,11 @@
         "activity": 388
       },
       "account_age_days": 897,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 22
     },
     {
-      "rank": 183,
+      "rank": 184,
       "username": "Flohhhhh",
       "name": "Floh",
       "avatar_url": "https://avatars.githubusercontent.com/u/48927090?v=4",
@@ -6699,18 +6734,18 @@
         "activity": 397
       },
       "account_age_days": 2657,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 10
     },
     {
-      "rank": 184,
+      "rank": 185,
       "username": "papadanku",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/115061077?v=4",
       "location": "United States",
       "score": 421,
       "tier": "MERGE",
-      "rank_delta": 1,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 15,
       "public_repos": 10,
@@ -6734,11 +6769,11 @@
         "activity": 406
       },
       "account_age_days": 1367,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 19
     },
     {
-      "rank": 185,
+      "rank": 186,
       "username": "rocketprogrammer",
       "name": "Jaden",
       "avatar_url": "https://avatars.githubusercontent.com/u/48968887?v=4",
@@ -6769,18 +6804,18 @@
         "activity": 390
       },
       "account_age_days": 2656,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 10
     },
     {
-      "rank": 186,
+      "rank": 187,
       "username": "MrBrain295",
       "name": "Gabe",
       "avatar_url": "https://avatars.githubusercontent.com/u/66077254?v=4",
       "location": "United States",
       "score": 420,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 85,
       "public_repos": 191,
@@ -6804,18 +6839,18 @@
         "activity": 310
       },
       "account_age_days": 2226,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 13
     },
     {
-      "rank": 187,
+      "rank": 188,
       "username": "SternXD",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/70122891?v=4",
       "location": "Virginia, United States",
       "score": 420,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 89,
       "public_repos": 138,
@@ -6840,18 +6875,18 @@
         "activity": 319
       },
       "account_age_days": 2139,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 14
     },
     {
-      "rank": 188,
+      "rank": 189,
       "username": "ethanvillalovoz",
       "name": "Ethan Villalovoz",
       "avatar_url": "https://avatars.githubusercontent.com/u/110315314?v=4",
       "location": "Sacramento, California, United States",
       "score": 420,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 18,
       "public_repos": 19,
@@ -6875,18 +6910,18 @@
         "activity": 406
       },
       "account_age_days": 1433,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 18
     },
     {
-      "rank": 189,
+      "rank": 190,
       "username": "Ashishlathkar77",
       "name": "Ashish Lathkar",
       "avatar_url": "https://avatars.githubusercontent.com/u/63287421?v=4",
       "location": "Chicago, United States",
       "score": 419,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 23,
       "public_repos": 71,
@@ -6910,18 +6945,18 @@
         "activity": 379
       },
       "account_age_days": 2278,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 13
     },
     {
-      "rank": 190,
+      "rank": 191,
       "username": "sriakula1",
       "name": "Sri Akula",
       "avatar_url": "https://avatars.githubusercontent.com/u/78380822?v=4",
       "location": "United States",
       "score": 418,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 47,
       "public_repos": 62,
@@ -6943,18 +6978,18 @@
         "activity": 379
       },
       "account_age_days": 1977,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 15
     },
     {
-      "rank": 191,
+      "rank": 192,
       "username": "jszwedko",
       "name": "Jesse Szwedko",
       "avatar_url": "https://avatars.githubusercontent.com/u/316880?v=4",
       "location": "Los Angeles, California, United States",
       "score": 418,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 295,
       "public_repos": 119,
@@ -6980,18 +7015,18 @@
         "activity": 275
       },
       "account_age_days": 5849,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 0
     },
     {
-      "rank": 192,
+      "rank": 193,
       "username": "rssnyder",
       "name": "Riley Snyder",
       "avatar_url": "https://avatars.githubusercontent.com/u/7338312?v=4",
       "location": "United States",
       "score": 417,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 114,
       "public_repos": 190,
@@ -7017,18 +7052,18 @@
         "activity": 264
       },
       "account_age_days": 4459,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 1
     },
     {
-      "rank": 193,
+      "rank": 194,
       "username": "shibbo",
       "name": "shibboleet",
       "avatar_url": "https://avatars.githubusercontent.com/u/22485411?v=4",
       "location": "United States",
       "score": 417,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 153,
       "public_repos": 46,
@@ -7054,18 +7089,18 @@
         "activity": 310
       },
       "account_age_days": 3566,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 5
     },
     {
-      "rank": 194,
+      "rank": 195,
       "username": "bunu23",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/94806809?v=4",
       "location": "United States",
       "score": 415,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 38,
       "public_repos": 33,
@@ -7089,18 +7124,18 @@
         "activity": 390
       },
       "account_age_days": 1684,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 17
     },
     {
-      "rank": 195,
+      "rank": 196,
       "username": "michaelyxsun",
       "name": "Michael Sun",
       "avatar_url": "https://avatars.githubusercontent.com/u/135639910?v=4",
       "location": "California, United States",
       "score": 415,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 12,
       "public_repos": 20,
@@ -7124,18 +7159,18 @@
         "activity": 402
       },
       "account_age_days": 1124,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 20
     },
     {
-      "rank": 196,
+      "rank": 197,
       "username": "Serial-ATA",
       "name": "Alex",
       "avatar_url": "https://avatars.githubusercontent.com/u/69764315?v=4",
       "location": "United States",
       "score": 414,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 29,
       "public_repos": 53,
@@ -7160,18 +7195,18 @@
         "activity": 339
       },
       "account_age_days": 2146,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 14
     },
     {
-      "rank": 197,
+      "rank": 198,
       "username": "outfoxxed",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/83010835?v=4",
       "location": "United States",
       "score": 414,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 249,
       "public_repos": 32,
@@ -7197,18 +7232,18 @@
         "activity": 197
       },
       "account_age_days": 1898,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 15
     },
     {
-      "rank": 198,
+      "rank": 199,
       "username": "DEV-DIBSTER",
       "name": "DIBSTER",
       "avatar_url": "https://avatars.githubusercontent.com/u/76603072?v=4",
       "location": "United States",
       "score": 413,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 137,
       "public_repos": 50,
@@ -7233,18 +7268,18 @@
         "activity": 364
       },
       "account_age_days": 2015,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 14
     },
     {
-      "rank": 199,
+      "rank": 200,
       "username": "noodleweapon",
       "name": "Jason Yeon",
       "avatar_url": "https://avatars.githubusercontent.com/u/83441512?v=4",
       "location": "Chicago, United States",
       "score": 413,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 16,
       "public_repos": 9,
@@ -7268,18 +7303,18 @@
         "activity": 406
       },
       "account_age_days": 1890,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 15
     },
     {
-      "rank": 200,
+      "rank": 201,
       "username": "jhheider",
       "name": "Jacob Heider",
       "avatar_url": "https://avatars.githubusercontent.com/u/13246308?v=4",
       "location": "New Hampshire, United States",
       "score": 413,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 151,
       "public_repos": 33,
@@ -7304,18 +7339,18 @@
         "activity": 370
       },
       "account_age_days": 4013,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 3
     },
     {
-      "rank": 201,
+      "rank": 202,
       "username": "flleeppyy",
       "name": "Chen Marisa",
       "avatar_url": "https://avatars.githubusercontent.com/u/18307183?v=4",
       "location": "California, United States",
       "score": 413,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 97,
       "public_repos": 95,
@@ -7339,18 +7374,18 @@
         "activity": 339
       },
       "account_age_days": 3740,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 5
     },
     {
-      "rank": 202,
+      "rank": 203,
       "username": "sinatayebati",
       "name": "Sina Tayebati",
       "avatar_url": "https://avatars.githubusercontent.com/u/56824605?v=4",
       "location": "United States of America",
       "score": 412,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 40,
       "public_repos": 40,
@@ -7374,18 +7409,18 @@
         "activity": 377
       },
       "account_age_days": 2447,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 12
     },
     {
-      "rank": 203,
+      "rank": 204,
       "username": "DSB-117",
       "name": "Dakota Barnett",
       "avatar_url": "https://avatars.githubusercontent.com/u/88103615?v=4",
       "location": "United States",
       "score": 412,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 41,
       "public_repos": 16,
@@ -7407,18 +7442,18 @@
         "activity": 377
       },
       "account_age_days": 1801,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 16
     },
     {
-      "rank": 204,
+      "rank": 205,
       "username": "moxie-coder",
       "name": "Flynn Waiver",
       "avatar_url": "https://avatars.githubusercontent.com/u/124418090?v=4",
       "location": "United States",
       "score": 412,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 330,
       "public_repos": 215,
@@ -7443,18 +7478,18 @@
         "activity": 256
       },
       "account_age_days": 1245,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 20
     },
     {
-      "rank": 205,
+      "rank": 206,
       "username": "NothingButTyler",
       "name": "NothingButTyler",
       "avatar_url": "https://avatars.githubusercontent.com/u/149272952?v=4",
       "location": "United States of America",
       "score": 412,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 11,
       "public_repos": 19,
@@ -7476,18 +7511,18 @@
         "activity": 399
       },
       "account_age_days": 979,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 21
     },
     {
-      "rank": 206,
+      "rank": 207,
       "username": "jimmy-guzman",
       "name": "Jimmy Guzman",
       "avatar_url": "https://avatars.githubusercontent.com/u/30631540?v=4",
       "location": "United States",
       "score": 411,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 42,
       "public_repos": 115,
@@ -7511,18 +7546,18 @@
         "activity": 342
       },
       "account_age_days": 3258,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 7
     },
     {
-      "rank": 207,
+      "rank": 208,
       "username": "james-pre",
       "name": "James Prevett",
       "avatar_url": "https://avatars.githubusercontent.com/u/75621402?v=4",
       "location": "United States",
       "score": 410,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 38,
       "public_repos": 26,
@@ -7546,18 +7581,18 @@
         "activity": 387
       },
       "account_age_days": 2034,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 14
     },
     {
-      "rank": 208,
+      "rank": 209,
       "username": "SobusaDriver",
       "name": "Keneth Lallemand",
       "avatar_url": "https://avatars.githubusercontent.com/u/83555179?v=4",
       "location": "New York, United States Of America",
       "score": 410,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 17,
       "public_repos": 10,
@@ -7580,18 +7615,18 @@
         "activity": 402
       },
       "account_age_days": 1887,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 15
     },
     {
-      "rank": 209,
+      "rank": 210,
       "username": "MajorDigest",
       "name": "Major Digest",
       "avatar_url": "https://avatars.githubusercontent.com/u/142632366?v=4",
       "location": "United States",
       "score": 410,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 7,
       "public_repos": 6,
@@ -7613,18 +7648,18 @@
         "activity": 406
       },
       "account_age_days": 1049,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 21
     },
     {
-      "rank": 210,
+      "rank": 211,
       "username": "vaishcodescape",
       "name": "Aditya Vaish",
       "avatar_url": "https://avatars.githubusercontent.com/u/172988559?v=4",
       "location": "Seattle WA, United States ",
       "score": 410,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 56,
       "public_repos": 85,
@@ -7648,18 +7683,18 @@
         "activity": 354
       },
       "account_age_days": 747,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 22
     },
     {
-      "rank": 211,
+      "rank": 212,
       "username": "PhantomNimbi",
       "name": "PhantomNimbi",
       "avatar_url": "https://avatars.githubusercontent.com/u/171450393?v=4",
       "location": "United States",
       "score": 410,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 6,
       "public_repos": 13,
@@ -7683,18 +7718,18 @@
         "activity": 402
       },
       "account_age_days": 762,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 22
     },
     {
-      "rank": 212,
+      "rank": 213,
       "username": "ananay",
       "name": "Ananay",
       "avatar_url": "https://avatars.githubusercontent.com/u/5569219?v=4",
       "location": "San Francisco, California, United States",
       "score": 410,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 411,
       "public_repos": 128,
@@ -7720,18 +7755,18 @@
         "activity": 176
       },
       "account_age_days": 4660,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 1
     },
     {
-      "rank": 213,
+      "rank": 214,
       "username": "arpan404",
       "name": "Arpan Bhandari",
       "avatar_url": "https://avatars.githubusercontent.com/u/92071427?v=4",
       "location": "United States",
       "score": 409,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 19,
       "public_repos": 48,
@@ -7755,18 +7790,18 @@
         "activity": 373
       },
       "account_age_days": 1730,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 16
     },
     {
-      "rank": 214,
+      "rank": 215,
       "username": "dormant-user",
       "name": "Vignesh Rao",
       "avatar_url": "https://avatars.githubusercontent.com/u/166179991?v=4",
       "location": "United States",
       "score": 409,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 5,
       "public_repos": 8,
@@ -7788,18 +7823,18 @@
         "activity": 404
       },
       "account_age_days": 819,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 22
     },
     {
-      "rank": 215,
+      "rank": 216,
       "username": "MASSIVEMAGNETICS",
       "name": "IAMBANDOBANDZ",
       "avatar_url": "https://avatars.githubusercontent.com/u/209589629?v=4",
       "location": "United States",
       "score": 409,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 42,
       "public_repos": 279,
@@ -7823,18 +7858,18 @@
         "activity": 297
       },
       "account_age_days": 430,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 23
     },
     {
-      "rank": 216,
+      "rank": 217,
       "username": "laxmiadh08",
       "name": "laxmi",
       "avatar_url": "https://avatars.githubusercontent.com/u/218245937?v=4",
       "location": "United States",
       "score": 408,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 21,
       "public_repos": 7,
@@ -7857,18 +7892,18 @@
         "activity": 401
       },
       "account_age_days": 371,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 23
     },
     {
-      "rank": 217,
+      "rank": 218,
       "username": "APickledWalrus",
       "name": "Patrick Miller",
       "avatar_url": "https://avatars.githubusercontent.com/u/29044720?v=4",
       "location": "Pittsburgh, United States",
       "score": 408,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 55,
       "public_repos": 9,
@@ -7890,18 +7925,18 @@
         "activity": 383
       },
       "account_age_days": 3322,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 7
     },
     {
-      "rank": 218,
+      "rank": 219,
       "username": "jcbhmr",
       "name": "Jacob Hummer",
       "avatar_url": "https://avatars.githubusercontent.com/u/61068799?v=4",
       "location": "United States",
       "score": 407,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 42,
       "public_repos": 282,
@@ -7925,18 +7960,18 @@
         "activity": 297
       },
       "account_age_days": 2330,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 12
     },
     {
-      "rank": 219,
+      "rank": 220,
       "username": "tsatria03",
       "name": "Tony Satriano",
       "avatar_url": "https://avatars.githubusercontent.com/u/156674543?v=4",
       "location": "United States",
       "score": 407,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 122,
       "public_repos": 209,
@@ -7961,18 +7996,18 @@
         "activity": 283
       },
       "account_age_days": 900,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 22
     },
     {
-      "rank": 220,
+      "rank": 221,
       "username": "banisterious",
       "name": "John Banister",
       "avatar_url": "https://avatars.githubusercontent.com/u/168257192?v=4",
       "location": "Oregon, United States",
       "score": 407,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 14,
       "public_repos": 15,
@@ -7996,18 +8031,18 @@
         "activity": 377
       },
       "account_age_days": 797,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 22
     },
     {
-      "rank": 221,
+      "rank": 222,
       "username": "Spaceface16518",
       "name": "Amrit Rathie",
       "avatar_url": "https://avatars.githubusercontent.com/u/33424649?v=4",
       "location": "United States",
       "score": 407,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 34,
       "public_repos": 137,
@@ -8031,18 +8066,18 @@
         "activity": 331
       },
       "account_age_days": 3161,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 8
     },
     {
-      "rank": 222,
+      "rank": 223,
       "username": "presicion25",
       "name": "Louis",
       "avatar_url": "https://avatars.githubusercontent.com/u/105553606?v=4",
       "location": "United States",
       "score": 402,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 10,
       "public_repos": 16,
@@ -8062,18 +8097,18 @@
         "activity": 392
       },
       "account_age_days": 1511,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 18
     },
     {
-      "rank": 223,
+      "rank": 224,
       "username": "TI0J0A0",
       "name": "Joao Pedro Aguiar ",
       "avatar_url": "https://avatars.githubusercontent.com/u/139718095?v=4",
       "location": "United states",
       "score": 402,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 9,
       "public_repos": 13,
@@ -8096,18 +8131,18 @@
         "activity": 394
       },
       "account_age_days": 1083,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 21
     },
     {
-      "rank": 224,
+      "rank": 225,
       "username": "Crazygiscool",
       "name": "Crazygiscool",
       "avatar_url": "https://avatars.githubusercontent.com/u/169196637?v=4",
       "location": "United States",
       "score": 402,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 7,
       "public_repos": 29,
@@ -8131,18 +8166,18 @@
         "activity": 385
       },
       "account_age_days": 787,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 22
     },
     {
-      "rank": 225,
+      "rank": 226,
       "username": "pabloprf",
       "name": "Pablo Rodriguez-Fernandez",
       "avatar_url": "https://avatars.githubusercontent.com/u/20051119?v=4",
       "location": "United States",
       "score": 402,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 21,
       "public_repos": 4,
@@ -8162,43 +8197,8 @@
         "activity": 394
       },
       "account_age_days": 3665,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 5
-    },
-    {
-      "rank": 226,
-      "username": "JMR-dev",
-      "name": "Jason Ross",
-      "avatar_url": "https://avatars.githubusercontent.com/u/51939451?v=4",
-      "location": "United States",
-      "score": 401,
-      "tier": "MERGE",
-      "rank_delta": 0,
-      "streak_days": 0,
-      "followers": 22,
-      "public_repos": 91,
-      "events_30d": 73,
-      "total_stars": 3,
-      "top_languages": [
-        "Kotlin",
-        "Go",
-        "Rust",
-        "Python",
-        "PowerShell"
-      ],
-      "tags": [],
-      "achievements": [
-        "MERGE_TIER"
-      ],
-      "score_breakdown": {
-        "stars": 0,
-        "followers": 4,
-        "repos": 46,
-        "activity": 352
-      },
-      "account_age_days": 2572,
-      "last_updated": "2026-07-04T10:43:34.918Z",
-      "_batch": 11
     },
     {
       "rank": 227,
@@ -8233,7 +8233,7 @@
         "activity": 325
       },
       "account_age_days": 1946,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 15
     },
     {
@@ -8268,7 +8268,7 @@
         "activity": 383
       },
       "account_age_days": 1059,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 21
     },
     {
@@ -8305,7 +8305,7 @@
         "activity": 275
       },
       "account_age_days": 3036,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 8
     },
     {
@@ -8341,7 +8341,7 @@
         "activity": 336
       },
       "account_age_days": 3256,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 7
     },
     {
@@ -8376,7 +8376,7 @@
         "activity": 359
       },
       "account_age_days": 1222,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 20
     },
     {
@@ -8411,7 +8411,7 @@
         "activity": 361
       },
       "account_age_days": 1107,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 20
     },
     {
@@ -8446,7 +8446,7 @@
         "activity": 381
       },
       "account_age_days": 638,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 23
     },
     {
@@ -8480,7 +8480,7 @@
         "activity": 390
       },
       "account_age_days": 1115,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 20
     },
     {
@@ -8515,7 +8515,7 @@
         "activity": 373
       },
       "account_age_days": 1914,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 15
     },
     {
@@ -8550,7 +8550,7 @@
         "activity": 368
       },
       "account_age_days": 1802,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 16
     },
     {
@@ -8585,7 +8585,7 @@
         "activity": 370
       },
       "account_age_days": 3032,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 8
     },
     {
@@ -8620,7 +8620,7 @@
         "activity": 366
       },
       "account_age_days": 1428,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 18
     },
     {
@@ -8654,7 +8654,7 @@
         "activity": 377
       },
       "account_age_days": 627,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 23
     },
     {
@@ -8688,7 +8688,7 @@
         "activity": 387
       },
       "account_age_days": 1105,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 20
     },
     {
@@ -8724,7 +8724,7 @@
         "activity": 354
       },
       "account_age_days": 4726,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 1
     },
     {
@@ -8759,7 +8759,7 @@
         "activity": 361
       },
       "account_age_days": 3192,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 8
     },
     {
@@ -8794,7 +8794,7 @@
         "activity": 286
       },
       "account_age_days": 3602,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 5
     },
     {
@@ -8828,7 +8828,7 @@
         "activity": 377
       },
       "account_age_days": 965,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 21
     },
     {
@@ -8861,7 +8861,7 @@
         "activity": 375
       },
       "account_age_days": 508,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 23
     },
     {
@@ -8897,7 +8897,7 @@
         "activity": 352
       },
       "account_age_days": 2258,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 13
     },
     {
@@ -8932,7 +8932,7 @@
         "activity": 334
       },
       "account_age_days": 1745,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 16
     },
     {
@@ -8967,7 +8967,7 @@
         "activity": 359
       },
       "account_age_days": 1599,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 17
     },
     {
@@ -9002,7 +9002,7 @@
         "activity": 359
       },
       "account_age_days": 1254,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 19
     },
     {
@@ -9037,7 +9037,7 @@
         "activity": 381
       },
       "account_age_days": 1493,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 18
     },
     {
@@ -9072,7 +9072,7 @@
         "activity": 283
       },
       "account_age_days": 4009,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 3
     },
     {
@@ -9108,7 +9108,7 @@
         "activity": 260
       },
       "account_age_days": 3194,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 8
     },
     {
@@ -9143,7 +9143,7 @@
         "activity": 373
       },
       "account_age_days": 1622,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 17
     },
     {
@@ -9176,7 +9176,7 @@
         "activity": 375
       },
       "account_age_days": 873,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 22
     },
     {
@@ -9208,7 +9208,7 @@
         "activity": 381
       },
       "account_age_days": 812,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 22
     },
     {
@@ -9242,7 +9242,7 @@
         "activity": 373
       },
       "account_age_days": 1566,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 17
     },
     {
@@ -9276,7 +9276,7 @@
         "activity": 354
       },
       "account_age_days": 1475,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 18
     },
     {
@@ -9310,7 +9310,7 @@
         "activity": 366
       },
       "account_age_days": 3713,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 5
     },
     {
@@ -9345,7 +9345,7 @@
         "activity": 347
       },
       "account_age_days": 3243,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 7
     },
     {
@@ -9380,7 +9380,7 @@
         "activity": 347
       },
       "account_age_days": 1186,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 20
     },
     {
@@ -9415,7 +9415,7 @@
         "activity": 336
       },
       "account_age_days": 1068,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 21
     },
     {
@@ -9448,7 +9448,7 @@
         "activity": 364
       },
       "account_age_days": 3722,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 5
     },
     {
@@ -9483,7 +9483,7 @@
         "activity": 354
       },
       "account_age_days": 2837,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 9
     },
     {
@@ -9518,7 +9518,7 @@
         "activity": 272
       },
       "account_age_days": 2358,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 12
     },
     {
@@ -9551,7 +9551,7 @@
         "activity": 366
       },
       "account_age_days": 2199,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 13
     },
     {
@@ -9586,7 +9586,7 @@
         "activity": 279
       },
       "account_age_days": 1784,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 16
     },
     {
@@ -9621,7 +9621,7 @@
         "activity": 352
       },
       "account_age_days": 671,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 23
     },
     {
@@ -9656,7 +9656,7 @@
         "activity": 361
       },
       "account_age_days": 1993,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 15
     },
     {
@@ -9691,55 +9691,18 @@
         "activity": 357
       },
       "account_age_days": 1074,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 21
     },
     {
       "rank": 270,
-      "username": "hythloda",
-      "name": "Amanda L Martin",
-      "avatar_url": "https://avatars.githubusercontent.com/u/51727488?v=4",
-      "location": "United States",
-      "score": 375,
-      "tier": "MERGE",
-      "rank_delta": 0,
-      "streak_days": 0,
-      "followers": 102,
-      "public_repos": 55,
-      "events_30d": 53,
-      "total_stars": 307,
-      "top_languages": [
-        "HTML",
-        "JavaScript",
-        "Python",
-        "Java",
-        "Kotlin"
-      ],
-      "tags": [],
-      "achievements": [
-        "STARS_100",
-        "FOLLOWERS_100",
-        "MERGE_TIER"
-      ],
-      "score_breakdown": {
-        "stars": 37,
-        "followers": 17,
-        "repos": 28,
-        "activity": 293
-      },
-      "account_age_days": 2578,
-      "last_updated": "2026-07-04T10:43:34.918Z",
-      "_batch": 11
-    },
-    {
-      "rank": 271,
       "username": "kevin85421",
       "name": "Kai-Hsun Chen",
       "avatar_url": "https://avatars.githubusercontent.com/u/20109646?v=4",
       "location": "United States",
       "score": 375,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": 1,
       "streak_days": 0,
       "followers": 220,
       "public_repos": 98,
@@ -9764,18 +9727,18 @@
         "activity": 283
       },
       "account_age_days": 3662,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 5
     },
     {
-      "rank": 272,
+      "rank": 271,
       "username": "Kosthi",
       "name": "Koschei",
       "avatar_url": "https://avatars.githubusercontent.com/u/30976463?v=4",
       "location": "California, United States",
       "score": 375,
       "tier": "MERGE",
-      "rank_delta": 0,
+      "rank_delta": 1,
       "streak_days": 0,
       "followers": 51,
       "public_repos": 65,
@@ -9799,8 +9762,45 @@
         "activity": 322
       },
       "account_age_days": 3246,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 7
+    },
+    {
+      "rank": 272,
+      "username": "hythloda",
+      "name": "Amanda L Martin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51727488?v=4",
+      "location": "United States",
+      "score": 375,
+      "tier": "MERGE",
+      "rank_delta": -2,
+      "streak_days": 0,
+      "followers": 102,
+      "public_repos": 55,
+      "events_30d": 53,
+      "total_stars": 307,
+      "top_languages": [
+        "HTML",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Kotlin"
+      ],
+      "tags": [],
+      "achievements": [
+        "STARS_100",
+        "FOLLOWERS_100",
+        "MERGE_TIER"
+      ],
+      "score_breakdown": {
+        "stars": 37,
+        "followers": 17,
+        "repos": 28,
+        "activity": 293
+      },
+      "account_age_days": 2579,
+      "last_updated": "2026-07-04T11:35:02.705Z",
+      "_batch": 11
     },
     {
       "rank": 273,
@@ -9834,7 +9834,7 @@
         "activity": 364
       },
       "account_age_days": 2329,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 12
     },
     {
@@ -9870,7 +9870,7 @@
         "activity": 226
       },
       "account_age_days": 4483,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 1
     },
     {
@@ -9905,7 +9905,7 @@
         "activity": 357
       },
       "account_age_days": 1134,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 20
     },
     {
@@ -9937,7 +9937,7 @@
         "activity": 352
       },
       "account_age_days": 606,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 23
     },
     {
@@ -9974,7 +9974,7 @@
         "activity": 226
       },
       "account_age_days": 5329,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 0
     },
     {
@@ -10009,7 +10009,7 @@
         "activity": 349
       },
       "account_age_days": 2086,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 14
     },
     {
@@ -10045,7 +10045,7 @@
         "activity": 307
       },
       "account_age_days": 1489,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 18
     },
     {
@@ -10077,7 +10077,7 @@
         "activity": 361
       },
       "account_age_days": 524,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 23
     },
     {
@@ -10112,7 +10112,7 @@
         "activity": 336
       },
       "account_age_days": 3162,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 8
     },
     {
@@ -10148,7 +10148,7 @@
         "activity": 331
       },
       "account_age_days": 1661,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 17
     },
     {
@@ -10182,7 +10182,7 @@
         "activity": 331
       },
       "account_age_days": 1261,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 19
     },
     {
@@ -10217,7 +10217,7 @@
         "activity": 359
       },
       "account_age_days": 1302,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 19
     },
     {
@@ -10249,7 +10249,7 @@
         "activity": 334
       },
       "account_age_days": 1072,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 21
     },
     {
@@ -10285,7 +10285,7 @@
         "activity": 334
       },
       "account_age_days": 3997,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 3
     },
     {
@@ -10318,7 +10318,7 @@
         "activity": 336
       },
       "account_age_days": 1858,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 16
     },
     {
@@ -10351,7 +10351,7 @@
         "activity": 344
       },
       "account_age_days": 1732,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 16
     },
     {
@@ -10388,7 +10388,7 @@
         "activity": 283
       },
       "account_age_days": 2977,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 9
     },
     {
@@ -10423,7 +10423,7 @@
         "activity": 349
       },
       "account_age_days": 1412,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 18
     },
     {
@@ -10457,7 +10457,7 @@
         "activity": 260
       },
       "account_age_days": 1774,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 16
     },
     {
@@ -10490,7 +10490,7 @@
         "activity": 352
       },
       "account_age_days": 1167,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 20
     },
     {
@@ -10525,7 +10525,7 @@
         "activity": 357
       },
       "account_age_days": 1245,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 20
     },
     {
@@ -10557,7 +10557,7 @@
         "activity": 357
       },
       "account_age_days": 1040,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 21
     },
     {
@@ -10593,7 +10593,7 @@
         "activity": 235
       },
       "account_age_days": 3704,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 5
     },
     {
@@ -10628,7 +10628,7 @@
         "activity": 339
       },
       "account_age_days": 1947,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 15
     },
     {
@@ -10663,7 +10663,7 @@
         "activity": 325
       },
       "account_age_days": 2237,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 13
     },
     {
@@ -10698,7 +10698,7 @@
         "activity": 347
       },
       "account_age_days": 1256,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 19
     },
     {
@@ -10735,7 +10735,7 @@
         "activity": 264
       },
       "account_age_days": 4764,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 0
     },
     {
@@ -10768,7 +10768,7 @@
         "activity": 352
       },
       "account_age_days": 3966,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 3
     },
     {
@@ -10803,7 +10803,7 @@
         "activity": 316
       },
       "account_age_days": 1884,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 15
     },
     {
@@ -10837,7 +10837,7 @@
         "activity": 349
       },
       "account_age_days": 1123,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 20
     },
     {
@@ -10872,7 +10872,7 @@
         "activity": 313
       },
       "account_age_days": 3112,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 8
     },
     {
@@ -10907,7 +10907,7 @@
         "activity": 342
       },
       "account_age_days": 989,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 21
     },
     {
@@ -10942,7 +10942,7 @@
         "activity": 252
       },
       "account_age_days": 1113,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 20
     },
     {
@@ -10978,7 +10978,7 @@
         "activity": 334
       },
       "account_age_days": 1025,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 21
     },
     {
@@ -11012,7 +11012,7 @@
         "activity": 344
       },
       "account_age_days": 2254,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 13
     },
     {
@@ -11047,7 +11047,7 @@
         "activity": 293
       },
       "account_age_days": 2920,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 9
     },
     {
@@ -11083,7 +11083,7 @@
         "activity": 279
       },
       "account_age_days": 4526,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 1
     },
     {
@@ -11120,7 +11120,7 @@
         "activity": 197
       },
       "account_age_days": 4949,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 0
     },
     {
@@ -11156,7 +11156,7 @@
         "activity": 293
       },
       "account_age_days": 3627,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 5
     },
     {
@@ -11191,7 +11191,7 @@
         "activity": 313
       },
       "account_age_days": 494,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 23
     },
     {
@@ -11226,7 +11226,7 @@
         "activity": 293
       },
       "account_age_days": 4101,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 3
     },
     {
@@ -11260,7 +11260,7 @@
         "activity": 342
       },
       "account_age_days": 2343,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 12
     },
     {
@@ -11295,7 +11295,7 @@
         "activity": 325
       },
       "account_age_days": 1288,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 19
     },
     {
@@ -11330,7 +11330,7 @@
         "activity": 290
       },
       "account_age_days": 2107,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 14
     },
     {
@@ -11367,7 +11367,7 @@
         "activity": 256
       },
       "account_age_days": 4127,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 3
     },
     {
@@ -11403,7 +11403,7 @@
         "activity": 216
       },
       "account_age_days": 3625,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 5
     },
     {
@@ -11440,7 +11440,7 @@
         "activity": 197
       },
       "account_age_days": 4924,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 0
     },
     {
@@ -11475,7 +11475,7 @@
         "activity": 319
       },
       "account_age_days": 3661,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 5
     },
     {
@@ -11510,7 +11510,7 @@
         "activity": 303
       },
       "account_age_days": 1283,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 19
     },
     {
@@ -11545,7 +11545,7 @@
         "activity": 328
       },
       "account_age_days": 868,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 22
     },
     {
@@ -11581,7 +11581,7 @@
         "activity": 283
       },
       "account_age_days": 2673,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 10
     },
     {
@@ -11615,7 +11615,7 @@
         "activity": 325
       },
       "account_age_days": 1016,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 21
     },
     {
@@ -11651,7 +11651,7 @@
         "activity": 275
       },
       "account_age_days": 6172,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 0
     },
     {
@@ -11686,7 +11686,7 @@
         "activity": 331
       },
       "account_age_days": 1227,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 20
     },
     {
@@ -11721,7 +11721,7 @@
         "activity": 334
       },
       "account_age_days": 1470,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 18
     },
     {
@@ -11756,7 +11756,7 @@
         "activity": 328
       },
       "account_age_days": 1447,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 18
     },
     {
@@ -11788,7 +11788,7 @@
         "activity": 325
       },
       "account_age_days": 255,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 23
     },
     {
@@ -11823,7 +11823,7 @@
         "activity": 230
       },
       "account_age_days": 2917,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 9
     },
     {
@@ -11859,7 +11859,7 @@
         "activity": 212
       },
       "account_age_days": 2048,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 14
     },
     {
@@ -11893,7 +11893,7 @@
         "activity": 331
       },
       "account_age_days": 3124,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 8
     },
     {
@@ -11930,7 +11930,7 @@
         "activity": 197
       },
       "account_age_days": 2845,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 9
     },
     {
@@ -11965,7 +11965,7 @@
         "activity": 283
       },
       "account_age_days": 1770,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 16
     },
     {
@@ -12000,7 +12000,7 @@
         "activity": 325
       },
       "account_age_days": 1827,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 16
     },
     {
@@ -12035,7 +12035,7 @@
         "activity": 303
       },
       "account_age_days": 1572,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 17
     },
     {
@@ -12068,7 +12068,7 @@
         "activity": 331
       },
       "account_age_days": 1188,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 20
     },
     {
@@ -12101,7 +12101,7 @@
         "activity": 322
       },
       "account_age_days": 3197,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 8
     },
     {
@@ -12136,7 +12136,7 @@
         "activity": 293
       },
       "account_age_days": 1696,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 17
     },
     {
@@ -12169,7 +12169,7 @@
         "activity": 325
       },
       "account_age_days": 1064,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 21
     },
     {
@@ -12206,7 +12206,7 @@
         "activity": 239
       },
       "account_age_days": 2929,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 9
     },
     {
@@ -12241,7 +12241,7 @@
         "activity": 313
       },
       "account_age_days": 1048,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 21
     },
     {
@@ -12276,7 +12276,7 @@
         "activity": 316
       },
       "account_age_days": 898,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 22
     },
     {
@@ -12313,7 +12313,7 @@
         "activity": 235
       },
       "account_age_days": 3970,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 3
     },
     {
@@ -12346,7 +12346,7 @@
         "activity": 300
       },
       "account_age_days": 3216,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 7
     },
     {
@@ -12381,7 +12381,7 @@
         "activity": 307
       },
       "account_age_days": 3955,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 3
     },
     {
@@ -12416,7 +12416,7 @@
         "activity": 293
       },
       "account_age_days": 3595,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 5
     },
     {
@@ -12451,7 +12451,7 @@
         "activity": 319
       },
       "account_age_days": 2999,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 9
     },
     {
@@ -12487,7 +12487,7 @@
         "activity": 264
       },
       "account_age_days": 1991,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 15
     },
     {
@@ -12522,7 +12522,7 @@
         "activity": 290
       },
       "account_age_days": 2224,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 13
     },
     {
@@ -12556,7 +12556,7 @@
         "activity": 313
       },
       "account_age_days": 1555,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 17
     },
     {
@@ -12591,7 +12591,7 @@
         "activity": 293
       },
       "account_age_days": 2980,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 9
     },
     {
@@ -12602,7 +12602,7 @@
       "location": "United States",
       "score": 329,
       "tier": "COMMIT",
-      "rank_delta": 1,
+      "rank_delta": 0,
       "streak_days": 0,
       "followers": 21,
       "public_repos": 53,
@@ -12626,7 +12626,7 @@
         "activity": 297
       },
       "account_age_days": 1814,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 16
     },
     {
@@ -12637,7 +12637,7 @@
       "location": "United States",
       "score": 329,
       "tier": "COMMIT",
-      "rank_delta": -1,
+      "rank_delta": 0,
       "streak_days": 0,
       "followers": 59,
       "public_repos": 142,
@@ -12661,7 +12661,7 @@
         "activity": 239
       },
       "account_age_days": 2674,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 10
     },
     {
@@ -12696,7 +12696,7 @@
         "activity": 290
       },
       "account_age_days": 1944,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 15
     },
     {
@@ -12731,18 +12731,53 @@
         "activity": 307
       },
       "account_age_days": 1752,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 16
     },
     {
       "rank": 357,
+      "username": "VnUgE",
+      "name": "Vaughn Nugent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51797649?v=4",
+      "location": "United States",
+      "score": 328,
+      "tier": "COMMIT",
+      "rank_delta": 9,
+      "streak_days": 0,
+      "followers": 22,
+      "public_repos": 20,
+      "events_30d": 58,
+      "total_stars": 34,
+      "top_languages": [
+        "C",
+        "C#",
+        "Vue",
+        "TypeScript",
+        "HTML"
+      ],
+      "tags": [],
+      "achievements": [
+        "COMMIT_TIER"
+      ],
+      "score_breakdown": {
+        "stars": 4,
+        "followers": 4,
+        "repos": 10,
+        "activity": 310
+      },
+      "account_age_days": 2577,
+      "last_updated": "2026-07-04T11:35:02.705Z",
+      "_batch": 11
+    },
+    {
+      "rank": 358,
       "username": "iAlexJoy",
       "name": "iAlexJoy",
       "avatar_url": "https://avatars.githubusercontent.com/u/73067232?v=4",
       "location": "United States of America",
       "score": 327,
       "tier": "COMMIT",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 66,
       "public_repos": 893,
@@ -12765,18 +12800,18 @@
         "activity": 216
       },
       "account_age_days": 2084,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 14
     },
     {
-      "rank": 358,
+      "rank": 359,
       "username": "nattstack",
       "name": "Natt",
       "avatar_url": "https://avatars.githubusercontent.com/u/31426677?v=4",
       "location": "California, United States",
       "score": 327,
       "tier": "COMMIT",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 56,
       "public_repos": 18,
@@ -12800,18 +12835,18 @@
         "activity": 307
       },
       "account_age_days": 3231,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 7
     },
     {
-      "rank": 359,
+      "rank": 360,
       "username": "bagelquant",
       "name": "Eric Huang",
       "avatar_url": "https://avatars.githubusercontent.com/u/85377092?v=4",
       "location": "United States",
       "score": 326,
       "tier": "COMMIT",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 18,
       "public_repos": 7,
@@ -12833,18 +12868,18 @@
         "activity": 319
       },
       "account_age_days": 1854,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 16
     },
     {
-      "rank": 360,
+      "rank": 361,
       "username": "rohith500",
       "name": "Rohith Reddy Nama",
       "avatar_url": "https://avatars.githubusercontent.com/u/104615697?v=4",
       "location": "United States",
       "score": 326,
       "tier": "COMMIT",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 22,
       "public_repos": 13,
@@ -12865,18 +12900,18 @@
         "activity": 316
       },
       "account_age_days": 1526,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 18
     },
     {
-      "rank": 361,
+      "rank": 362,
       "username": "shishkabob27",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/64564902?v=4",
       "location": "United States, Illinois",
       "score": 325,
       "tier": "COMMIT",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 129,
       "public_repos": 27,
@@ -12902,18 +12937,18 @@
         "activity": 216
       },
       "account_age_days": 2255,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 13
     },
     {
-      "rank": 362,
+      "rank": 363,
       "username": "boobeh123",
       "name": "Bobby Asakawa",
       "avatar_url": "https://avatars.githubusercontent.com/u/101483481?v=4",
       "location": "United States",
       "score": 324,
       "tier": "COMMIT",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 11,
       "public_repos": 38,
@@ -12936,18 +12971,18 @@
         "activity": 303
       },
       "account_age_days": 1573,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 17
     },
     {
-      "rank": 363,
+      "rank": 364,
       "username": "omicreativedev",
       "name": "Salome Shunamon",
       "avatar_url": "https://avatars.githubusercontent.com/u/82254764?v=4",
       "location": "Somerville, MA, United States",
       "score": 323,
       "tier": "COMMIT",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 73,
       "public_repos": 30,
@@ -12971,18 +13006,18 @@
         "activity": 293
       },
       "account_age_days": 1910,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 15
     },
     {
-      "rank": 364,
+      "rank": 365,
       "username": "ZoeyErinBauer",
       "name": "Zoey Bauer",
       "avatar_url": "https://avatars.githubusercontent.com/u/40698010?v=4",
       "location": "United States",
       "score": 323,
       "tier": "COMMIT",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 26,
       "public_repos": 4,
@@ -13003,18 +13038,18 @@
         "activity": 316
       },
       "account_age_days": 2926,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 9
     },
     {
-      "rank": 365,
+      "rank": 366,
       "username": "Trosper3",
       "name": "Michael Trosper",
       "avatar_url": "https://avatars.githubusercontent.com/u/140276486?v=4",
       "location": "United States",
       "score": 322,
       "tier": "COMMIT",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 4,
       "public_repos": 10,
@@ -13038,43 +13073,8 @@
         "activity": 316
       },
       "account_age_days": 1077,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 21
-    },
-    {
-      "rank": 366,
-      "username": "VnUgE",
-      "name": "Vaughn Nugent",
-      "avatar_url": "https://avatars.githubusercontent.com/u/51797649?v=4",
-      "location": "United States",
-      "score": 321,
-      "tier": "COMMIT",
-      "rank_delta": 0,
-      "streak_days": 0,
-      "followers": 22,
-      "public_repos": 20,
-      "events_30d": 56,
-      "total_stars": 34,
-      "top_languages": [
-        "C#",
-        "C",
-        "Vue",
-        "TypeScript",
-        "HTML"
-      ],
-      "tags": [],
-      "achievements": [
-        "COMMIT_TIER"
-      ],
-      "score_breakdown": {
-        "stars": 4,
-        "followers": 4,
-        "repos": 10,
-        "activity": 303
-      },
-      "account_age_days": 2576,
-      "last_updated": "2026-07-04T10:43:34.918Z",
-      "_batch": 11
     },
     {
       "rank": 367,
@@ -13108,7 +13108,7 @@
         "activity": 275
       },
       "account_age_days": 2214,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 13
     },
     {
@@ -13145,7 +13145,7 @@
         "activity": 207
       },
       "account_age_days": 5099,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 0
     },
     {
@@ -13177,7 +13177,7 @@
         "activity": 310
       },
       "account_age_days": 4121,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 3
     },
     {
@@ -13214,7 +13214,7 @@
         "activity": 252
       },
       "account_age_days": 3293,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 7
     },
     {
@@ -13249,7 +13249,7 @@
         "activity": 293
       },
       "account_age_days": 1253,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 19
     },
     {
@@ -13284,7 +13284,7 @@
         "activity": 216
       },
       "account_age_days": 3015,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 9
     },
     {
@@ -13320,7 +13320,7 @@
         "activity": 264
       },
       "account_age_days": 1439,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 18
     },
     {
@@ -13352,7 +13352,7 @@
         "activity": 307
       },
       "account_age_days": 1324,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 19
     },
     {
@@ -13388,7 +13388,7 @@
         "activity": 216
       },
       "account_age_days": 3365,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 7
     },
     {
@@ -13422,7 +13422,7 @@
         "activity": 303
       },
       "account_age_days": 2881,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 9
     },
     {
@@ -13457,7 +13457,7 @@
         "activity": 260
       },
       "account_age_days": 504,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 23
     },
     {
@@ -13493,7 +13493,7 @@
         "activity": 272
       },
       "account_age_days": 4665,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 1
     },
     {
@@ -13528,7 +13528,7 @@
         "activity": 243
       },
       "account_age_days": 1388,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 19
     },
     {
@@ -13563,7 +13563,7 @@
         "activity": 279
       },
       "account_age_days": 1382,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 19
     },
     {
@@ -13599,7 +13599,7 @@
         "activity": 252
       },
       "account_age_days": 4671,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 1
     },
     {
@@ -13634,7 +13634,7 @@
         "activity": 283
       },
       "account_age_days": 3360,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 7
     },
     {
@@ -13669,7 +13669,7 @@
         "activity": 290
       },
       "account_age_days": 1827,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 16
     },
     {
@@ -13704,7 +13704,7 @@
         "activity": 286
       },
       "account_age_days": 1007,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 21
     },
     {
@@ -13739,7 +13739,7 @@
         "activity": 283
       },
       "account_age_days": 3961,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 3
     },
     {
@@ -13774,7 +13774,7 @@
         "activity": 279
       },
       "account_age_days": 3305,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 7
     },
     {
@@ -13809,7 +13809,7 @@
         "activity": 283
       },
       "account_age_days": 2120,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 14
     },
     {
@@ -13844,7 +13844,7 @@
         "activity": 268
       },
       "account_age_days": 3724,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 5
     },
     {
@@ -13884,7 +13884,7 @@
         "repos": 100
       },
       "account_age_days": 4230,
-      "last_updated": "2026-07-04T10:43:34.918Z"
+      "last_updated": "2026-07-04T11:35:02.705Z"
     },
     {
       "rank": 390,
@@ -13917,7 +13917,7 @@
         "activity": 293
       },
       "account_age_days": 869,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 22
     },
     {
@@ -13947,7 +13947,7 @@
         "activity": 260
       },
       "account_age_days": 536,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 23
     },
     {
@@ -13986,7 +13986,7 @@
         "repos": 100
       },
       "account_age_days": 5980,
-      "last_updated": "2026-07-04T10:43:34.918Z"
+      "last_updated": "2026-07-04T11:35:02.705Z"
     },
     {
       "rank": 393,
@@ -14020,7 +14020,7 @@
         "activity": 256
       },
       "account_age_days": 2127,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 14
     },
     {
@@ -14055,50 +14055,18 @@
         "activity": 260
       },
       "account_age_days": 2162,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 13
     },
     {
       "rank": 395,
-      "username": "LucilleKarma",
-      "name": "Lucille Karma",
-      "avatar_url": "https://avatars.githubusercontent.com/u/51094361?v=4",
-      "location": "Wisconsin, United States",
-      "score": 296,
-      "tier": "COMMIT",
-      "rank_delta": 0,
-      "streak_days": 0,
-      "followers": 115,
-      "public_repos": 18,
-      "events_30d": 44,
-      "total_stars": 67,
-      "top_languages": [
-        "C#"
-      ],
-      "tags": [],
-      "achievements": [
-        "FOLLOWERS_100",
-        "COMMIT_TIER"
-      ],
-      "score_breakdown": {
-        "stars": 8,
-        "followers": 19,
-        "repos": 9,
-        "activity": 260
-      },
-      "account_age_days": 2593,
-      "last_updated": "2026-07-04T10:43:34.918Z",
-      "_batch": 11
-    },
-    {
-      "rank": 396,
       "username": "shaikn6",
       "name": "Nagizaaz Shaik",
       "avatar_url": "https://avatars.githubusercontent.com/u/176337212?v=4",
       "location": "United States",
       "score": 296,
       "tier": "COMMIT",
-      "rank_delta": 0,
+      "rank_delta": 1,
       "streak_days": 0,
       "followers": 18,
       "public_repos": 20,
@@ -14119,18 +14087,18 @@
         "activity": 283
       },
       "account_age_days": 711,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 23
     },
     {
-      "rank": 397,
+      "rank": 396,
       "username": "seasaltsaige",
       "name": "Saige",
       "avatar_url": "https://avatars.githubusercontent.com/u/59546581?v=4",
       "location": "United States",
       "score": 295,
       "tier": "COMMIT",
-      "rank_delta": 0,
+      "rank_delta": 1,
       "streak_days": 0,
       "followers": 27,
       "public_repos": 40,
@@ -14154,18 +14122,18 @@
         "activity": 260
       },
       "account_age_days": 2370,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 12
     },
     {
-      "rank": 398,
+      "rank": 397,
       "username": "SpencerTorres",
       "name": "Spencer Torres",
       "avatar_url": "https://avatars.githubusercontent.com/u/28887171?v=4",
       "location": "Seattle, United States",
       "score": 295,
       "tier": "COMMIT",
-      "rank_delta": 0,
+      "rank_delta": 1,
       "streak_days": 0,
       "followers": 35,
       "public_repos": 25,
@@ -14189,18 +14157,18 @@
         "activity": 268
       },
       "account_age_days": 3329,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 7
     },
     {
-      "rank": 399,
+      "rank": 398,
       "username": "colin99d",
       "name": "Colin Delahunty",
       "avatar_url": "https://avatars.githubusercontent.com/u/72827203?v=4",
       "location": "Indiana, United States",
       "score": 293,
       "tier": "COMMIT",
-      "rank_delta": 0,
+      "rank_delta": 1,
       "streak_days": 0,
       "followers": 275,
       "public_repos": 47,
@@ -14225,18 +14193,18 @@
         "activity": 221
       },
       "account_age_days": 2088,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 14
     },
     {
-      "rank": 400,
+      "rank": 399,
       "username": "thedarkcolour",
       "name": "thedarkcolour",
       "avatar_url": "https://avatars.githubusercontent.com/u/30441001?v=4",
       "location": "United States",
       "score": 293,
       "tier": "COMMIT",
-      "rank_delta": 0,
+      "rank_delta": 1,
       "streak_days": 0,
       "followers": 49,
       "public_repos": 44,
@@ -14261,18 +14229,18 @@
         "activity": 207
       },
       "account_age_days": 3265,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 7
     },
     {
-      "rank": 401,
+      "rank": 400,
       "username": "dvlprlife",
       "name": "Brad",
       "avatar_url": "https://avatars.githubusercontent.com/u/33629813?v=4",
       "location": "United States",
       "score": 293,
       "tier": "COMMIT",
-      "rank_delta": 0,
+      "rank_delta": 1,
       "streak_days": 0,
       "followers": 24,
       "public_repos": 11,
@@ -14296,18 +14264,18 @@
         "activity": 283
       },
       "account_age_days": 3154,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 8
     },
     {
-      "rank": 402,
+      "rank": 401,
       "username": "deepyaman",
       "name": "Deepyaman Datta",
       "avatar_url": "https://avatars.githubusercontent.com/u/14007150?v=4",
       "location": "Salt Lake City, Utah, United States",
       "score": 292,
       "tier": "COMMIT",
-      "rank_delta": 0,
+      "rank_delta": 1,
       "streak_days": 0,
       "followers": 81,
       "public_repos": 146,
@@ -14331,8 +14299,40 @@
         "activity": 197
       },
       "account_age_days": 3963,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 3
+    },
+    {
+      "rank": 402,
+      "username": "LucilleKarma",
+      "name": "Lucille Karma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51094361?v=4",
+      "location": "Wisconsin, United States",
+      "score": 292,
+      "tier": "COMMIT",
+      "rank_delta": -7,
+      "streak_days": 0,
+      "followers": 115,
+      "public_repos": 18,
+      "events_30d": 43,
+      "total_stars": 67,
+      "top_languages": [
+        "C#"
+      ],
+      "tags": [],
+      "achievements": [
+        "FOLLOWERS_100",
+        "COMMIT_TIER"
+      ],
+      "score_breakdown": {
+        "stars": 8,
+        "followers": 19,
+        "repos": 9,
+        "activity": 256
+      },
+      "account_age_days": 2594,
+      "last_updated": "2026-07-04T11:35:02.705Z",
+      "_batch": 11
     },
     {
       "rank": 403,
@@ -14366,7 +14366,7 @@
         "activity": 268
       },
       "account_age_days": 2112,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 14
     },
     {
@@ -14402,7 +14402,7 @@
         "activity": 197
       },
       "account_age_days": 4464,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 1
     },
     {
@@ -14435,8 +14435,8 @@
         "repos": 13,
         "activity": 272
       },
-      "account_age_days": 2595,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "account_age_days": 2596,
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 11
     },
     {
@@ -14476,7 +14476,7 @@
         "repos": 100
       },
       "account_age_days": 5812,
-      "last_updated": "2026-07-04T10:43:34.918Z"
+      "last_updated": "2026-07-04T11:35:02.705Z"
     },
     {
       "rank": 407,
@@ -14510,7 +14510,7 @@
         "activity": 283
       },
       "account_age_days": 1279,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 19
     },
     {
@@ -14521,7 +14521,7 @@
       "location": "United States",
       "score": 288,
       "tier": "COMMIT",
-      "rank_delta": 9,
+      "rank_delta": 0,
       "streak_days": 0,
       "followers": 47,
       "public_repos": 78,
@@ -14545,7 +14545,7 @@
         "activity": 230
       },
       "account_age_days": 2778,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 10
     },
     {
@@ -14556,7 +14556,7 @@
       "location": "United States",
       "score": 287,
       "tier": "COMMIT",
-      "rank_delta": -1,
+      "rank_delta": 0,
       "streak_days": 0,
       "followers": 31,
       "public_repos": 60,
@@ -14578,7 +14578,7 @@
         "activity": 248
       },
       "account_age_days": 2233,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 13
     },
     {
@@ -14589,7 +14589,7 @@
       "location": "New York City, NY, United States",
       "score": 285,
       "tier": "COMMIT",
-      "rank_delta": -1,
+      "rank_delta": 0,
       "streak_days": 0,
       "followers": 29,
       "public_repos": 15,
@@ -14613,7 +14613,7 @@
         "activity": 268
       },
       "account_age_days": 2395,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 12
     },
     {
@@ -14624,7 +14624,7 @@
       "location": "United States",
       "score": 284,
       "tier": "COMMIT",
-      "rank_delta": -1,
+      "rank_delta": 0,
       "streak_days": 0,
       "followers": 14,
       "public_repos": 28,
@@ -14646,7 +14646,7 @@
         "activity": 268
       },
       "account_age_days": 1471,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 18
     },
     {
@@ -14657,7 +14657,7 @@
       "location": "United States of America",
       "score": 283,
       "tier": "COMMIT",
-      "rank_delta": -1,
+      "rank_delta": 0,
       "streak_days": 0,
       "followers": 23,
       "public_repos": 88,
@@ -14681,7 +14681,7 @@
         "activity": 235
       },
       "account_age_days": 3633,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 5
     },
     {
@@ -14692,7 +14692,7 @@
       "location": "United States ",
       "score": 282,
       "tier": "COMMIT",
-      "rank_delta": -1,
+      "rank_delta": 0,
       "streak_days": 0,
       "followers": 18,
       "public_repos": 37,
@@ -14716,7 +14716,7 @@
         "activity": 256
       },
       "account_age_days": 1941,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 15
     },
     {
@@ -14727,7 +14727,7 @@
       "location": "Pennsylvania, United States",
       "score": 281,
       "tier": "COMMIT",
-      "rank_delta": -1,
+      "rank_delta": 0,
       "streak_days": 0,
       "followers": 34,
       "public_repos": 37,
@@ -14752,7 +14752,7 @@
         "activity": 243
       },
       "account_age_days": 4100,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 3
     },
     {
@@ -14763,7 +14763,7 @@
       "location": "United States",
       "score": 280,
       "tier": "COMMIT",
-      "rank_delta": -1,
+      "rank_delta": 0,
       "streak_days": 0,
       "followers": 10,
       "public_repos": 36,
@@ -14787,7 +14787,7 @@
         "activity": 260
       },
       "account_age_days": 827,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 22
     },
     {
@@ -14798,7 +14798,7 @@
       "location": "United States of America",
       "score": 280,
       "tier": "COMMIT",
-      "rank_delta": -1,
+      "rank_delta": 0,
       "streak_days": 0,
       "followers": 26,
       "public_repos": 60,
@@ -14822,7 +14822,7 @@
         "activity": 235
       },
       "account_age_days": 3594,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 5
     },
     {
@@ -14833,7 +14833,7 @@
       "location": "United States",
       "score": 279,
       "tier": "COMMIT",
-      "rank_delta": -1,
+      "rank_delta": 0,
       "streak_days": 0,
       "followers": 28,
       "public_repos": 27,
@@ -14857,7 +14857,7 @@
         "activity": 260
       },
       "account_age_days": 2671,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 10
     },
     {
@@ -14892,7 +14892,7 @@
         "activity": 248
       },
       "account_age_days": 1591,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 17
     },
     {
@@ -14928,7 +14928,7 @@
         "activity": 230
       },
       "account_age_days": 4518,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 1
     },
     {
@@ -14963,7 +14963,7 @@
         "activity": 268
       },
       "account_age_days": 741,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 22
     },
     {
@@ -14999,7 +14999,7 @@
         "activity": 221
       },
       "account_age_days": 4558,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 1
     },
     {
@@ -15034,7 +15034,7 @@
         "activity": 226
       },
       "account_age_days": 2115,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.705Z",
       "_batch": 14
     },
     {
@@ -15069,7 +15069,7 @@
         "activity": 264
       },
       "account_age_days": 1537,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 18
     },
     {
@@ -15104,7 +15104,7 @@
         "activity": 256
       },
       "account_age_days": 2340,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 12
     },
     {
@@ -15139,7 +15139,7 @@
         "activity": 230
       },
       "account_age_days": 2117,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 14
     },
     {
@@ -15174,7 +15174,7 @@
         "activity": 248
       },
       "account_age_days": 1982,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 15
     },
     {
@@ -15209,7 +15209,7 @@
         "activity": 260
       },
       "account_age_days": 1126,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 20
     },
     {
@@ -15244,7 +15244,7 @@
         "activity": 235
       },
       "account_age_days": 1403,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 18
     },
     {
@@ -15281,7 +15281,7 @@
         "activity": 197
       },
       "account_age_days": 3720,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 5
     },
     {
@@ -15316,7 +15316,7 @@
         "activity": 239
       },
       "account_age_days": 2840,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 9
     },
     {
@@ -15351,7 +15351,7 @@
         "activity": 221
       },
       "account_age_days": 2066,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 14
     },
     {
@@ -15386,7 +15386,7 @@
         "activity": 235
       },
       "account_age_days": 1828,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 16
     },
     {
@@ -15420,7 +15420,7 @@
         "activity": 252
       },
       "account_age_days": 1367,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 19
     },
     {
@@ -15456,7 +15456,7 @@
         "activity": 297
       },
       "account_age_days": 93,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 23
     },
     {
@@ -15491,7 +15491,7 @@
         "activity": 235
       },
       "account_age_days": 2972,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 9
     },
     {
@@ -15526,7 +15526,7 @@
         "activity": 239
       },
       "account_age_days": 1988,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 15
     },
     {
@@ -15561,7 +15561,7 @@
         "activity": 235
       },
       "account_age_days": 1633,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 17
     },
     {
@@ -15596,7 +15596,7 @@
         "activity": 226
       },
       "account_age_days": 1255,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 19
     },
     {
@@ -15633,7 +15633,7 @@
         "activity": 197
       },
       "account_age_days": 4517,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 1
     },
     {
@@ -15668,7 +15668,7 @@
         "activity": 239
       },
       "account_age_days": 4141,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 3
     },
     {
@@ -15701,7 +15701,7 @@
         "activity": 243
       },
       "account_age_days": 4104,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 3
     },
     {
@@ -15736,7 +15736,7 @@
         "activity": 207
       },
       "account_age_days": 1948,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 15
     },
     {
@@ -15769,7 +15769,7 @@
         "activity": 252
       },
       "account_age_days": 1501,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 18
     },
     {
@@ -15804,7 +15804,7 @@
         "activity": 243
       },
       "account_age_days": 1504,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 18
     },
     {
@@ -15839,7 +15839,7 @@
         "activity": 212
       },
       "account_age_days": 1190,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 20
     },
     {
@@ -15874,7 +15874,7 @@
         "activity": 207
       },
       "account_age_days": 4135,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 3
     },
     {
@@ -15909,7 +15909,7 @@
         "activity": 226
       },
       "account_age_days": 3251,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 7
     },
     {
@@ -15945,7 +15945,7 @@
         "activity": 192
       },
       "account_age_days": 4684,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 1
     },
     {
@@ -15980,7 +15980,7 @@
         "activity": 216
       },
       "account_age_days": 2340,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 12
     },
     {
@@ -16015,7 +16015,7 @@
         "activity": 216
       },
       "account_age_days": 2063,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 14
     },
     {
@@ -16049,7 +16049,7 @@
         "activity": 221
       },
       "account_age_days": 1045,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 21
     },
     {
@@ -16083,7 +16083,7 @@
         "activity": 239
       },
       "account_age_days": 934,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 22
     },
     {
@@ -16118,7 +16118,7 @@
         "activity": 221
       },
       "account_age_days": 2348,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 12
     },
     {
@@ -16151,7 +16151,7 @@
         "activity": 239
       },
       "account_age_days": 3001,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 9
     },
     {
@@ -16186,7 +16186,7 @@
         "activity": 216
       },
       "account_age_days": 2341,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 12
     },
     {
@@ -16221,7 +16221,7 @@
         "activity": 239
       },
       "account_age_days": 2005,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 15
     },
     {
@@ -16256,7 +16256,7 @@
         "activity": 216
       },
       "account_age_days": 1404,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 18
     },
     {
@@ -16289,18 +16289,53 @@
         "activity": 235
       },
       "account_age_days": 662,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 23
     },
     {
       "rank": 459,
+      "username": "JimmyToluene",
+      "name": "Haozhe Jia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52461070?v=4",
+      "location": "Boston, United States",
+      "score": 251,
+      "tier": "COMMIT",
+      "rank_delta": 0,
+      "streak_days": 0,
+      "followers": 23,
+      "public_repos": 67,
+      "events_30d": 33,
+      "total_stars": 20,
+      "top_languages": [
+        "Jupyter Notebook",
+        "C++",
+        "Python",
+        "Shell",
+        "TeX"
+      ],
+      "tags": [],
+      "achievements": [
+        "COMMIT_TIER"
+      ],
+      "score_breakdown": {
+        "stars": 2,
+        "followers": 4,
+        "repos": 34,
+        "activity": 212
+      },
+      "account_age_days": 2558,
+      "last_updated": "2026-07-04T11:35:02.706Z",
+      "_batch": 11
+    },
+    {
+      "rank": 460,
       "username": "NovemLinguae",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/79697282?v=4",
       "location": "United States",
       "score": 248,
       "tier": "COMMIT",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 37,
       "public_repos": 20,
@@ -16322,18 +16357,18 @@
         "activity": 230
       },
       "account_age_days": 1953,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 15
     },
     {
-      "rank": 460,
+      "rank": 461,
       "username": "DNin01",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/106490990?v=4",
       "location": "United States",
       "score": 248,
       "tier": "COMMIT",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 19,
       "public_repos": 18,
@@ -16353,18 +16388,18 @@
         "activity": 235
       },
       "account_age_days": 1495,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 18
     },
     {
-      "rank": 461,
+      "rank": 462,
       "username": "damienjburks",
       "name": "Damien Burks",
       "avatar_url": "https://avatars.githubusercontent.com/u/20100558?v=4",
       "location": "Dallas, TX, United States",
       "score": 247,
       "tier": "COMMIT",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 166,
       "public_repos": 35,
@@ -16389,18 +16424,18 @@
         "activity": 192
       },
       "account_age_days": 3663,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 5
     },
     {
-      "rank": 462,
+      "rank": 463,
       "username": "freny24",
       "name": "Freny Reji",
       "avatar_url": "https://avatars.githubusercontent.com/u/66861391?v=4",
       "location": "United States",
       "score": 246,
       "tier": "COMMIT",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 27,
       "public_repos": 49,
@@ -16424,18 +16459,18 @@
         "activity": 216
       },
       "account_age_days": 2211,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 13
     },
     {
-      "rank": 463,
+      "rank": 464,
       "username": "tomiwaaluko",
       "name": "Tomiwa Aluko",
       "avatar_url": "https://avatars.githubusercontent.com/u/112286524?v=4",
       "location": "Florida, United States",
       "score": 246,
       "tier": "COMMIT",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 14,
       "public_repos": 35,
@@ -16459,18 +16494,18 @@
         "activity": 226
       },
       "account_age_days": 1405,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 18
     },
     {
-      "rank": 464,
+      "rank": 465,
       "username": "joeyagreco",
       "name": "Joey Greco",
       "avatar_url": "https://avatars.githubusercontent.com/u/57115019?v=4",
       "location": "United States",
       "score": 245,
       "tier": "COMMIT",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 28,
       "public_repos": 38,
@@ -16493,18 +16528,18 @@
         "activity": 197
       },
       "account_age_days": 2439,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 12
     },
     {
-      "rank": 465,
+      "rank": 466,
       "username": "riaraju",
       "name": "Ria Treesa Raju ",
       "avatar_url": "https://avatars.githubusercontent.com/u/122229315?v=4",
       "location": "Indianapolis, United States ",
       "score": 245,
       "tier": "COMMIT",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 17,
       "public_repos": 33,
@@ -16525,18 +16560,18 @@
         "activity": 226
       },
       "account_age_days": 1272,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 19
     },
     {
-      "rank": 466,
+      "rank": 467,
       "username": "cloutiertyler",
       "name": "Tyler Cloutier",
       "avatar_url": "https://avatars.githubusercontent.com/u/6432361?v=4",
       "location": "United States",
       "score": 243,
       "tier": "COMMIT",
-      "rank_delta": 0,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 106,
       "public_repos": 42,
@@ -16561,18 +16596,18 @@
         "activity": 202
       },
       "account_age_days": 4550,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 1
     },
     {
-      "rank": 467,
+      "rank": 468,
       "username": "rehan243",
       "name": "Rehan Malik",
       "avatar_url": "https://avatars.githubusercontent.com/u/46004319?v=4",
       "location": "United States",
       "score": 241,
       "tier": "COMMIT",
-      "rank_delta": 6,
+      "rank_delta": -1,
       "streak_days": 0,
       "followers": 156,
       "public_repos": 16,
@@ -16595,11 +16630,11 @@
         "activity": 207
       },
       "account_age_days": 2753,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 10
     },
     {
-      "rank": 468,
+      "rank": 469,
       "username": "neomoth",
       "name": "neomoth",
       "avatar_url": "https://avatars.githubusercontent.com/u/69372252?v=4",
@@ -16630,11 +16665,11 @@
         "activity": 216
       },
       "account_age_days": 2155,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 14
     },
     {
-      "rank": 469,
+      "rank": 470,
       "username": "nicolewhite",
       "name": "Nicole White",
       "avatar_url": "https://github.com/nicolewhite.png",
@@ -16671,42 +16706,7 @@
         "repos": 27
       },
       "account_age_days": 4285,
-      "last_updated": "2026-07-04T10:43:34.918Z"
-    },
-    {
-      "rank": 470,
-      "username": "brandonhs",
-      "name": "Brandon Stevens",
-      "avatar_url": "https://avatars.githubusercontent.com/u/51544788?v=4",
-      "location": "United States",
-      "score": 239,
-      "tier": "COMMIT",
-      "rank_delta": -1,
-      "streak_days": 0,
-      "followers": 39,
-      "public_repos": 37,
-      "events_30d": 33,
-      "total_stars": 18,
-      "top_languages": [
-        "HTML",
-        "Python",
-        "JavaScript",
-        "C++",
-        "C"
-      ],
-      "tags": [],
-      "achievements": [
-        "COMMIT_TIER"
-      ],
-      "score_breakdown": {
-        "stars": 2,
-        "followers": 7,
-        "repos": 19,
-        "activity": 212
-      },
-      "account_age_days": 2580,
-      "last_updated": "2026-07-04T10:43:34.918Z",
-      "_batch": 11
+      "last_updated": "2026-07-04T11:35:02.706Z"
     },
     {
       "rank": 471,
@@ -16716,7 +16716,7 @@
       "location": "United States",
       "score": 239,
       "tier": "COMMIT",
-      "rank_delta": -1,
+      "rank_delta": 0,
       "streak_days": 0,
       "followers": 20,
       "public_repos": 28,
@@ -16740,7 +16740,7 @@
         "activity": 221
       },
       "account_age_days": 2119,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 14
     },
     {
@@ -16751,7 +16751,7 @@
       "location": "United States of America",
       "score": 239,
       "tier": "COMMIT",
-      "rank_delta": -1,
+      "rank_delta": 0,
       "streak_days": 0,
       "followers": 15,
       "public_repos": 20,
@@ -16775,7 +16775,7 @@
         "activity": 226
       },
       "account_age_days": 1206,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 20
     },
     {
@@ -16786,9 +16786,9 @@
       "location": "United States",
       "score": 238,
       "tier": "COMMIT",
-      "rank_delta": -1,
+      "rank_delta": 0,
       "streak_days": 0,
-      "followers": 160,
+      "followers": 158,
       "public_repos": 16,
       "events_30d": 31,
       "total_stars": 16,
@@ -16806,12 +16806,12 @@
       ],
       "score_breakdown": {
         "stars": 2,
-        "followers": 27,
+        "followers": 26,
         "repos": 8,
         "activity": 202
       },
-      "account_age_days": 2596,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "account_age_days": 2597,
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 11
     },
     {
@@ -16846,7 +16846,7 @@
         "activity": 207
       },
       "account_age_days": 1374,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 19
     },
     {
@@ -16881,7 +16881,7 @@
         "activity": 221
       },
       "account_age_days": 1030,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 21
     },
     {
@@ -16916,7 +16916,7 @@
         "activity": 221
       },
       "account_age_days": 1835,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 16
     },
     {
@@ -16951,7 +16951,7 @@
         "activity": 212
       },
       "account_age_days": 1138,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 20
     },
     {
@@ -16983,8 +16983,8 @@
         "repos": 18,
         "activity": 207
       },
-      "account_age_days": 2563,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "account_age_days": 2564,
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 11
     },
     {
@@ -17016,7 +17016,7 @@
         "activity": 226
       },
       "account_age_days": 940,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 22
     },
     {
@@ -17051,7 +17051,7 @@
         "activity": 207
       },
       "account_age_days": 1876,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 15
     },
     {
@@ -17087,7 +17087,7 @@
         "activity": 202
       },
       "account_age_days": 2008,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 15
     },
     {
@@ -17119,7 +17119,7 @@
         "activity": 216
       },
       "account_age_days": 1733,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 16
     },
     {
@@ -17154,7 +17154,7 @@
         "activity": 216
       },
       "account_age_days": 1447,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 18
     },
     {
@@ -17189,7 +17189,7 @@
         "activity": 202
       },
       "account_age_days": 1220,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 20
     },
     {
@@ -17224,7 +17224,7 @@
         "activity": 202
       },
       "account_age_days": 1474,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 18
     },
     {
@@ -17259,7 +17259,7 @@
         "activity": 212
       },
       "account_age_days": 1613,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 17
     },
     {
@@ -17291,7 +17291,7 @@
         "activity": 212
       },
       "account_age_days": 867,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 22
     },
     {
@@ -17325,7 +17325,7 @@
         "activity": 212
       },
       "account_age_days": 3194,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 8
     },
     {
@@ -17359,7 +17359,7 @@
         "activity": 197
       },
       "account_age_days": 895,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 22
     },
     {
@@ -17392,7 +17392,7 @@
         "activity": 197
       },
       "account_age_days": 781,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 22
     },
     {
@@ -17424,7 +17424,7 @@
         "activity": 406
       },
       "account_age_days": 71,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 23
     },
     {
@@ -17458,7 +17458,7 @@
         "activity": 404
       },
       "account_age_days": 133,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 23
     },
     {
@@ -17492,7 +17492,7 @@
         "activity": 401
       },
       "account_age_days": 175,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 23
     },
     {
@@ -17527,7 +17527,7 @@
         "activity": 392
       },
       "account_age_days": 106,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 23
     },
     {
@@ -17561,7 +17561,7 @@
         "activity": 401
       },
       "account_age_days": 128,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 23
     },
     {
@@ -17594,7 +17594,7 @@
         "activity": 368
       },
       "account_age_days": 137,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 23
     },
     {
@@ -17628,7 +17628,7 @@
         "activity": 336
       },
       "account_age_days": 156,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 23
     },
     {
@@ -17661,7 +17661,7 @@
         "activity": 230
       },
       "account_age_days": 48,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 23
     },
     {
@@ -17695,7 +17695,7 @@
         "activity": 260
       },
       "account_age_days": 144,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 23
     },
     {
@@ -17729,7 +17729,7 @@
         "activity": 197
       },
       "account_age_days": 135,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 23
     },
     {
@@ -17762,7 +17762,7 @@
         "activity": 202
       },
       "account_age_days": 125,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 23
     },
     {
@@ -17791,7 +17791,7 @@
         "activity": 202
       },
       "account_age_days": 70,
-      "last_updated": "2026-07-04T10:43:34.918Z",
+      "last_updated": "2026-07-04T11:35:02.706Z",
       "_batch": 23
     }
   ]

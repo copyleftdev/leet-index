@@ -1,5 +1,6 @@
 import { cache, CACHE_KEYS } from './cache.js';
 import { computeScore, getTier } from './score.js';
+import { computeStreak, inferState, inferTags } from './profile-signals.js';
 
 const BASE = 'https://api.github.com';
 const MEANINGFUL = new Set(['PushEvent', 'PullRequestEvent', 'IssuesEvent', 'ReleaseEvent']);
@@ -25,8 +26,7 @@ export async function checkGitHubProfile(username, token) {
   const cached = cache.get(cacheKey);
   if (cached) return cached;
 
-  // Single GraphQL query — 1 API call instead of 3 REST calls
-  // Falls back to REST if GraphQL is unavailable
+  // Fetch the public profile, recent events, and public repositories in parallel.
   const [profile, events, repos] = await Promise.all([
     ghFetch(`${BASE}/users/${username}`, token),
     ghFetch(`${BASE}/users/${username}/events/public?per_page=100`, token),
@@ -79,7 +79,8 @@ export async function checkGitHubProfile(username, token) {
     account_age_days: Math.floor(accountAgeDays),
   };
 
-  const { total, tier, breakdown } = computeScore(profileData);
+  const { total, breakdown } = computeScore(profileData);
+  const tier = getTier(total);
 
   // Streak: consecutive days with activity
   const activeDays = new Set(
@@ -100,6 +101,7 @@ export async function checkGitHubProfile(username, token) {
     events_30d: meaningful30.length,
     total_stars: totalStars,
     top_languages: topLangs,
+    tags: inferTags(repos),
     streak_days: streakDays,
     score_breakdown: breakdown,
     achievements: computeAchievements({ total_stars: totalStars, followers: profile.followers, streakDays, tier }),
@@ -119,19 +121,6 @@ export async function checkGitHubProfile(username, token) {
   return result;
 }
 
-function computeStreak(activeDaySet) {
-  const today = new Date();
-  let streak = 0;
-  for (let i = 0; i < 100; i++) {
-    const d = new Date(today);
-    d.setDate(d.getDate() - i);
-    const key = d.toISOString().slice(0, 10);
-    if (activeDaySet.has(key)) streak++;
-    else if (i > 0) break;
-  }
-  return streak;
-}
-
 function computeAchievements({ total_stars, followers, streakDays, tier }) {
   const a = [];
   if (total_stars >= 10000) a.push('STARS_10K');
@@ -144,42 +133,4 @@ function computeAchievements({ total_stars, followers, streakDays, tier }) {
   else if (streakDays >= 7) a.push('STREAK_7');
   if (tier === 'LEGEND') a.push('LEGEND_TIER');
   return a;
-}
-
-const US_STATES = {
-  'alabama': 'AL', 'alaska': 'AK', 'arizona': 'AZ', 'arkansas': 'AR',
-  'california': 'CA', 'colorado': 'CO', 'connecticut': 'CT', 'delaware': 'DE',
-  'florida': 'FL', 'georgia': 'GA', 'hawaii': 'HI', 'idaho': 'ID',
-  'illinois': 'IL', 'indiana': 'IN', 'iowa': 'IA', 'kansas': 'KS',
-  'kentucky': 'KY', 'louisiana': 'LA', 'maine': 'ME', 'maryland': 'MD',
-  'massachusetts': 'MA', 'michigan': 'MI', 'minnesota': 'MN', 'mississippi': 'MS',
-  'missouri': 'MO', 'montana': 'MT', 'nebraska': 'NE', 'nevada': 'NV',
-  'new hampshire': 'NH', 'new jersey': 'NJ', 'new mexico': 'NM', 'new york': 'NY',
-  'north carolina': 'NC', 'north dakota': 'ND', 'ohio': 'OH', 'oklahoma': 'OK',
-  'oregon': 'OR', 'pennsylvania': 'PA', 'rhode island': 'RI', 'south carolina': 'SC',
-  'south dakota': 'SD', 'tennessee': 'TN', 'texas': 'TX', 'utah': 'UT',
-  'vermont': 'VT', 'virginia': 'VA', 'washington': 'WA', 'west virginia': 'WV',
-  'wisconsin': 'WI', 'wyoming': 'WY', 'dc': 'DC', 'washington dc': 'DC',
-  // City shortcuts
-  'san francisco': 'CA', 'sf': 'CA', 'los angeles': 'CA', 'la': 'CA', 'san jose': 'CA',
-  'seattle': 'WA', 'new york city': 'NY', 'nyc': 'NY', 'brooklyn': 'NY',
-  'austin': 'TX', 'dallas': 'TX', 'houston': 'TX',
-  'chicago': 'IL', 'boston': 'MA', 'denver': 'CO', 'portland': 'OR',
-  'atlanta': 'GA', 'miami': 'FL', 'phoenix': 'AZ', 'minneapolis': 'MN',
-  'nashville': 'TN', 'raleigh': 'NC', 'charlotte': 'NC',
-};
-
-function inferState(location) {
-  if (!location) return null;
-  const l = location.toLowerCase().trim();
-  // Check two-letter abbr at end
-  const m = l.match(/\b([a-z]{2})\s*$/);
-  if (m) {
-    const abbr = m[1].toUpperCase();
-    if (Object.values(US_STATES).includes(abbr)) return abbr;
-  }
-  for (const [name, abbr] of Object.entries(US_STATES)) {
-    if (l.includes(name)) return abbr;
-  }
-  return null;
 }

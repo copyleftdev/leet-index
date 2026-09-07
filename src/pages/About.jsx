@@ -32,20 +32,20 @@ export default function About({ onChangeTab }) {
       <div>
         <h1 className="font-display text-2xl font-bold text-ink-1 tracking-tight mb-1">About LeetIndex</h1>
         <p className="text-sm text-ink-3 max-w-prose leading-relaxed">
-          LeetIndex is the definitive daily index of active US-based developers on GitHub. It crawls public
-          profile data, applies a transparent scoring formula, and publishes a ranked leaderboard — updated
-          continuously via 24 rolling hourly batches.
+          LeetIndex is an activity-aware index of US-based developers discovered through GitHub's public APIs.
+          It applies a transparent scoring formula and publishes a ranked leaderboard, updated continuously
+          through 24 rolling hourly batches.
         </p>
       </div>
 
       <Section title="HOW IT WORKS">
         <p>
           The pipeline runs entirely in GitHub Actions. Each hour, one batch processes a cohort of developer
-          accounts grouped by creation date. Over 24 hours, every developer in the index is re-evaluated.
+          accounts grouped by creation date. Over 24 hours, the pipeline revisits all 24 candidate cohorts.
         </p>
         <Table rows={[
           ['Discover',   'Search GitHub for US-located developers in the batch\'s creation-date window'],
-          ['Fetch',      'Pull profile, public events (last 60 days), repos, and social links'],
+          ['Fetch',      'Pull profile, recent public events, and public repositories'],
           ['Score',      'Apply the weighted formula — same math as the Register score preview'],
           ['Filter',     'Drop developers who don\'t meet eligibility thresholds'],
           ['Publish',    'Merge batch results into data.json — leaderboard updates live'],
@@ -62,14 +62,14 @@ export default function About({ onChangeTab }) {
           ['Followers',     '> 1 follower'],
         ]} />
         <p className="mt-2">
-          Developers who set their GitHub location to a US city or state are caught by the pipeline.
-          If your profile says "San Francisco" without a country, you may not be indexed automatically —{' '}
+          Automatic discovery is strongest when a GitHub location includes "United States". Profiles that
+          list only a city or state may not appear in GitHub's search results —{' '}
           <button
             type="button"
             onClick={() => onChangeTab('register')}
             className="text-amber hover:opacity-80 transition-opacity underline underline-offset-2"
           >
-            use Register to check
+            use Register to preview your eligibility and score
           </button>.
         </p>
       </Section>
@@ -78,12 +78,12 @@ export default function About({ onChangeTab }) {
         <p>
           GitHub's user search API caps results at 1,000 per query. LeetIndex splits searches across 24 date
           ranges (by account creation date from 2000 to present), keeping each batch under the cap.
-          One batch runs per hour, completing a full US developer sweep every 24 hours.
+          One batch runs per hour, completing a pass through all 24 candidate cohorts each day.
         </p>
         <p>
-          Searches use <code className="text-amber">location:"united states"</code> as the primary filter,
-          supplemented by the top 50 US cities and states to catch developers who set their location without
-          a country name.
+          Searches currently use <code className="text-amber">location:"united states"</code>. Because GitHub
+          locations are free-form strings, this favors profiles that name the country and may miss city-only
+          profiles. State and city parsing happens after discovery to power map and state-filter metadata.
         </p>
       </Section>
 
@@ -91,7 +91,8 @@ export default function About({ onChangeTab }) {
         <p>
           The pipeline itself runs server-side in GitHub Actions using a dedicated token (5,000 req/hr).
           The Register tab makes GitHub API calls directly from your browser using your IP's anonymous
-          quota (60 req/hr) — or 5,000/hr if you provide a personal token with read-only public_repo scope.
+          quota (60 req/hr) — or an authenticated quota if you provide a fine-grained token with no
+          repository permissions.
         </p>
         <p>
           The leaderboard display reads from a static <code className="text-amber">data.json</code> —

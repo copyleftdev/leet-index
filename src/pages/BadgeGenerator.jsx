@@ -73,7 +73,7 @@ export default function BadgeGenerator({ initialUsername, onInitialUsernameConsu
       <div className="mb-6">
         <h1 className="font-display text-2xl font-bold text-ink-1 tracking-tight mb-1">Badge Generator</h1>
         <p className="text-sm text-ink-3 max-w-prose">
-          Add your LeetIndex rank to your GitHub profile README. The badge updates automatically as your rank changes.
+          Add your current LeetIndex rank to a GitHub profile README, or use the included Worker for a live badge.
         </p>
       </div>
 

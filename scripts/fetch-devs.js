@@ -2,6 +2,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { computeScore, getTier, meetsEligibility, MEANINGFUL } from './score.js';
+import { computeStreak, inferState, inferTags } from '../src/utils/profile-signals.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
@@ -18,9 +19,9 @@ const INACTIVE_DAYS = 60;
 // candidates first. ~150 users × 3 calls = ~450 req/batch, 24 batches/day.
 const MAX_USERS_PER_BATCH = 150;
 
-// 24 US search batches — one per hourly run
-// location:"united states" catches devs who set their country
-// plus major city aliases for those who set city only
+// 24 US search batches — one per hourly run. Candidate discovery currently
+// depends on GitHub matching location:"united states"; state/city parsing is
+// applied after discovery for map and filter metadata.
 const SEARCH_BATCHES = [
   { label: 'US 2000-Jun2013',    q: 'location:"united states" type:user repos:>3 followers:>1 created:2000-01-01..2013-06-30' },
   { label: 'US Jul2013-Jun2014', q: 'location:"united states" type:user repos:>3 followers:>1 created:2013-07-01..2014-06-30' },
@@ -139,8 +140,7 @@ async function fetchUserData(login) {
   return { profile, events: events ?? [], repos: repos ?? [] };
 }
 
-function processUser({ profile, events, repos }) {
-  const now = Date.now();
+export function processUser({ profile, events, repos }, now = Date.now()) {
   const cutoff60 = now - INACTIVE_DAYS * 24 * 60 * 60 * 1000;
   const cutoff30 = now - 30 * 24 * 60 * 60 * 1000;
 
@@ -158,12 +158,14 @@ function processUser({ profile, events, repos }) {
   const accountAgeDays = (now - new Date(profile.created_at).getTime()) / (24 * 60 * 60 * 1000);
   const totalStars     = repos.reduce((s, r) => s + (r.stargazers_count || 0), 0);
   const topLangs       = [...new Set(repos.map((r) => r.language).filter(Boolean))].slice(0, 5);
+  const activeDays     = new Set(m60.map((e) => new Date(e.created_at).toISOString().slice(0, 10)));
 
   const devData = {
     username: profile.login,
     name: profile.name,
     avatar_url: profile.avatar_url,
     location: profile.location,
+    state: inferState(profile.location),
     followers: profile.followers,
     public_repos: profile.public_repos,
     events_30d: m30.length,
@@ -172,6 +174,8 @@ function processUser({ profile, events, repos }) {
     account_age_days: Math.floor(accountAgeDays),
     total_stars: totalStars,
     top_languages: topLangs,
+    streak_days: computeStreak(activeDays, new Date(now)),
+    tags: inferTags(repos),
   };
 
   if (!meetsEligibility(devData)) return null;

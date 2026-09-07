@@ -56,7 +56,8 @@ export default function Register({ onChangeTab }) {
         <h1 className="font-display text-2xl font-bold text-ink-1 tracking-tight mb-1">Register</h1>
         <p className="text-sm text-ink-3 max-w-prose">
           Check whether a GitHub profile meets the indexing criteria and see an estimated score breakdown.
-          Profiles that pass are automatically picked up during the next hourly batch.
+          This check is a private preview and does not submit the profile. Eligible profiles appear when the
+          hourly GitHub search discovers them.
         </p>
       </div>
 
@@ -109,13 +110,13 @@ export default function Register({ onChangeTab }) {
                 type="password"
                 value={token}
                 onChange={(e) => setToken(e.target.value)}
-                placeholder="ghp_xxxxxxxxxxxxxxxxxxxx"
+                placeholder="github_pat_xxxxxxxxxxxx"
                 className="w-full bg-canvas-2 border border-edge-2 focus:border-amber focus:outline-none text-sm font-body text-ink-1 placeholder:text-ink-3 px-3 py-2 transition-colors"
                 style={{ borderRadius: 0 }}
               />
               <p className="text-xs text-ink-3 mt-1">
-                Read-only public_repo scope only. Token stays in your browser — never sent to any server.
-                Anonymous calls are limited to 60/hr per IP.
+                Use a fine-grained token with no repository permissions. It stays in your browser and is sent
+                only to GitHub's API. Anonymous calls are limited to 60/hr per IP.
               </p>
             </div>
           )}

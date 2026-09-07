@@ -1,10 +1,10 @@
-const TIERS = [
-  { label: 'LEGEND',  min: 1200, color: 'var(--tier-legend)' },
-  { label: 'RELEASE', min: 700,  color: 'var(--tier-release)' },
-  { label: 'MERGE',   min: 350,  color: 'var(--tier-merge)' },
-  { label: 'COMMIT',  min: 150,  color: 'var(--tier-commit)' },
-  { label: 'INIT',    min: 0,    color: 'var(--tier-init)' },
-];
+import scoreConfig from '../../score-config.json' with { type: 'json' };
+
+const TIERS = ['LEGEND', 'RELEASE', 'MERGE', 'COMMIT', 'INIT'].map((label) => ({
+  label,
+  min: scoreConfig.tiers[label].min,
+  color: `var(--tier-${label.toLowerCase()})`,
+}));
 
 export function getTier(score) {
   for (const t of TIERS) {
